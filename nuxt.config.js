@@ -11,11 +11,13 @@ export default defineNuxtConfig({
     ],
     defaultLocale: 'en',
     langDir: 'locales/',
-    strategy: 'prefix_and_default',
+    strategy: 'prefix_except_default',
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'i18n_redirected',
-      redirectOn: 'root'
+      redirectOn: 'root',
+      alwaysRedirect: true,
+      fallbackLocale: 'en'
     }
   },
 
@@ -55,5 +57,15 @@ gtag('config', 'G-1HQ0Z411FN');`,
     }
   },
 
-  compatibilityDate: '2025-02-15'
+  compatibilityDate: '2025-02-15',
+
+  nitro: {
+    prerender: {
+      routes: ['/', '/zh']
+    }
+  },
+
+  generate: {
+    routes: ['/', '/zh']
+  }
 })
