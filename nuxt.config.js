@@ -28,6 +28,29 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/images/avatar.png' }
+      ],
+      script: [
+        {
+          children: `var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?7a62c30a1a3fd1c012009e308457c228";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();`,
+          type: 'text/javascript'
+        },
+        {
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-1HQ0Z411FN',
+          async: true
+        },
+        {
+          children: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1HQ0Z411FN');`,
+          type: 'text/javascript'
+        }
       ]
     }
   },
