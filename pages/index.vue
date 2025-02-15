@@ -65,15 +65,15 @@
           <a v-for="project in config.openSource" 
              :key="project.name"
              :href="project.link"
-             class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
+             class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1 flex flex-col h-full">
             <div class="flex items-start justify-between mb-3 sm:mb-4">
               <div class="flex items-center gap-2">
                 <span class="font-bold text-base sm:text-lg group-hover:text-blue-600 transition-colors duration-300">{{ project.name }}</span>
               </div>
               <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
             </div>
-            <p class="text-sm text-gray-600 mb-3 sm:mb-4 group-hover:text-gray-900 transition-colors duration-300">{{ project.description[locale] }}</p>
-            <div class="flex items-center gap-4 text-sm">
+            <p class="text-sm text-gray-600 mb-3 sm:mb-4 group-hover:text-gray-900 transition-colors duration-300 flex-1">{{ project.description[locale] }}</p>
+            <div class="flex items-center gap-4 text-sm mt-auto">
               <div class="flex items-center gap-1.5 transform group-hover:scale-110 transition-transform duration-300">
                 <StarIcon class="h-4 w-4 text-amber-500" />
                 <span class="text-gray-600 group-hover:text-gray-900 transition-colors duration-300">{{ project.stars }}</span>
