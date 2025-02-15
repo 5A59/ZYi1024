@@ -120,9 +120,12 @@ import { siteConfig } from '~/config/site'
 import { ref, onMounted } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { StarIcon } from '@heroicons/vue/24/solid'
+import { useRoute, useRouter } from 'vue-router'
 
 const config = ref(siteConfig)
 const isLangMenuOpen = ref(false)
+const router = useRouter()
+const route = useRoute()
 
 const { locale, t } = useI18n()
 
@@ -137,9 +140,18 @@ const currentLocale = computed(() => locale.value)
 
 // 切换语言
 function changeLocale(newLocale) {
-  locale.value = newLocale
+  // 获取当前路径
+  const currentPath = route.fullPath
+  const pathWithoutLocale = currentPath.replace(/^\/[a-z]{2}/, '')
+  
+  // 构建新的URL路径
+  const newPath = newLocale === 'en' ? pathWithoutLocale : `/${newLocale}${pathWithoutLocale}`
+  
+  // 使用navigateTo进行导航
+  navigateTo(newPath)
   isLangMenuOpen.value = false
-  // 可以在这里保存用户的语言偏好到 localStorage
+  
+  // 保存语言偏好
   localStorage.setItem('preferred-locale', newLocale)
 }
 
@@ -148,14 +160,18 @@ onMounted(() => {
   // 首先检查是否有保存的语言偏好
   const savedLocale = localStorage.getItem('preferred-locale')
   if (savedLocale && availableLocales.some(l => l.code === savedLocale)) {
-    locale.value = savedLocale
+    const currentLocale = route.path.split('/')[1] || 'en'
+    
+    if (savedLocale !== currentLocale) {
+      changeLocale(savedLocale)
+    }
     return
   }
 
-  // 否则检测浏览器语言
+  // 检测浏览器语言
   const browserLang = navigator.language.split('-')[0]
-  if (availableLocales.some(l => l.code === browserLang)) {
-    locale.value = browserLang
+  if (availableLocales.some(l => l.code === browserLang) && browserLang !== 'en') {
+    changeLocale(browserLang)
   }
 })
 
