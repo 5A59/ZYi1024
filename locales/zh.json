@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "directory": "目录指南",
+    "mentor": "导师课程",
+    "newsletter": "订阅通讯"
+  },
+  "sections": {
+    "openSource": "开源项目",
+    "projects": "产品",
+    "contact": "联系方式"
+  }
+} 

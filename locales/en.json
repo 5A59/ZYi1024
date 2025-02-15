@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "directory": "Directory Guide",
+    "mentor": "Mentor Session",
+    "newsletter": "Newsletter"
+  },
+  "sections": {
+    "openSource": "Open Source",
+    "projects": "Released projects",
+    "contact": "Contact"
+  }
+} 
