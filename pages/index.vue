@@ -24,62 +24,63 @@
       </div>
 
       <!-- 个人介绍 -->
-      <div class="mb-16 sm:mb-20">
-        <div class="flex flex-col-reverse sm:flex-row items-center sm:items-start gap-8 sm:gap-12 mb-8 sm:mb-12">
+      <div class="mb-12 sm:mb-16">
+        <div class="flex flex-col-reverse sm:flex-row items-center sm:items-start gap-6 sm:gap-10 mb-6 sm:mb-10">
           <div class="flex-1 text-center sm:text-left">
-            <h1 class="text-3xl sm:text-4xl font-bold mb-4 sm:mb-6">Hi, I'm {{ config.name }}</h1>
-            <p class="text-lg sm:text-xl text-gray-700 font-medium mb-3 sm:mb-4">{{ config.bio[locale] }}</p>
-            <p class="text-base sm:text-lg text-gray-600 leading-relaxed">{{ config.introduction[locale] }}</p>
+            <h1 class="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4">Hi, I'm {{ config.name }}</h1>
+            <p class="text-base sm:text-lg text-gray-700 font-medium mb-2 sm:mb-3">{{ config.bio[locale] }}</p>
+            <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ config.introduction[locale] }}</p>
           </div>
-          <div class="relative group w-32 sm:w-40">
+          <div class="relative group w-24 sm:w-32">
             <img src="/public/images/avatar.png" alt="avatar" 
-                 class="w-32 h-32 sm:w-40 sm:h-40 rounded-2xl object-cover shadow-lg transform group-hover:scale-105 transition-all duration-300" />
-            <div class="absolute inset-0 rounded-2xl bg-gradient-to-tr from-blue-600/20 to-purple-600/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                 class="w-24 h-24 sm:w-32 sm:h-32 rounded-xl object-cover shadow-lg transform group-hover:scale-105 transition-all duration-300" />
+            <div class="absolute inset-0 rounded-xl bg-gradient-to-tr from-blue-600/20 to-purple-600/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           </div>
         </div>
       </div>
 
       <!-- 项目展示 -->
-      <div class="mb-16 sm:mb-20">
-        <h2 class="text-xl font-medium mb-6 sm:mb-8">{{ t('sections.projects') }}</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+      <div class="mb-12 sm:mb-16">
+        <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.projects') }}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
           <a v-for="project in config.products" 
              :key="project.name"
              :href="project.link"
-             class="group block p-4 sm:p-6 bg-white border border-gray-200 rounded-2xl hover:border-gray-300">
+             class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
             <div class="flex items-start justify-between mb-3 sm:mb-4">
-              <img :src="getFavicon(project.link)" :alt="project.name" class="w-10 sm:w-12 h-10 sm:h-12 rounded-xl bg-gray-50 p-2" />
-              <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600"></div>
+              <img :src="getFavicon(project.link)" :alt="project.name" 
+                   class="w-10 sm:w-12 h-10 sm:h-12 rounded-lg bg-gray-50 p-2 transform group-hover:scale-110 transition-transform duration-300" />
+              <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
             </div>
-            <h3 class="font-medium mb-2">{{ project.name }}</h3>
-            <p class="text-sm text-gray-600">{{ project.description }}</p>
+            <h3 class="font-bold text-base sm:text-lg mb-2 group-hover:text-blue-600 transition-colors duration-300">{{ project.name }}</h3>
+            <p class="text-sm text-gray-600 group-hover:text-gray-900 transition-colors duration-300">{{ project.description[locale] }}</p>
           </a>
         </div>
       </div>
 
       <!-- 开源项目 -->
-      <div class="mb-16 sm:mb-20">
-        <h2 class="text-xl font-medium mb-6 sm:mb-8">{{ t('sections.openSource') }}</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+      <div class="mb-12 sm:mb-16">
+        <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.openSource') }}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
           <a v-for="project in config.openSource" 
              :key="project.name"
              :href="project.link"
-             class="group block p-4 sm:p-6 bg-white border border-gray-200 rounded-2xl hover:border-gray-300">
+             class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
             <div class="flex items-start justify-between mb-3 sm:mb-4">
               <div class="flex items-center gap-2">
-                <span class="font-medium">{{ project.name }}</span>
+                <span class="font-bold text-base sm:text-lg group-hover:text-blue-600 transition-colors duration-300">{{ project.name }}</span>
               </div>
-              <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600"></div>
+              <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
             </div>
-            <p class="text-sm text-gray-600 mb-3 sm:mb-4">{{ project.description }}</p>
+            <p class="text-sm text-gray-600 mb-3 sm:mb-4 group-hover:text-gray-900 transition-colors duration-300">{{ project.description[locale] }}</p>
             <div class="flex items-center gap-4 text-sm">
-              <div class="flex items-center gap-1.5">
+              <div class="flex items-center gap-1.5 transform group-hover:scale-110 transition-transform duration-300">
                 <StarIcon class="h-4 w-4 text-amber-500" />
-                <span class="text-gray-600">{{ project.stars }}</span>
+                <span class="text-gray-600 group-hover:text-gray-900 transition-colors duration-300">{{ project.stars }}</span>
               </div>
-              <div class="flex items-center gap-1.5">
+              <div class="flex items-center gap-1.5 transform group-hover:scale-110 transition-transform duration-300">
                 <div class="i-heroicons-code-bracket h-4 w-4 text-indigo-500"></div>
-                <span class="text-gray-600">{{ project.language }}</span>
+                <span class="text-gray-600 group-hover:text-gray-900 transition-colors duration-300">{{ project.language }}</span>
               </div>
             </div>
           </a>
@@ -87,17 +88,26 @@
       </div>
 
       <!-- 联系方式 -->
-      <div class="mb-16 sm:mb-20">
-        <h2 class="text-xl font-medium mb-6 sm:mb-8">{{ t('sections.contact') }}</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+      <div class="mb-12 sm:mb-16">
+        <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.contact') }}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
           <a v-for="contact in config.contactLinks" 
              :key="contact.platform"
              :href="contact.url"
              target="_blank"
-             class="group flex items-center gap-3 p-4 bg-white border border-gray-200 rounded-2xl hover:border-gray-300">
-            <img :src="getFavicon(contact.url)" class="w-6 h-6 rounded-full bg-gray-50" />
-            <span class="font-medium text-gray-900">{{ contact.platform }}</span>
-            <div class="ml-auto i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600"></div>
+             class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
+            <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
+            <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
+            <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
+            
+            <!-- 二维码悬浮框 -->
+            <div v-if="contact.qrcode" 
+                 class="absolute left-1/2 bottom-full -translate-x-1/2 mb-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:-translate-y-2">
+              <div class="bg-white rounded-lg shadow-xl p-2 border border-gray-100">
+                <img :src="contact.qrcode" :alt="contact.platform" class="w-32 h-32 object-cover" />
+                <div class="absolute -bottom-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-white border-b border-r border-gray-100 transform rotate-45"></div>
+              </div>
+            </div>
           </a>
         </div>
       </div>

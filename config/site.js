@@ -11,26 +11,38 @@ export const siteConfig = {
   },
   products: [
     {
-      name: "formilot.com",
-      description: "一键填充表单，解决繁琐的填写烦恼",
+      name: "formilot",
+      description: {
+        zh: "一键填充表单，解决繁琐的填写烦恼",
+        en: "One-click form filling, solving tedious form-filling problems"
+      },
       link: "https://formilot.com",
       icon: "/images/products/formilot.png"
     },
     {
       name: "wand.tools",
-      description: "一些列 AI 工具集",
+      description: {
+        zh: "一些列 AI 工具集",
+        en: "A collection of AI tools"
+      },
       link: "https://wand.tools",
       icon: "/images/products/wand.png"
     },
     {
       name: "talkto.ceo",
-      description: "和 AI CEO 对话，解决你的烦恼",
+      description: {
+        zh: "和 AI CEO 对话，解决你的烦恼",
+        en: "Chat with AI CEO to solve your problems"
+      },
       link: "https://talkto.ceo",
       icon: "/images/products/talkto.png"
     },
     {
       name: "mailin.fun",
-      description: "和麦麦对话，仅供娱乐",
+      description: {
+        zh: "和麦麦对话，仅供娱乐",
+        en: "Chat with Maimai, just for fun"
+      },
       link: "https://mailin.fun",
       icon: "/images/products/mailin.png"
     }
@@ -39,66 +51,72 @@ export const siteConfig = {
   openSource: [
     {
       name: "Zvm",
-      description: "一款 python 实现的 \"超轻量级\" jvm 的实现",
+      description: {
+        zh: "一款 python 实现的【超轻量级】jvm 的实现",
+        en: "An \"ultra-lightweight\" JVM implementation in Python"
+      },
       link: "https://github.com/5A59/Zvm",
       stars: "457",
       language: "python"
     },
     {
       name: "Android-Train",
-      description: "Android 中高级教程",
+      description: {
+        zh: "Android 开发中高级教程",
+        en: "Intermediate and Advanced Android Tutorial"
+      },
       link: "https://github.com/5A59/android-training",
       stars: "950",
       language: "Java"
     },
     {
       name: "SketchyComponent",
-      description: "一组 手绘风格 的 Android 组件库",
+      description: {
+        zh: "一组【手绘风格】的 Android 组件库",
+        en: "A set of hand-drawn style Android component libraries"
+      },
       link: "https://github.com/5A59/SketchyComponent",
       stars: "370",
       language: "Java"
     }
   ],
-  skills: {
-    languages: ["Go", "Java", "JavaScript", "Python"],
-    frameworks: ["Vue.js", "Spring Boot", "Flutter"],
-    tools: ["Docker", "Kubernetes", "Git"]
-  },
   contactLinks: [
     {
       platform: "X",
-      url: "https://x.com/ZYi2025",
-      icon: "i-simple-icons-x"
+      url: "https://x.com/ZYi1024",
+      icon: "i-simple-icons-x",
     },
     {
       platform: "GitHub",
       url: "https://github.com/5A59",
-      icon: "i-simple-icons-github"
+      icon: "i-simple-icons-github",
     },
     {
       platform: "WeiBo",
       url: "https://weibo.com/u/5075434888",
-      icon: "i-simple-icons-sinaweibo"
+      icon: "i-simple-icons-sinaweibo",
     },
     {
       platform: "DouYin",
       url: "https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw",
-      icon: "i-simple-icons-tiktok"
+      icon: "i-simple-icons-tiktok",
+      qrcode: "/images/douyin.png"
     },
     {
       platform: "Redbook",
       url: "https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4",
-      icon: "i-simple-icons-xiaohongshu"
+      icon: "i-simple-icons-xiaohongshu",
+      qrcode: "/images/redbook.png"
     },
     {
       platform: "Bilibili",
       url: "https://space.bilibili.com/20667846",
-      icon: "i-simple-icons-bilibili"
+      icon: "i-simple-icons-bilibili",
     },
     {
       platform: "ZhiHu",
       url: "https://www.zhihu.com/people/5a59",
-      icon: "i-simple-icons-zhihu"
+      icon: "i-simple-icons-zhihu",
     }
   ]
 } 

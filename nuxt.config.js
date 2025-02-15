@@ -16,13 +16,13 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Personal Website',
+      title: 'ZYi1024',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+        { rel: 'icon', type: 'image/png', href: '/images/avatar.png' }
       ]
     }
   },
