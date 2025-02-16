@@ -3,9 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
+    "update-readme": "node scripts/generateReadme.cjs",
     "dev": "nuxt dev",
-    "build": "nuxt build",
-    "generate": "nuxt generate",
+    "build": "npm run update-readme && nuxt build",
+    "generate": "npm run update-readme && nuxt generate",
     "preview": "nuxt preview"
   },
   "dependencies": {

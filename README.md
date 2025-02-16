@@ -1,47 +1,115 @@
-# Personal Website
+# 张翼 ZYi | ZYi
 
-基于 Nuxt.js 构建的个人主页网站，支持中英文切换，内容可配置。
+[English](#english) | [中文](#chinese)
 
-## 功能特点
+<h2 id="chinese">中文介绍</h2>
 
-- 🌍 中英文双语支持
-- 🎨 现代化UI设计
-- ⚡️ 基于 Nuxt.js 3.0
-- 🔧 内容可配置
-- 📱 响应式设计
+程序员 | 连续创业者 | 前美团技术专家
 
-## 开始使用
+The only thing we have to fear is fear itself.
 
-1. 安装依赖：
-```bash
-npm install
-```
+### 🚀 产品作品
 
-2. 开发模式：
-```bash
-npm run dev
-```
+#### formilot
+一键填充表单，解决繁琐的填写烦恼
+🔗 [访问链接](https://formilot.com)
 
-3. 构建生产版本：
-```bash
-npm run build
-```
+#### wand.tools
+一些列 AI 工具集
+🔗 [访问链接](https://wand.tools)
 
-## 配置说明
+#### talkto.ceo
+和 AI CEO 对话，解决你的烦恼
+🔗 [访问链接](https://talkto.ceo)
 
-所有可配置的内容都在 `config/site.ts` 文件中，包括：
+#### mailin.fun
+和麦麦对话，仅供娱乐
+🔗 [访问链接](https://mailin.fun)
 
-- 个人信息（头像、姓名、简介）
-- 产品列表
-- 社交媒体链接
-- 统计数据
+### 🌟 开源项目
 
-修改配置文件后会自动更新网站内容。
+#### Zvm
+一款 python 实现的【超轻量级】jvm 的实现
+- 🔗 [GitHub](https://github.com/5A59/Zvm)
+- ⭐ Stars: 457
+- 💻 Language: python
 
-## 技术栈
+#### Android-Train
+Android 开发中高级教程
+- 🔗 [GitHub](https://github.com/5A59/android-training)
+- ⭐ Stars: 950
+- 💻 Language: Java
 
-- Nuxt.js 3.0
-- Vue 3
-- TypeScript
-- Tailwind CSS
-- i18n
+#### SketchyComponent
+一组【手绘风格】的 Android 组件库
+- 🔗 [GitHub](https://github.com/5A59/SketchyComponent)
+- ⭐ Stars: 370
+- 💻 Language: Java
+
+### 📱 社交媒体
+
+- [X](https://x.com/ZYi1024)
+- [GitHub](https://github.com/5A59)
+- [WeiBo](https://weibo.com/u/5075434888)
+- [DouYin](https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw)
+- [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
+- [Bilibili](https://space.bilibili.com/20667846)
+- [ZhiHu](https://www.zhihu.com/people/5a59)
+
+
+---
+
+<h2 id="english">English Introduction</h2>
+
+Programmer | Serial Entrepreneur | Former Tech Lead at Meituan
+
+The only thing we have to fear is fear itself.
+
+### 🚀 Products
+
+#### formilot
+One-click form filling, solving tedious form-filling problems
+🔗 [Visit](https://formilot.com)
+
+#### wand.tools
+A collection of AI tools
+🔗 [Visit](https://wand.tools)
+
+#### talkto.ceo
+Chat with AI CEO to solve your problems
+🔗 [Visit](https://talkto.ceo)
+
+#### mailin.fun
+Chat with Maimai, just for fun
+🔗 [Visit](https://mailin.fun)
+
+### 🌟 Open Source Projects
+
+#### Zvm
+An "ultra-lightweight" JVM implementation in Python
+- 🔗 [GitHub](https://github.com/5A59/Zvm)
+- ⭐ Stars: 457
+- 💻 Language: python
+
+#### Android-Train
+Intermediate and Advanced Android Tutorial
+- 🔗 [GitHub](https://github.com/5A59/android-training)
+- ⭐ Stars: 950
+- 💻 Language: Java
+
+#### SketchyComponent
+A set of hand-drawn style Android component libraries
+- 🔗 [GitHub](https://github.com/5A59/SketchyComponent)
+- ⭐ Stars: 370
+- 💻 Language: Java
+
+### 📱 Social Media
+
+- [X](https://x.com/ZYi1024)
+- [GitHub](https://github.com/5A59)
+- [WeiBo](https://weibo.com/u/5075434888)
+- [DouYin](https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw)
+- [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
+- [Bilibili](https://space.bilibili.com/20667846)
+- [ZhiHu](https://www.zhihu.com/people/5a59)
+
