@@ -27,7 +27,7 @@
       <div class="mb-12 sm:mb-16">
         <div class="flex flex-col-reverse sm:flex-row items-center sm:items-start gap-6 sm:gap-10 mb-6 sm:mb-10">
           <div class="flex-1 text-center sm:text-left">
-            <h1 class="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4">Hi, I'm {{ config.name }}</h1>
+            <h1 class="text-2xl sm:text-3xl font-bold mb-3 sm:mb-4">Hi, I'm {{ config.name[locale] }}</h1>
             <p class="text-base sm:text-lg text-gray-700 font-medium mb-2 sm:mb-3">{{ config.bio[locale] }}</p>
             <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{{ config.introduction[locale] }}</p>
           </div>

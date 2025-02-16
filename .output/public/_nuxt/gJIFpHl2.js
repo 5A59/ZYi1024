@@ -1,1 +1,0 @@
-import{J as o,j as t,t as s,v as l,T as c}from"./CnEN5qP0.js";const d={__name:"default",setup(n){const{locale:r,locales:a}=o();return t(()=>a.value.map(e=>({code:e.code,name:e.name}))),(e,u)=>(l(),s("div",null,[c(e.$slots,"default")]))}};export{d as default};

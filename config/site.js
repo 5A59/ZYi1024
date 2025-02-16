@@ -1,5 +1,8 @@
 export const siteConfig = {
-  name: "张翼 ZYi",
+  name: {
+    zh: "张翼 ZYi",
+    en: "ZYi"
+  },
   avatar: "/images/avatar.jpg",
   bio: {
     zh: "程序员 | 连续创业者 | 前美团技术专家",
