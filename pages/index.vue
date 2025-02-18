@@ -91,24 +91,43 @@
       <div class="mb-12 sm:mb-16">
         <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.contact') }}</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
-          <a v-for="contact in config.contactLinks" 
-             :key="contact.platform"
-             :href="contact.url"
-             target="_blank"
-             class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
-            <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
-            <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
-            <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
-            
-            <!-- 二维码悬浮框 -->
-            <div v-if="contact.qrcode" 
-                 class="absolute left-1/2 bottom-full -translate-x-1/2 mb-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:-translate-y-2">
-              <div class="bg-white rounded-lg shadow-xl p-2 border border-gray-100">
-                <img :src="contact.qrcode" :alt="contact.platform" class="w-32 h-32 object-cover" />
-                <div class="absolute -bottom-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-white border-b border-r border-gray-100 transform rotate-45"></div>
+          <template v-for="contact in config.contactLinks" :key="contact.platform">
+            <!-- 对于不需要链接的项使用 div -->
+            <div v-if="contact.noLink"
+                 class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
+              <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
+              <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
+              <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
+              
+              <!-- 二维码悬浮框 -->
+              <div v-if="contact.qrcode" 
+                   class="absolute left-1/2 bottom-full -translate-x-1/2 mb-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:-translate-y-2">
+                <div class="bg-white rounded-lg shadow-xl p-2 border border-gray-100">
+                  <img :src="contact.qrcode" :alt="contact.platform" class="w-32 h-32 object-cover" />
+                  <div class="absolute -bottom-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-white border-b border-r border-gray-100 transform rotate-45"></div>
+                </div>
               </div>
             </div>
-          </a>
+            
+            <!-- 对于需要链接的项使用 a -->
+            <a v-else
+               :href="contact.url"
+               target="_blank"
+               class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
+              <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
+              <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
+              <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
+              
+              <!-- 二维码悬浮框 -->
+              <div v-if="contact.qrcode" 
+                   class="absolute left-1/2 bottom-full -translate-x-1/2 mb-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:-translate-y-2">
+                <div class="bg-white rounded-lg shadow-xl p-2 border border-gray-100">
+                  <img :src="contact.qrcode" :alt="contact.platform" class="w-32 h-32 object-cover" />
+                  <div class="absolute -bottom-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-white border-b border-r border-gray-100 transform rotate-45"></div>
+                </div>
+              </div>
+            </a>
+          </template>
         </div>
       </div>
     </main>

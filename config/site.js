@@ -120,6 +120,13 @@ export const siteConfig = {
       platform: "ZhiHu",
       url: "https://www.zhihu.com/people/5a59",
       icon: "i-simple-icons-zhihu",
+    },
+    {
+      platform: "WeChat: ZYi_1024",
+      url: "https://weixin.qq.com/",
+      noLink: true,
+      icon: "i-simple-icons-wechat",
+      qrcode: "/images/wechat.jpg"
     }
   ]
 } 

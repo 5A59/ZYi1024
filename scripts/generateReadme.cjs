@@ -39,7 +39,7 @@ ${project.description.zh}
 
 ### 📱 社交媒体
 
-${siteConfig.contactLinks.map(link => `- [${link.platform}](${link.url})`).join('\n')}
+${siteConfig.contactLinks.map(link => `- [${link.platform}](${link.noLink ? '' : link.url})`).join('\n')}
 
 
 ---
@@ -66,7 +66,7 @@ ${project.description.en}
 
 ### 📱 Social Media
 
-${siteConfig.contactLinks.map(link => `- [${link.platform}](${link.url})`).join('\n')}
+${siteConfig.contactLinks.map(link => `- [${link.platform}](${link.noLink ? '' : link.url})`).join('\n')}
 
 `;
 
