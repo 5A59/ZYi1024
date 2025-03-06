@@ -2,7 +2,7 @@
 
 # 设置变量
 DEPLOY_PATH="/var/www/ZYi1024"
-SOURCE_PATH=".output/public"
+SOURCE_PATH="dist"
 
 # 输出时间
 echo "开始部署: $(date)"
