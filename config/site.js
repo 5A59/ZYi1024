@@ -14,7 +14,16 @@ export const siteConfig = {
   },
   products: [
     {
-      name: "formilot",
+      name: "SparkNow",
+      description: {
+        zh: "一站式启动您的事业",
+        en: "One-stop startup your business"
+      },
+      link: "https://sparknow.cc",
+      icon: "/images/products/sparknow.png"
+    },
+    {
+      name: "Formilot",
       description: {
         zh: "一键填充表单，解决繁琐的填写烦恼",
         en: "One-click form filling, solving tedious form-filling problems"
@@ -39,6 +48,17 @@ export const siteConfig = {
       },
       link: "https://talkto.ceo",
       icon: "/images/products/talkto.png"
+    }
+  ],
+  smallProducts: [
+    {
+      name: "manusgpt",
+      description: {
+        zh: "收集manus案例",
+        en: "Collect Manus cases"
+      },
+      link: "https://manusgpt.com",
+      icon: "/images/products/manusgpt.png"
     },
     {
       name: "mailin.fun",

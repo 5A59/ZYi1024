@@ -58,6 +58,25 @@
         </div>
       </div>
 
+      <!-- 小项目展示 -->
+      <div class="mb-12 sm:mb-16">
+        <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.smallProjects') }}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
+          <a v-for="project in config.smallProducts" 
+             :key="project.name"
+             :href="project.link"
+             class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
+            <div class="flex items-start justify-between mb-3 sm:mb-4">
+              <img :src="getFavicon(project.link)" :alt="project.name" 
+                   class="w-10 sm:w-12 h-10 sm:h-12 rounded-lg bg-gray-50 p-2 transform group-hover:scale-110 transition-transform duration-300" />
+              <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
+            </div>
+            <h3 class="font-bold text-base sm:text-lg mb-2 group-hover:text-blue-600 transition-colors duration-300">{{ project.name }}</h3>
+            <p class="text-sm text-gray-600 group-hover:text-gray-900 transition-colors duration-300">{{ project.description[locale] }}</p>
+          </a>
+        </div>
+      </div>
+
       <!-- 开源项目 -->
       <div class="mb-12 sm:mb-16">
         <h2 class="text-lg font-medium mb-4 sm:mb-6">{{ t('sections.openSource') }}</h2>
