@@ -55,7 +55,8 @@ Android 开发中高级教程
 - [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
 - [Bilibili](https://space.bilibili.com/20667846)
 - [ZhiHu](https://www.zhihu.com/people/5a59)
-- [GongZhongHao: 张翼ZYi]()
+- [WeChat: ZYi_1024]()
+- [GZH: 张翼ZYi]()
 
 
 ---
@@ -113,5 +114,6 @@ A set of hand-drawn style Android component libraries
 - [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
 - [Bilibili](https://space.bilibili.com/20667846)
 - [ZhiHu](https://www.zhihu.com/people/5a59)
-- [GongZhongHao: 张翼ZYi]()
+- [WeChat: ZYi_1024]()
+- [GZH: 张翼ZYi]()
 
