@@ -50,13 +50,13 @@ Android 开发中高级教程
 
 - [X](https://x.com/ZYi1024)
 - [GitHub](https://github.com/5A59)
-- [WeiBo](https://weibo.com/u/5075434888)
+- [Jike](https://okjk.co/WSpo0F)
 - [DouYin](https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw)
 - [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
 - [Bilibili](https://space.bilibili.com/20667846)
 - [ZhiHu](https://www.zhihu.com/people/5a59)
 - [WeChat: ZYi_1024]()
-- [GZH: 张翼ZYi]()
+- [GZH](https://mp.weixin.qq.com/s/bVQFENOWkPN7EHxtSqBbCA)
 
 
 ---
@@ -109,11 +109,11 @@ A set of hand-drawn style Android component libraries
 
 - [X](https://x.com/ZYi1024)
 - [GitHub](https://github.com/5A59)
-- [WeiBo](https://weibo.com/u/5075434888)
+- [Jike](https://okjk.co/WSpo0F)
 - [DouYin](https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw)
 - [Redbook](https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4)
 - [Bilibili](https://space.bilibili.com/20667846)
 - [ZhiHu](https://www.zhihu.com/people/5a59)
 - [WeChat: ZYi_1024]()
-- [GZH: 张翼ZYi]()
+- [GZH](https://mp.weixin.qq.com/s/bVQFENOWkPN7EHxtSqBbCA)
 
