@@ -142,11 +142,11 @@ export const siteConfig = {
       icon: "i-simple-icons-zhihu",
     },
     {
-      platform: "WeChat: ZYi_1024",
-      url: "https://weixin.qq.com/",
+      platform: "GongZhongHao: 张翼ZYi",
+      url: "https://mp.weixin.qq.com/",
       noLink: true,
       icon: "i-simple-icons-wechat",
-      qrcode: "/images/wechat.jpg"
+      qrcode: "/images/gzh.jpg"
     }
   ]
 } 
