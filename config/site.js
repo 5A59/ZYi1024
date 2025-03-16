@@ -115,9 +115,10 @@ export const siteConfig = {
       icon: "i-simple-icons-github",
     },
     {
-      platform: "WeiBo",
-      url: "https://weibo.com/u/5075434888",
-      icon: "i-simple-icons-sinaweibo",
+      platform: "Jike",
+      url: "https://okjk.co/WSpo0F",
+      qrcode: "/images/jike.jpg",
+      icon: "i-simple-icons-jike",
     },
     {
       platform: "DouYin",
@@ -149,9 +150,8 @@ export const siteConfig = {
       qrcode: "/images/wechat.jpg"
     },
     {
-      platform: "GZH: 张翼ZYi",
-      url: "https://mp.weixin.qq.com/",
-      noLink: true,
+      platform: "GZH",
+      url: "https://mp.weixin.qq.com/s/bVQFENOWkPN7EHxtSqBbCA",
       icon: "i-simple-icons-wechat",
       qrcode: "/images/gzh.jpg"
     }
