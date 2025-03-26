@@ -52,6 +52,15 @@ export const siteConfig = {
   ],
   smallProducts: [
     {
+      name: "bukaopu",
+      description: {
+        zh: "不靠谱头像",
+        en: "Unreliable avatar"
+      },
+      link: "https://bukaopu.wand.tools",
+      icon: "/images/products/bukaopu.png"
+    },
+    {
       name: "manusgpt",
       description: {
         zh: "收集manus案例",
@@ -142,13 +151,13 @@ export const siteConfig = {
       url: "https://www.zhihu.com/people/5a59",
       icon: "i-simple-icons-zhihu",
     },
-    {
-      platform: "WeChat: ZYi_1024",
-      url: "https://weixin.qq.com/",
-      noLink: true,
-      icon: "i-simple-icons-wechat",
-      qrcode: "/images/wechat.jpg"
-    },
+    // {
+    //   platform: "WeChat: ZYi_1024",
+    //   url: "https://weixin.qq.com/",
+    //   noLink: true,
+    //   icon: "i-simple-icons-wechat",
+    //   qrcode: "/images/wechat.jpg"
+    // },
     {
       platform: "GZH",
       url: "https://mp.weixin.qq.com/s/bVQFENOWkPN7EHxtSqBbCA",
