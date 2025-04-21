@@ -48,7 +48,7 @@
              :href="project.link"
              class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
             <div class="flex items-start justify-between mb-3 sm:mb-4">
-              <img :src="getFavicon(project.link)" :alt="project.name" 
+              <img :src="getFavicon(project)" :alt="project.name" 
                    class="w-10 sm:w-12 h-10 sm:h-12 rounded-lg bg-gray-50 p-2 transform group-hover:scale-110 transition-transform duration-300" />
               <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
             </div>
@@ -67,7 +67,7 @@
              :href="project.link"
              class="group block p-4 sm:p-5 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
             <div class="flex items-start justify-between mb-3 sm:mb-4">
-              <img :src="getFavicon(project.link)" :alt="project.name" 
+              <img :src="getFavicon(project)" :alt="project.name" 
                    class="w-10 sm:w-12 h-10 sm:h-12 rounded-lg bg-gray-50 p-2 transform group-hover:scale-110 transition-transform duration-300" />
               <div class="i-heroicons-arrow-up-right h-5 w-5 text-gray-400 group-hover:text-gray-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"></div>
             </div>
@@ -114,7 +114,7 @@
             <!-- 对于不需要链接的项使用 div -->
             <div v-if="contact.noLink"
                  class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
-              <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
+              <img :src="getFavicon(contact)" class="w-5 h-5 rounded-full bg-gray-50" />
               <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
               <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
               
@@ -133,7 +133,7 @@
                :href="contact.url"
                target="_blank"
                class="group relative flex items-center gap-2 p-3 bg-white border border-gray-200 rounded-xl hover:border-gray-300 hover:shadow-md transition-all duration-300">
-              <img :src="getFavicon(contact.url)" class="w-5 h-5 rounded-full bg-gray-50" />
+              <img :src="getFavicon(contact)" class="w-5 h-5 rounded-full bg-gray-50" />
               <span class="font-medium text-sm text-gray-900">{{ contact.platform }}</span>
               <div class="ml-auto i-heroicons-arrow-up-right h-4 w-4 text-gray-400 group-hover:text-gray-600"></div>
               
@@ -229,10 +229,10 @@ const vClickOutside = {
 }
 
 // 获取网站图标的函数
-function getFavicon(url) {
-  if (!url) return ''
+function getFavicon(project) {
+  if (project.icon) return project.icon
   try {
-    const domain = new URL(url).hostname
+    const domain = new URL(project.link || project.url).hostname
     return `https://www.google.com/s2/favicons?domain=${domain}&sz=128`
   } catch (e) {
     return ''

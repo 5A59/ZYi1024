@@ -14,13 +14,12 @@ export const siteConfig = {
   },
   products: [
     {
-      name: "SparkNow",
+      name: "wand.tools",
       description: {
-        zh: "一站式启动您的事业",
-        en: "One-stop startup your business"
+        zh: "一些列 AI 工具集",
+        en: "A collection of AI tools"
       },
-      link: "https://sparknow.cc",
-      icon: "/images/products/sparknow.png"
+      link: "https://wand.tools",
     },
     {
       name: "NoTab",
@@ -29,7 +28,7 @@ export const siteConfig = {
         en: "Preview links in the current page"
       },
       link: "https://notab.wand.tools",
-      icon: "/images/products/notab.png"
+      icon: "https://notab.wand.tools/icon.png"
     },
     {
       name: "CKNote",
@@ -38,7 +37,16 @@ export const siteConfig = {
         en: "Highlight, Annotation, Preview in Web Page"
       },
       link: "https://cknote.com",
-      icon: "/images/products/cknote.png"
+      icon: "https://cknote.com/icon.png"
+    },
+    {
+      name: "SparkNow",
+      description: {
+        zh: "一站式启动您的事业",
+        en: "One-stop startup your business"
+      },
+      link: "https://sparknow.cc",
+      icon: "https://sparknow.cc/icon.png"
     },
     {
       name: "Formilot",
@@ -47,17 +55,9 @@ export const siteConfig = {
         en: "One-click form filling, solving tedious form-filling problems"
       },
       link: "https://formilot.com",
-      icon: "/images/products/formilot.png"
+      icon: "https://formilot.com/icon.png"
     },
-    {
-      name: "wand.tools",
-      description: {
-        zh: "一些列 AI 工具集",
-        en: "A collection of AI tools"
-      },
-      link: "https://wand.tools",
-      icon: "/images/products/wand.png"
-    },
+
     {
       name: "talkto.ceo",
       description: {
@@ -65,7 +65,6 @@ export const siteConfig = {
         en: "Chat with AI CEO to solve your problems"
       },
       link: "https://talkto.ceo",
-      icon: "/images/products/talkto.png"
     }
   ],
   smallProducts: [
@@ -76,7 +75,7 @@ export const siteConfig = {
         en: "Unreliable avatar"
       },
       link: "https://bukaopu.wand.tools",
-      icon: "/images/products/bukaopu.png"
+      icon: "https://bukaopu.wand.tools/icon.png"
     },
     {
       name: "manusgpt",
@@ -85,7 +84,7 @@ export const siteConfig = {
         en: "Collect Manus cases"
       },
       link: "https://manusgpt.com",
-      icon: "/images/products/manusgpt.png"
+      icon: "https://manusgpt.com/icon.png"
     },
     {
       name: "mailin.fun",
@@ -94,7 +93,7 @@ export const siteConfig = {
         en: "Chat with Maimai, just for fun"
       },
       link: "https://mailin.fun",
-      icon: "/images/products/mailin.png"
+      icon: "https://mailin.fun/images/mm.png"
     }
   ],
   // 开源项目
@@ -144,40 +143,36 @@ export const siteConfig = {
     {
       platform: "X",
       url: "https://x.com/ZYi1024",
-      icon: "i-simple-icons-x",
     },
     {
       platform: "GitHub",
       url: "https://github.com/5A59",
-      icon: "i-simple-icons-github",
     },
     {
       platform: "Jike",
       url: "https://okjk.co/WSpo0F",
+      icon: "https://pp.myapp.com/ma_icon/0/icon_12003242_1744971991/256",
       qrcode: "/images/jike.jpg",
-      icon: "i-simple-icons-jike",
     },
     {
       platform: "DouYin",
       url: "https://www.douyin.com/user/MS4wLjABAAAA8sOzBjgFmxp5blm8ZSsfcyagzntlYMfOm0dem3AkSWw",
-      icon: "i-simple-icons-tiktok",
+      icon: "https://pp.myapp.com/ma_icon/0/icon_42350811_1744725846/256",
       qrcode: "/images/douyin.png"
     },
     {
       platform: "Redbook",
       url: "https://www.xiaohongshu.com/user/profile/5e5930b60000000001003ab4",
-      icon: "i-simple-icons-xiaohongshu",
+      icon: "https://pp.myapp.com/ma_icon/0/icon_10868231_1744717126/256",
       qrcode: "/images/redbook.png"
     },
     {
       platform: "Bilibili",
       url: "https://space.bilibili.com/20667846",
-      icon: "i-simple-icons-bilibili",
     },
     {
       platform: "ZhiHu",
       url: "https://www.zhihu.com/people/5a59",
-      icon: "i-simple-icons-zhihu",
     },
     // {
     //   platform: "WeChat: ZYi_1024",
@@ -189,7 +184,7 @@ export const siteConfig = {
     {
       platform: "GZH",
       url: "https://mp.weixin.qq.com/s/bVQFENOWkPN7EHxtSqBbCA",
-      icon: "i-simple-icons-wechat",
+      icon: "https://pp.myapp.com/ma_icon/0/icon_52751266_1743595327/256",
       qrcode: "/images/gzh.jpg"
     }
   ]
