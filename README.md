@@ -14,6 +14,14 @@ The only thing we have to fear is fear itself.
 一站式启动您的事业
 🔗 [访问链接](https://sparknow.cc)
 
+#### NoTab
+在当前页面预览链接，告别标签海
+🔗 [访问链接](https://notab.wand.tools)
+
+#### CKNote
+网页划线高亮、批注、笔记工具
+🔗 [访问链接](https://cknote.com)
+
 #### Formilot
 一键填充表单，解决繁琐的填写烦恼
 🔗 [访问链接](https://formilot.com)
@@ -32,7 +40,13 @@ The only thing we have to fear is fear itself.
 一款 python 实现的【超轻量级】jvm 的实现
 - 🔗 [GitHub](https://github.com/5A59/Zvm)
 - ⭐ Stars: 457
-- 💻 Language: python
+- 💻 Language: Python
+
+#### SimpleSEO
+极简SEO教程
+- 🔗 [GitHub](https://github.com/5A59/SimpleSEO)
+- ⭐ Stars: 0
+- 💻 Language: Markdown
 
 #### Android-Train
 Android 开发中高级教程
@@ -72,6 +86,14 @@ The only thing we have to fear is fear itself.
 One-stop startup your business
 🔗 [Visit](https://sparknow.cc)
 
+#### NoTab
+Preview links in the current page
+🔗 [Visit](https://notab.wand.tools)
+
+#### CKNote
+Highlight, Annotation, Preview in Web Page
+🔗 [Visit](https://cknote.com)
+
 #### Formilot
 One-click form filling, solving tedious form-filling problems
 🔗 [Visit](https://formilot.com)
@@ -90,7 +112,13 @@ Chat with AI CEO to solve your problems
 An "ultra-lightweight" JVM implementation in Python
 - 🔗 [GitHub](https://github.com/5A59/Zvm)
 - ⭐ Stars: 457
-- 💻 Language: python
+- 💻 Language: Python
+
+#### SimpleSEO
+Simple SEO tutorial
+- 🔗 [GitHub](https://github.com/5A59/SimpleSEO)
+- ⭐ Stars: 0
+- 💻 Language: Markdown
 
 #### Android-Train
 Intermediate and Advanced Android Tutorial
