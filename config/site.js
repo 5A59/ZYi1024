@@ -23,6 +23,24 @@ export const siteConfig = {
       icon: "/images/products/sparknow.png"
     },
     {
+      name: "NoTab",
+      description: {
+        zh: "在当前页面预览链接，告别标签海",
+        en: "Preview links in the current page"
+      },
+      link: "https://notab.wand.tools",
+      icon: "/images/products/notab.png"
+    },
+    {
+      name: "CKNote",
+      description: {
+        zh: "网页划线高亮、批注、笔记工具",
+        en: "Highlight, Annotation, Preview in Web Page"
+      },
+      link: "https://cknote.com",
+      icon: "/images/products/cknote.png"
+    },
+    {
       name: "Formilot",
       description: {
         zh: "一键填充表单，解决繁琐的填写烦恼",
@@ -89,7 +107,17 @@ export const siteConfig = {
       },
       link: "https://github.com/5A59/Zvm",
       stars: "457",
-      language: "python"
+      language: "Python"
+    },
+    {
+      name: "SimpleSEO",
+      description: {
+        zh: "极简SEO教程",
+        en: "Simple SEO tutorial"
+      },
+      link: "https://github.com/5A59/SimpleSEO",
+      stars: "0",
+      language: "Markdown"
     },
     {
       name: "Android-Train",
