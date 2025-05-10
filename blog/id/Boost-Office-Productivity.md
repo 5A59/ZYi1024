@@ -9,7 +9,7 @@ Bayangkan Anda sedang membaca email pekerjaan yang berisi beberapa tautan. Alih-
 
 Perubahan sederhana ini membuat Anda tetap fokus pada tugas yang sedang dikerjakan.
 
-![Produktivitas kantor dengan pratinjau tautan](images/notab1.png)
+![Produktivitas kantor dengan pratinjau tautan](../images/notab1.png)
 
 Menggunakan **ekstensi Chrome pratinjau tautan** seperti NoTab adalah strategi kunci untuk **mengelola tab browser secara efisien** dalam lingkungan profesional.  Ini memungkinkan Anda untuk **mempratinjau tautan tanpa meninggalkan halaman**, meminimalkan gangguan.
 
@@ -18,7 +18,7 @@ NoTab lebih dari sekadar alat pratinjau; ia adalah salah satu **alat produktivit
 *   **Pencarian/Terjemahan Cepat:** Seret teks untuk mencari atau menerjemahkan tanpa membuka tab baru – sempurna untuk riset.
 *   **Pratinjau yang Dapat Disesuaikan:** Sesuaikan jendela pratinjau sesuai kebutuhan Anda.
 
-![Fitur pencarian cepat NoTab](images/notab2.png)
+![Fitur pencarian cepat NoTab](../images/notab2.png)
 
 Hentikan perpindahan konteks yang membunuh efisiensi kerja Anda.
 

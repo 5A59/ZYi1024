@@ -12,7 +12,7 @@ Here's how simple it is:
 
 That's it! You get an instant **link hover preview** without navigating away.
 
-![Demonstrating inline link preview](images/notab1.png)
+![Demonstrating inline link preview](../images/notab1.png)
 
 Why is this so beneficial?
 *   **Uninterrupted Reading:** Stay focused on your main content.
@@ -21,7 +21,7 @@ Why is this so beneficial?
 
 NoTab is my top recommendation for this. It provides a smooth and customizable experience for **previewing links without leaving the page**. You can adjust the preview window size, use a reader mode, and more.
 
-![Customizing NoTab previews](images/notab2.png)
+![Customizing NoTab previews](../images/notab2.png)
 
 It's the most straightforward **Chrome extension to preview links** and master the art of previewing in the current page.
 

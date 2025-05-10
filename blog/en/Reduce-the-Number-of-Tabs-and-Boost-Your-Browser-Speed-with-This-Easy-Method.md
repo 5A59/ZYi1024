@@ -9,7 +9,7 @@ This approach directly helps you **reduce the number of tabs** you need open. Th
 *   Check out related articles without leaving the one you're reading.
 *   Verify links on social media instantly.
 
-![Previewing links easily](images/notab1.png)
+![Previewing links easily](../images/notab1.png)
 
 This isn't just about tidiness; it's about performance. By using a tool like the NoTab **link preview Chrome extension**, you actively **save memory by reducing open tabs**, leading to a noticeably faster browsing experience.
 
@@ -17,6 +17,6 @@ You can **manage browser tabs efficiently** by simply previewing first. It's a s
 
 Ready to **speed up your browsing**? Try NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Adjustable preview window](images/notab2.png)
+![Adjustable preview window](../images/notab2.png)
 
 Stop letting tab overload slow you down. Start previewing!

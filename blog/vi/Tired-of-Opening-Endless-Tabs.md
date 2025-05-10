@@ -13,7 +13,7 @@ Những tiện ích mở rộng thông minh này cho phép bạn xem nội dung 
 *   Nhanh chóng đánh giá các liên kết để biết mức độ liên quan.
 *   **Giảm tình trạng lộn xộn tab trong Chrome** (và các trình duyệt khác).
 
-![Xem trước liên kết mà không cần mở tab](images/notab1.png)
+![Xem trước liên kết mà không cần mở tab](../images/notab1.png)
 
 NoTab là một ví dụ hoàn hảo về một công cụ như vậy. Nó cung cấp trải nghiệm **xem trước liên kết khi di chuột** (link hover preview) mượt mà, giúp bạn dễ dàng xem nhanh các liên kết.
 
@@ -23,7 +23,7 @@ Các tính năng chính để giữ sự tập trung:
 *   **Chế Độ Đọc:** Xem các bài viết được liên kết không bị phân tâm.
 *   **Hành Động Nhanh:** Tìm kiếm hoặc dịch văn bản đã chọn ngay lập tức.
 
-![Các tính năng tăng cường sự tập trung của NoTab](images/notab2.png)
+![Các tính năng tăng cường sự tập trung của NoTab](../images/notab2.png)
 
 Nếu vòng tuần hoàn mở tab vô tận đang làm cạn kiệt sự tập trung và làm chậm tốc độ của bạn, thì đã đến lúc thay đổi.
 

@@ -13,7 +13,7 @@ Bu akıllı eklentiler, mevcut sayfanızdan ayrılmadan veya yeni bir sekme açm
 *   Bağlantıları alaka düzeyine göre hızlıca değerlendirin.
 *   **Chrome'daki (ve diğer tarayıcılardaki) sekme karmaşasını azaltın.**
 
-![Sekme açmadan bağlantı önizleme](images/notab1.png)
+![Sekme açmadan bağlantı önizleme](../images/notab1.png)
 
 NoTab, böyle bir aracın mükemmel bir örneğidir. Bağlantılara göz atmayı zahmetsiz hale getiren, sorunsuz bir **bağlantı üzerine gelindiğinde önizleme** deneyimi sunar.
 
@@ -22,7 +22,7 @@ Odaklanmayı sürdürmek için temel özellikler:
 *   **Okuyucu Modu:** Bağlantılı makalelerin dikkat dağıtmayan görünümü.
 *   **Hızlı Eylemler:** Seçilen metni anında arayın veya çevirin.
 
-![NoTab'ın odaklanmayı artırıcı özellikleri](images/notab2.png)
+![NoTab'ın odaklanmayı artırıcı özellikleri](../images/notab2.png)
 
 Eğer durmadan sekme açma döngüsü odağınızı tüketiyor ve sizi yavaşlatıyorsa, değişim zamanı gelmiş demektir.
 

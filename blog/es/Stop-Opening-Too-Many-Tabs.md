@@ -12,13 +12,13 @@ Este pequeño cambio de hábito, facilitado por una **extensión de vista previa
 *   **Aumenta la Concentración:** Menos desorden y cambios de contexto significan una mejor concentración.
 *   **Navegación Eficiente:** Examina rápidamente los enlaces en los resultados de búsqueda, las redes sociales o los artículos.
 
-![Antes y después de la vista previa de enlaces (conceptual)](images/notab1.png)
+![Antes y después de la vista previa de enlaces (conceptual)](../images/notab1.png)
 
 NoTab es la herramienta perfecta para ayudarte a romper el hábito de abrir pestañas. Hace que **previsualizar enlaces sin abrir nuevas pestañas** sea increíblemente fácil e intuitivo.
 
 Con funciones como vistas previas personalizables y un modo lector limpio, te ayuda a **gestionar las pestañas del navegador de forma eficiente** abordando el problema desde su origen.
 
-![NoTab ayudando a reducir pestañas](images/notab2.png)
+![NoTab ayudando a reducir pestañas](../images/notab2.png)
 
 Es hora de recuperar tu navegador del caos de las interminables pestañas.
 

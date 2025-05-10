@@ -9,7 +9,7 @@ Imagine this: you're planning a trip and looking at a list of attractions. Inste
 *   Quickly check opening hours or locations.
 *   Decide if it's worth a deeper look, all **without leaving the page**.
 
-![Previewing travel links](images/notab1.png)
+![Previewing travel links](../images/notab1.png)
 
 This is incredibly useful for:
 *   **Online Shopping:** Compare products side-by-side without tab juggling.
@@ -23,7 +23,7 @@ NoTab offers:
 *   A handy reader mode for clean text.
 *   The ability to preview multiple links.
 
-![NoTab preview window options](images/notab2.png)
+![NoTab preview window options](../images/notab2.png)
 
 Knowing **how to preview a link without opening it** transforms these common online tasks from tedious chores into smooth operations.
 

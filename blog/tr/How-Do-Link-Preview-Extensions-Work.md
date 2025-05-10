@@ -9,14 +9,14 @@
 3.  **İçerik Ayıklama & Temizleme:** Alınan HTML ayrıştırılır. Uzantı, ana içeriği (metin, temel biçimlendirme, belki de önemli resimler) ayıklar ve genellikle *temizler*. Güvenliği sağlamak ve önizlemenin mevcut sayfayla etkileşimini önlemek için potansiyel olarak zararlı komut dosyalarını veya stilleri kaldırır.
 4.  **Katmanlı Pencerede Görüntüleme:** Bu temizlenmiş içerik daha sonra geçici bir katmanlı pencereye (genellikle bir `iframe` veya bir `div` öğesi) mevcut sayfanızdaki bağlantının yakınına yerleştirilir. Bu, **mevcut sayfada bağlantıları önizlemenizi** sağlar.
 
-![Bağlantı önizleme sürecinin şeması - kavramsal](images/notab1.png) <!-- Kavramsal resim -->
+![Bağlantı önizleme sürecinin şeması - kavramsal](../images/notab1.png) <!-- Kavramsal resim -->
 
 NoTab gibi uzantılar bu süreci geliştirerek şunları ekler:
 *   **Okuyucu Modu:** Okunabilirlik için içeriği daha da işleme.
 *   **Önbelleğe Alma:** Daha sonraki görüntülemeler için önizlemeleri geçici olarak saklama.
 *   **Özelleştirme:** Kullanıcıların tetikleme yöntemlerini ve önizleme görünümünü kontrol etmesine izin verme.
 
-![NoTab'ın arayüzü](images/notab2.png)
+![NoTab'ın arayüzü](../images/notab2.png)
 
 Bunu anlamak, bu araçların **açmadan web sitelerini önizlemenize** nasıl olanak tanıdığını, zamandan ve kaynaklardan nasıl tasarruf sağladığını anlamaya yardımcı olur. Sorunsuz bir **satır içi bağlantı önizlemesi** sunmak için web isteklerini akıllıca yönetir ve görüntülerler.
 

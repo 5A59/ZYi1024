@@ -11,13 +11,13 @@ Peki nasıl? Verimli bir iş akışı için tasarlanmış araçları, özellikle
 2.  **Satır İçi Önizlemeleri Kullanın:** **Bağlantıları mevcut sayfada önizlemenizi** sağlayan araçları tercih edin. Bu, birincil görevinizi ön planda tutar.
 3.  **Okuyucu Modundan Yararlanın:** Metin ağırlıklı bağlantılar için, tam sayfa yüklemelerinin dikkat dağıtıcılığından kaçınarak içeriği hızlıca kavramak için bir önizleme uzantısının okuyucu modunu kullanın.
 
-![Bağlantı önizleme ile çoklu görev](images/notab1.png)
+![Bağlantı önizleme ile çoklu görev](../images/notab1.png)
 
 NoTab, çoklu görev yapanlar için oluşturulmuş harika bir **sekme yönetimi uzantısı** örneğidir. Çalışma alanınızı temiz ve odağınızı keskin tutarak **yeni sekmeler açmadan bağlantıları sorunsuz bir şekilde önizlemenizi** sağlar.
 
 Ayarlanabilir önizleme boyutları ve birden fazla önizlemeyi aynı anda görüntüleme yeteneği gibi özellikler, farklı kaynaklardaki bilgileri karşılaştırmayı kolaylaştırır.
 
-![NoTab çoklu önizleme özelliği](images/notab2.png)
+![NoTab çoklu önizleme özelliği](../images/notab2.png)
 
 Sekme yüklenmesinin çoklu görevinizi engellemesine izin vermeyi bırakın.
 

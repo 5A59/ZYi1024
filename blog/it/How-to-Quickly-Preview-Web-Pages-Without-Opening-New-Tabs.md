@@ -9,7 +9,7 @@ Immagina questo: stai pianificando un viaggio e stai guardando una lista di attr
 *   Controlli velocemente orari di apertura o ubicazioni.
 *   Decidi se vale la pena approfondire, tutto **senza lasciare la pagina**.
 
-![Anteprima dei link di viaggio](images/notab1.png)
+![Anteprima dei link di viaggio](../images/notab1.png)
 
 Questo è incredibilmente utile per:
 *   **Shopping Online:** Confronta prodotti fianco a fianco senza destreggiarti tra le schede.
@@ -23,7 +23,7 @@ NoTab offre:
 *   Una comoda modalità di lettura per un testo pulito.
 *   La possibilità di visualizzare in anteprima più link.
 
-![Opzioni della finestra di anteprima di NoTab](images/notab2.png)
+![Opzioni della finestra di anteprima di NoTab](../images/notab2.png)
 
 Sapere **come visualizzare l'anteprima di un link senza aprirlo** trasforma queste comuni attività online da compiti tediosi in operazioni fluide.
 

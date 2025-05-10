@@ -8,7 +8,7 @@ Perché questo cambiamento? Passare continuamente da una scheda all'altra distra
 
 Immagina di leggere un articolo e di voler controllare una fonte. Invece di aprire una nuova scheda, interrompendo il flusso, ti basta passare il mouse sopra o cliccare per un'**anteprima del link integrata**. Ottieni le informazioni di cui hai bisogno e rimani dove sei.
 
-![Anteprima di un link nella pagina](images/notab1.png)
+![Anteprima di un link nella pagina](../images/notab1.png)
 
 Questo approccio sta diventando essenziale per:
 *   **Ricerca mirata:** Valutare rapidamente fonti e riferimenti.
@@ -17,7 +17,7 @@ Questo approccio sta diventando essenziale per:
 
 NoTab è una fantastica **estensione di Chrome per visualizzare l'anteprima dei link**, costruita interamente attorno a questo moderno principio di navigazione. Ti aiuta a **ridurre le schede del browser** e a interagire con il web in modo più fluido.
 
-![La finestra di anteprima pulita di NoTab](images/notab2.png)
+![La finestra di anteprima pulita di NoTab](../images/notab2.png)
 
 Unisciti alla tendenza e sperimenta un modo di navigare più pulito, veloce e mirato.
 

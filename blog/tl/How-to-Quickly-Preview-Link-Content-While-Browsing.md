@@ -10,7 +10,7 @@ Binibigyang-daan ka ng mga tool na ito na i-hover ang iyong mouse (o i-click, de
 *   Mabilisang paghahambing ng mga detalye ng produkto.
 *   Pagkuha ng diwa ng isang artikulo nang hindi umaalis sa iyong kasalukuyang gawain.
 
-![Instant link preview](images/notab1.png)
+![Instant link preview](../images/notab1.png)
 
 Pagdating sa **pinakamahusay na link preview extension para sa Chrome**, tapat kong inirerekomenda ang NoTab. Ito ay magaan, napapasadyang, at ginagawang walang hirap ang **pag-preview ng mga link nang hindi umaalis sa pahina**.
 
@@ -19,7 +19,7 @@ Nag-aalok ang NoTab ng mga feature tulad ng:
 *   Isang clutter-free reader mode para sa nakatuong pagbabasa.
 *   Mabilis na paghahanap at pagsasalin sa pamamagitan ng pag-drag ng teksto.
 
-![NoTab features](images/notab2.png)
+![NoTab features](../images/notab2.png)
 
 Binabago nito kung paano ka nakikipag-ugnayan sa mga link, ginagawa itong mas mabilis at mas nakatuon sa pagba-browse. Itigil ang walang katapusang pagbubukas ng tab at simulan ang pag-preview.
 

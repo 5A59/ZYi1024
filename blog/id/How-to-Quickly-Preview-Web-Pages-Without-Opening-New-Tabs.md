@@ -9,7 +9,7 @@ Bayangkan ini: Anda sedang merencanakan perjalanan dan melihat daftar atraksi. A
 *   Cepat memeriksa jam buka atau lokasi.
 *   Memutuskan apakah itu layak untuk dilihat lebih dalam, semua **tanpa meninggalkan halaman**.
 
-![Mempratinjau tautan perjalanan](images/notab1.png)
+![Mempratinjau tautan perjalanan](../images/notab1.png)
 
 Ini sangat berguna untuk:
 *   **Belanja Online:** Membandingkan produk berdampingan tanpa perlu jungkir balik tab.
@@ -23,7 +23,7 @@ NoTab menawarkan:
 *   Mode pembaca praktis untuk teks yang bersih.
 *   Kemampuan untuk mempratinjau banyak tautan.
 
-![Opsi jendela pratinjau NoTab](images/notab2.png)
+![Opsi jendela pratinjau NoTab](../images/notab2.png)
 
 Mengetahui **cara mempratinjau tautan tanpa membukanya** mengubah tugas online umum ini dari pekerjaan yang membosankan menjadi operasi yang lancar.
 

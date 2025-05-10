@@ -13,7 +13,7 @@ Veja como é simples:
 
 É isso! Você obtém uma **pré-visualização do link ao passar o mouse** instantânea, sem sair da página.
 
-![Demonstrando pré-visualização de link inline](images/notab1.png)
+![Demonstrando pré-visualização de link inline](../images/notab1.png)
 
 Por que isso é tão benéfico?
 *   **Leitura Ininterrupta:** Mantenha o foco no seu conteúdo principal.
@@ -22,7 +22,7 @@ Por que isso é tão benéfico?
 
 NoTab é minha principal recomendação para isso. Ele oferece uma experiência suave e personalizável para **visualizar links sem sair da página**. Você pode ajustar o tamanho da janela de visualização, usar um modo de leitura e muito mais.
 
-![Personalizando as pré-visualizações do NoTab](images/notab2.png)
+![Personalizando as pré-visualizações do NoTab](../images/notab2.png)
 
 É a **extensão do Chrome mais direta para visualizar links** e dominar a arte de pré-visualizar na página atual.
 

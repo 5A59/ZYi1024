@@ -9,7 +9,7 @@ Bu yaklaşım, açmanız gereken **sekme sayısını azaltmanıza** doğrudan ya
 *   Okuduğunuz sayfadan ayrılmadan ilgili makaleleri inceleyin.
 *   Sosyal medyadaki bağlantıları anında doğrulayın.
 
-![Bağlantıları kolayca önizleme](images/notab1.png)
+![Bağlantıları kolayca önizleme](../images/notab1.png)
 
 Bu sadece düzenli olmakla ilgili değil; performansla ilgili. NoTab **bağlantı önizleme Chrome uzantısı** gibi bir araç kullanarak, açık sekmeleri azaltarak aktif olarak **bellek tasarrufu sağlarsınız**, bu da gözle görülür şekilde daha hızlı bir tarama deneyimine yol açar.
 
@@ -17,6 +17,6 @@ Sadece önizleme yaparak **tarayıcı sekmelerini verimli bir şekilde yönetebi
 
 **Tarama hızınızı artırmaya** hazır mısınız? NoTab'ı deneyin: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Ayarlanabilir önizleme penceresi](images/notab2.png)
+![Ayarlanabilir önizleme penceresi](../images/notab2.png)
 
 Sekme yüklemesinin sizi yavaşlatmasına izin vermeyi bırakın. Önizlemeye başlayın!

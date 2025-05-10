@@ -12,7 +12,7 @@ Así de simple es:
 
 ¡Eso es todo! Obtienes una **vista previa instantánea al pasar el ratón por un enlace** sin tener que navegar a otra página.
 
-![Demostración de la vista previa de enlaces integrada](images/notab1.png)
+![Demostración de la vista previa de enlaces integrada](../images/notab1.png)
 
 ¿Por qué es tan beneficioso?
 *   **Lectura Ininterrumpida:** Mantén la concentración en tu contenido principal.
@@ -21,7 +21,7 @@ Así de simple es:
 
 NoTab es mi principal recomendación para esto. Proporciona una experiencia fluida y personalizable para **previsualizar enlaces sin salir de la página**. Puedes ajustar el tamaño de la ventana de vista previa, usar un modo de lectura y mucho más.
 
-![Personalización de las vistas previas de NoTab](images/notab2.png)
+![Personalización de las vistas previas de NoTab](../images/notab2.png)
 
 Es la **extensión de Chrome más sencilla para previsualizar enlaces** y dominar el arte de previsualizar en la página actual.
 

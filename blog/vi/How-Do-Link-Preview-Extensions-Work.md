@@ -9,14 +9,14 @@ Về cốt lõi, một công cụ **xem trước liên kết trình duyệt** c�
 3.  **Trích Xuất & Thanh Lọc Nội Dung:** HTML được tìm nạp được phân tích cú pháp. Tiện ích trích xuất nội dung chính (văn bản, định dạng cơ bản, có thể là hình ảnh chính) và thường *thanh lọc* nó, loại bỏ các tập lệnh hoặc kiểu dáng có khả năng gây hại để đảm bảo an toàn và ngăn chặn bản xem trước can thiệp vào trang hiện tại.
 4.  **Hiển Thị Trong Lớp Phủ:** Nội dung đã được làm sạch này sau đó được chèn vào một cửa sổ lớp phủ tạm thời (thường là một `iframe` hoặc một phần tử `div`) được định vị gần liên kết trên trang hiện tại của bạn. Điều này cho phép bạn **xem trước các liên kết trong trang hiện tại**.
 
-![Sơ đồ quy trình xem trước liên kết - khái niệm](images/notab1.png) <!-- Hình ảnh khái niệm -->
+![Sơ đồ quy trình xem trước liên kết - khái niệm](../images/notab1.png) <!-- Hình ảnh khái niệm -->
 
 Các tiện ích như NoTab tinh chỉnh quy trình này, thêm các tính năng như:
 *   **Chế Độ Đọc:** Xử lý thêm nội dung để dễ đọc hơn.
 *   **Bộ Nhớ Đệm:** Đôi khi lưu trữ bản xem trước tạm thời để xem nhanh hơn các lần sau.
 *   **Tùy Chỉnh:** Cho phép người dùng kiểm soát các phương pháp kích hoạt và giao diện xem trước.
 
-![Giao diện của NoTab](images/notab2.png)
+![Giao diện của NoTab](../images/notab2.png)
 
 Hiểu được điều này giúp đánh giá cao cách các công cụ này cho phép bạn **xem trước trang web trước khi mở**, tiết kiệm thời gian và tài nguyên. Chúng quản lý một cách thông minh các yêu cầu web và hiển thị để cung cấp một **xem trước liên kết nội tuyến** liền mạch.
 

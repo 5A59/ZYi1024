@@ -9,7 +9,7 @@ Direktang nakakatulong ang approach na ito para **mabawasan ang dami ng tabs** n
 *   Tingnan ang mga kaugnay na articles nang hindi umaalis sa binabasa mo.
 *   I-verify agad ang mga links sa social media.
 
-![Madaling pag-preview ng links](images/notab1.png)
+![Madaling pag-preview ng links](../images/notab1.png)
 
 Hindi lang ito tungkol sa pagiging organisado; tungkol din ito sa performance. Sa pamamagitan ng paggamit ng tool tulad ng NoTab **link preview Chrome extension**, aktibo mong **makakatipid ng memory sa pamamagitan ng pagbawas ng open tabs**, na nagreresulta sa mas mabilis na browsing experience.
 
@@ -17,6 +17,6 @@ Maaari mong **ma-manage ang browser tabs nang epektibo** sa pamamagitan lang ng 
 
 Handa ka na bang **pabilisin ang iyong browsing**? Subukan ang NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Adjustable preview window](images/notab2.png)
+![Adjustable preview window](../images/notab2.png)
 
 Huwag mong hayaang pabagalin ka ng tab overload. Mag-umpisa nang mag-preview!

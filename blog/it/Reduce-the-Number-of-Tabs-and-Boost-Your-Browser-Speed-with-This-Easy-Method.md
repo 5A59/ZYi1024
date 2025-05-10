@@ -10,7 +10,7 @@ Questo approccio ti aiuta direttamente a **ridurre il numero di schede** che dev
 *   Controlla gli articoli correlati senza lasciare quello che stai leggendo.
 *   Verifica istantaneamente i link sui social media.
 
-![Anteprima dei link facilmente](images/notab1.png)
+![Anteprima dei link facilmente](../images/notab1.png)
 
 Non si tratta solo di ordine; si tratta di prestazioni. Utilizzando uno strumento come l'estensione Chrome per **l'anteprima dei link** NoTab, **risparmi attivamente memoria riducendo le schede aperte**, portando a un'esperienza di navigazione notevolmente più veloce.
 
@@ -18,6 +18,6 @@ Puoi **gestire le schede del browser in modo efficiente** semplicemente visualiz
 
 Pronto a **velocizzare la tua navigazione**? Prova NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Finestra di anteprima regolabile](images/notab2.png)
+![Finestra di anteprima regolabile](../images/notab2.png)
 
 Smetti di lasciare che il sovraccarico di schede ti rallenti. Inizia a visualizzare l'anteprima!

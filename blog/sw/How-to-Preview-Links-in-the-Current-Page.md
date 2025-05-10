@@ -13,7 +13,7 @@ Hii ndio jinsi ilivyo rahisi:
 
 Hiyo ndiyo! Unapata **muhtasari wa kiungo kwa kuweka panya juu yake (link hover preview)** papo hapo bila kuhama ukurasa.
 
-![Inaonyesha muhtasari wa kiungo moja kwa moja kwenye ukurasa](images/notab1.png)
+![Inaonyesha muhtasari wa kiungo moja kwa moja kwenye ukurasa](../images/notab1.png)
 
 Kwa nini hii ni muhimu sana?
 *   **Usomaji Bila Kukatizwa:** Zingatia zaidi maudhui yako makuu.
@@ -22,7 +22,7 @@ Kwa nini hii ni muhimu sana?
 
 NoTab ndio ninayoipendekeza zaidi kwa hili. Inatoa uzoefu laini na unaoweza kubadilishwa kwa **kutazama viungo kabla ya kuvifungua bila kuacha ukurasa**. Unaweza kurekebisha ukubwa wa dirisha la muhtasari, kutumia hali ya usomaji (reader mode), na mengine mengi.
 
-![Inaonyesha jinsi ya kubadilisha mipangilio ya NoTab](images/notab2.png)
+![Inaonyesha jinsi ya kubadilisha mipangilio ya NoTab](../images/notab2.png)
 
 Ni **programu-nyongeza ya Chrome rahisi zaidi ya kutazama viungo** na kujua ustadi wa kutazama viungo kabla ya kuvifungua moja kwa moja kwenye ukurasa ule ule.
 

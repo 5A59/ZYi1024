@@ -9,14 +9,14 @@ En esencia, una herramienta de **vista previa de enlaces en el navegador** neces
 3.  **Extracción y Sanitización del Contenido:** El HTML obtenido se analiza. La extensión extrae el contenido principal (texto, formato básico, tal vez imágenes clave) y a menudo lo *sanitiza*, eliminando scripts o estilos potencialmente dañinos para garantizar la seguridad y evitar que la vista previa interfiera con la página actual.
 4.  **Visualización en Superposición:** Este contenido limpio se inyecta luego en una ventana de superposición temporal (a menudo un `iframe` o un elemento `div`) colocada cerca del enlace en tu página actual. Esto te permite **previsualizar enlaces en la página actual**.
 
-![Diagrama del proceso de vista previa de enlaces - conceptual](images/notab1.png) <!-- Conceptual image -->
+![Diagrama del proceso de vista previa de enlaces - conceptual](../images/notab1.png) <!-- Conceptual image -->
 
 Extensiones como NoTab refinan este proceso, añadiendo características como:
 *   **Modo Lector:** Procesamiento adicional del contenido para facilitar la lectura.
 *   **Caché:** A veces, almacenamiento temporal de las vistas previas para una visualización posterior más rápida.
 *   **Personalización:** Permitir a los usuarios controlar los métodos de activación y la apariencia de la vista previa.
 
-![Interfaz de NoTab](images/notab2.png)
+![Interfaz de NoTab](../images/notab2.png)
 
 Comprender esto ayuda a apreciar cómo estas herramientas te permiten **previsualizar sitios web antes de abrirlos**, ahorrando tiempo y recursos. Gestionan inteligentemente las solicitudes web y la visualización para ofrecer una **vista previa de enlaces en línea** perfecta.
 

@@ -9,7 +9,7 @@ Immagina di leggere un'email di lavoro con diversi link. Invece di aprirli uno p
 
 Questo semplice cambiamento ti permette di rimanere concentrato sull'attività che stai svolgendo.
 
-![Produttività in ufficio con anteprima dei link](images/notab1.png)
+![Produttività in ufficio con anteprima dei link](../images/notab1.png)
 
 Utilizzare un'**estensione Chrome per l'anteprima dei link** come NoTab è una strategia chiave per **gestire le schede del browser in modo efficiente** in un ambiente professionale. Ti consente di **visualizzare l'anteprima dei link senza uscire dalla pagina**, minimizzando le distrazioni.
 
@@ -18,7 +18,7 @@ NoTab è più di un semplice visualizzatore di anteprime; è uno degli **strumen
 *   **Ricerca/Traduzione Rapida:** Trascina il testo per cercare o tradurre senza aprire nuove schede – perfetto per la ricerca.
 *   **Anteprime Regolabili:** Adatta la finestra di anteprima alle tue esigenze.
 
-![Funzionalità di ricerca rapida di NoTab](images/notab2.png)
+![Funzionalità di ricerca rapida di NoTab](../images/notab2.png)
 
 Smetti di lasciare che il cambio di contesto uccida l'efficienza della tua giornata lavorativa.
 

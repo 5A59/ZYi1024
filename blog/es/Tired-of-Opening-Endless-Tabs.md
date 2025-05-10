@@ -13,7 +13,7 @@ Esto es exactamente lo que ofrecen las **extensiones de vista previa de enlaces*
 *   Evaluar rápidamente la relevancia de los enlaces.
 *   **Reducir el desorden de pestañas en Chrome** (y otros navegadores).
 
-![Vista previa de un enlace sin abrir la pestaña](images/notab1.png)
+![Vista previa de un enlace sin abrir la pestaña](../images/notab1.png)
 
 NoTab es un ejemplo perfecto de este tipo de herramienta. Proporciona una experiencia fluida de **vista previa de enlaces al pasar el ratón**, lo que facilita echar un vistazo a los enlaces.
 
@@ -23,7 +23,7 @@ Características clave para mantener la concentración:
 *   **Modo Lector:** Visualización sin distracciones de los artículos enlazados.
 *   **Acciones rápidas:** Busca o traduce texto seleccionado al instante.
 
-![Funciones de NoTab para mejorar la concentración](images/notab2.png)
+![Funciones de NoTab para mejorar la concentración](../images/notab2.png)
 
 Si el ciclo interminable de abrir pestañas está agotando tu concentración y ralentizándote, es hora de un cambio.
 

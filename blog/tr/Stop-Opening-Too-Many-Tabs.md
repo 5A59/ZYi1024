@@ -12,13 +12,13 @@ Bir **bağlantı önizleme eklentisi** tarafından kolaylaştırılan bu küçü
 *   **Odaklanmayı Artırır:** Daha az karmaşa ve bağlam değiştirme, daha iyi konsantrasyon anlamına gelir.
 *   **Verimli Göz Atma:** Arama sonuçlarında, sosyal medyada veya makalelerde bağlantıları hızla inceleyin.
 
-![Bağlantı önizleme öncesi ve sonrası (kavramsal)](images/notab1.png)
+![Bağlantı önizleme öncesi ve sonrası (kavramsal)](../images/notab1.png)
 
 NoTab, sekme açma alışkanlığınızı kırmanıza yardımcı olacak mükemmel bir araçtır. **Yeni sekme açmadan bağlantıları önizlemeyi** inanılmaz derecede kolay ve sezgisel hale getirir.
 
 Özelleştirilebilir önizlemeler ve temiz bir okuyucu modu gibi özellikleriyle, sorunu kaynağında ele alarak **tarayıcı sekmelerini verimli bir şekilde yönetmenize** yardımcı olur.
 
-![NoTab sekmeleri azaltmaya yardımcı oluyor](images/notab2.png)
+![NoTab sekmeleri azaltmaya yardımcı oluyor](../images/notab2.png)
 
 Tarayıcınızı sonsuz sekmelerin kaosundan geri alma zamanı.
 

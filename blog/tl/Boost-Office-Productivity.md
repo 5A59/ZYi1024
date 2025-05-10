@@ -10,7 +10,7 @@ Isipin na nagbabasa ka ng email sa trabaho na may ilang links. Imbis na buksan a
 
 Ang simpleng pagbabagong ito ay panatilihin kang nakatuon sa gawaing ginagawa mo.
 
-![Produktibidad sa opisina gamit ang link preview](images/notab1.png)
+![Produktibidad sa opisina gamit ang link preview](../images/notab1.png)
 
 Ang paggamit ng **link preview Chrome extension** tulad ng NoTab ay isang mahalagang estratehiya para **maayos na pamahalaan ang mga tab sa browser** sa isang propesyonal na kapaligiran.  Pinapayagan ka nitong **i-preview ang mga link nang hindi umaalis sa pahina**, na nagpapababa sa mga distractions.
 
@@ -19,7 +19,7 @@ Ang NoTab ay higit pa sa isang previewer; isa ito sa mga importanteng **browser 
 *   **Mabilis na Paghahanap/Pagsasalin:** I-drag ang teksto para maghanap o magsalin nang hindi nagbubukas ng bagong tab – perpekto para sa research.
 *   **Adjustable Previews:** Baguhin ang laki ng preview window ayon sa iyong pangangailangan.
 
-![Feature ng mabilisang paghahanap ng NoTab](images/notab2.png)
+![Feature ng mabilisang paghahanap ng NoTab](../images/notab2.png)
 
 Huwag hayaang sirain ng context switching ang iyong pagiging episyente sa trabaho.
 

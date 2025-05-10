@@ -12,7 +12,7 @@ Narito kung gaano ito kasimple:
 
 Iyon lang! Makakakuha ka ng instant **link hover preview** nang hindi umaalis.
 
-![Nagpapakita ng inline link preview](images/notab1.png)
+![Nagpapakita ng inline link preview](../images/notab1.png)
 
 Bakit ito napakakinabang?
 *   **Tuloy-tuloy na Pagbabasa:** Manatiling nakatuon sa iyong pangunahing nilalaman.
@@ -21,7 +21,7 @@ Bakit ito napakakinabang?
 
 Ang NoTab ang aking pangunahing rekomendasyon para dito. Nagbibigay ito ng isang maayos at nako-customize na karanasan para sa **pag-preview ng mga link nang hindi umaalis sa pahina**. Maaari mong ayusin ang laki ng preview window, gumamit ng reader mode, at higit pa.
 
-![Pag-customize ng mga preview ng NoTab](images/notab2.png)
+![Pag-customize ng mga preview ng NoTab](../images/notab2.png)
 
 Ito ang pinakasimpleng **Chrome extension para mag-preview ng mga link** at pagmaster ang sining ng pag-preview sa kasalukuyang pahina.
 

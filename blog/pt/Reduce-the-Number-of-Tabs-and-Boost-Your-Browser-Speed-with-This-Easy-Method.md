@@ -9,7 +9,7 @@ Essa abordagem ajuda diretamente a **reduzir o número de abas** que você preci
 *   Confira artigos relacionados sem sair do que você está lendo.
 *   Verifique links nas redes sociais instantaneamente.
 
-![Visualizando links facilmente](images/notab1.png)
+![Visualizando links facilmente](../images/notab1.png)
 
 Não se trata apenas de organização; é sobre desempenho. Ao usar uma ferramenta como a extensão NoTab para Chrome, que oferece **visualização de links**, você ativamente **economiza memória ao reduzir o número de abas abertas**, o que leva a uma experiência de navegação visivelmente mais rápida.
 
@@ -17,6 +17,6 @@ Você pode **gerenciar abas do navegador de forma eficiente** simplesmente visua
 
 Pronto para **acelerar sua navegação**? Experimente o NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Janela de visualização ajustável](images/notab2.png)
+![Janela de visualização ajustável](../images/notab2.png)
 
 Pare de deixar a sobrecarga de abas te atrasar. Comece a visualizar!

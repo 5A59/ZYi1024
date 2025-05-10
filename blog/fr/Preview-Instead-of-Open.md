@@ -8,7 +8,7 @@ C'est là que les **extensions d'aperçu de liens** excellent. Elles incarnent p
 
 Imaginez que vous lisez un article et que vous voulez vérifier une source. Au lieu d'ouvrir un nouvel onglet, ce qui interrompt votre flux, vous passez simplement votre souris ou cliquez pour obtenir un **aperçu de lien intégré**. Vous obtenez les informations dont vous avez besoin et restez concentré.
 
-![Aperçu d'un lien dans la page](images/notab1.png)
+![Aperçu d'un lien dans la page](../images/notab1.png)
 
 Cette approche devient essentielle pour :
 *   **Recherche Ciblée:** Vérifiez rapidement les sources et les références.
@@ -17,7 +17,7 @@ Cette approche devient essentielle pour :
 
 NoTab est une fantastique **extension Chrome pour prévisualiser les liens**, entièrement conçue autour de ce principe de navigation moderne. Elle vous aide à **réduire le nombre d'onglets dans votre navigateur** et à interagir avec le web de manière plus fluide.
 
-![Fenêtre d'aperçu claire de NoTab](images/notab2.png)
+![Fenêtre d'aperçu claire de NoTab](../images/notab2.png)
 
 Rejoignez la tendance et découvrez une façon de naviguer plus propre, plus rapide et plus concentrée.
 

@@ -12,7 +12,7 @@ Kwa nini NoTab? Hii ndiyo sababu ninadhani kweli ina ubora:
 *   **Zaidi ya Kuangalia Tu:** Inajumuisha ziada muhimu kama vile **Njia Safi ya Kusoma**, ukubwa wa dirisha unaoweza kurekebishwa, na hata kazi za haraka za kuburuta ili kutafuta/kutafsiri.
 *   **Hupunguza Mrundiko:** Inakusaidia moja kwa moja **kupunguza idadi ya tabs kwenye kivinjari chako**, na kusababisha eneo la kazi safi na utumiaji wa haraka wa mtandao.
 
-![NoTab previewing a link smoothly](images/notab1.png)
+![NoTab previewing a link smoothly](../images/notab1.png)
 
 Fikiria hali ambazo NoTab inang'aa:
 *   Kuchanganua matokeo ya utafutaji.
@@ -22,7 +22,7 @@ Fikiria hali ambazo NoTab inang'aa:
 
 Ni **extension bora ya hakuna tabs zaidi** ambayo inatimiza ahadi yake kweli.
 
-![NoTab's settings and features](images/notab2.png)
+![NoTab's settings and features](../images/notab2.png)
 
 Ikiwa unataka **kupunguza mrundiko kwenye kivinjari chako** na uzoefu wa njia rahisi zaidi ya kuingiliana na viungo, NoTab ni **extension ya Chrome ya kuangalia viungo** ambayo ninaipendekeza kwa moyo wote.
 

@@ -12,7 +12,7 @@ Inilah yang ditawarkan oleh **ekstensi pratinjau tautan**. Mereka membantu Anda:
 *   Mengevaluasi tautan dengan cepat untuk relevansi.
 *   **Mengurangi kekacauan tab di Chrome** (dan browser lain).
 
-![Pratinjau tautan tanpa membuka tab](images/notab1.png)
+![Pratinjau tautan tanpa membuka tab](../images/notab1.png)
 
 NoTab adalah contoh sempurna dari alat semacam itu. Ini memberikan pengalaman **pratinjau hover tautan** yang mulus, membuatnya mudah untuk mengintip tautan.
 
@@ -21,7 +21,7 @@ Fitur utama untuk tetap fokus:
 *   **Mode Pembaca:** Tampilan artikel yang ditautkan bebas gangguan.
 *   **Tindakan Cepat:** Cari atau terjemahkan teks yang dipilih secara instan.
 
-![Fitur peningkatan fokus NoTab](images/notab2.png)
+![Fitur peningkatan fokus NoTab](../images/notab2.png)
 
 Jika siklus tak berujung membuka tab menguras fokus Anda dan memperlambat Anda, inilah saatnya untuk perubahan.
 

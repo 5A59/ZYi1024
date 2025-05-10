@@ -9,7 +9,7 @@ Warum ist das so wichtig für die Produktivität?
 *   **Spare Zeit:** Entscheide schnell, ob ein Inhalt relevant ist, bevor du einen neuen Tab öffnest.
 *   **Reduziere Ressourcenverbrauch:** Weniger Tabs bedeuten einen schnelleren, zufriedeneren Browser.
 
-![NoTab Link-Vorschau in Aktion](images/notab1.png)
+![NoTab Link-Vorschau in Aktion](../images/notab1.png)
 
 Eine der herausragenden **Chrome-Erweiterungen für Produktivität** in diesem Bereich ist NoTab. Sie ermöglicht es dir, **Links in der Vorschau anzuzeigen, ohne neue Tabs zu öffnen**, direkt innerhalb deiner aktuellen Seite. Sie ist unglaublich intuitiv und sorgt für ein flüssigeres und kontrollierteres Surferlebnis.
 
@@ -17,6 +17,6 @@ Wenn du deinen **Browser entrümpeln** und deine **Browsergeschwindigkeit erhöh
 
 Schau dir NoTab hier an: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab Lesemodus-Funktion](images/notab2.png)
+![NoTab Lesemodus-Funktion](../images/notab2.png)
 
 Sie ist eine der **besten Link-Vorschau-Erweiterungen für Chrome** und ein fantastischer Ausgangspunkt für ein produktiveres Jahr online.

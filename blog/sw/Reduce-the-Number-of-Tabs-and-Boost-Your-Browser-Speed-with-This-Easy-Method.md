@@ -10,7 +10,7 @@ Mbinu hii inakusaidia moja kwa moja **kupunguza idadi ya tabo** unazohitaji kufu
 *   Angalia makala zinazohusiana bila kuacha unayoisoma.
 *   Thibitisha viungo kwenye mitandao ya kijamii papo hapo.
 
-![Kuangalia viungo kwa urahisi](images/notab1.png)
+![Kuangalia viungo kwa urahisi](../images/notab1.png)
 
 Hii sio tu kuhusu usafi; ni kuhusu utendaji. Kwa kutumia zana kama NoTab, **programu jalizi ya Chrome ya kuangalia viungo**, unakuwa **unahifadhi kumbukumbu kwa kupunguza tabo zilizo wazi**, na hivyo kusababisha uzoefu wa kuvinjari kwa kasi zaidi.
 
@@ -18,7 +18,7 @@ Unaweza **kusimamia tabo za kivinjari kwa ufanisi** kwa kuangalia kwanza kabla y
 
 Uko tayari **kuongeza kasi ya kuvinjari kwako**? Jaribu NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Dirisha la kukagua linaloweza kurekebishwa](images/notab2.png)
+![Dirisha la kukagua linaloweza kurekebishwa](../images/notab2.png)
 
 Acha kuruhusu mzigo wa tabo kukupunguza kasi. Anza kuangalia kabla ya kufungua!
 

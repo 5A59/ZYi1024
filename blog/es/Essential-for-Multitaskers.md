@@ -10,13 +10,13 @@ Aquí tienes consejos sencillos, impulsados por las vistas previas de enlaces:
 2.  **Usa Vistas Previas Integradas:** Elige herramientas que te permitan **ver la vista previa de los enlaces en la página actual**. Esto mantiene tu tarea principal en primer plano y centrada.
 3.  **Aprovecha el Modo Lectura:** Para los enlaces con mucho texto, usa el modo lectura de la extensión de vista previa para comprender rápidamente el contenido sin la distracción de la carga completa de la página.
 
-![Multitarea con vista previa de enlaces](images/notab1.png)
+![Multitarea con vista previa de enlaces](../images/notab1.png)
 
 NoTab es un ejemplo fantástico de una **extensión de gestión de pestañas** creada para personas que hacen multitarea. Te permite **obtener una vista previa de los enlaces sin abrir nuevas pestañas**, manteniendo tu espacio de trabajo limpio y tu concentración nítida.
 
 Funciones como los tamaños de vista previa ajustables y la capacidad de ver varias vistas previas simultáneamente hacen que la comparación de información entre fuentes sea muy sencilla.
 
-![Función de vistas previas múltiples de NoTab](images/notab2.png)
+![Función de vistas previas múltiples de NoTab](../images/notab2.png)
 
 Deja de permitir que la sobrecarga de pestañas obstaculice tu multitarea.
 

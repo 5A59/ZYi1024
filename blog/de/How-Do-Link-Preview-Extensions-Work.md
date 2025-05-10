@@ -9,14 +9,14 @@ Im Kern muss ein **Browser-Link-Vorschau**-Tool Inhalte von einer verlinkten URL
 3.  **Inhaltsextraktion & Bereinigung:** Das abgerufene HTML wird analysiert. Die Erweiterung extrahiert den Hauptinhalt (Text, grundlegende Formatierung, möglicherweise Schlüsselbilder) und *bereinigt* ihn oft, indem potenziell schädliche Skripte oder Stile entfernt werden, um die Sicherheit zu gewährleisten und zu verhindern, dass die Vorschau die aktuelle Seite beeinträchtigt.
 4.  **Anzeige im Overlay:** Dieser bereinigte Inhalt wird dann in ein temporäres Overlay-Fenster (oft ein `iframe` oder ein `div`-Element) eingefügt, das in der Nähe des Links auf deiner aktuellen Seite positioniert ist. Dies ermöglicht es dir, **Links auf der aktuellen Seite in der Vorschau anzuzeigen**.
 
-![Diagramm des Link-Vorschau-Prozesses - konzeptionell](images/notab1.png) <!-- Konzeptionelles Bild -->
+![Diagramm des Link-Vorschau-Prozesses - konzeptionell](../images/notab1.png) <!-- Konzeptionelles Bild -->
 
 Erweiterungen wie NoTab verfeinern diesen Prozess und fügen Funktionen hinzu wie:
 *   **Lesemodus:** Weiterverarbeitung des Inhalts für bessere Lesbarkeit.
 *   **Caching:** Manchmal temporäres Speichern von Vorschauen für schnellere nachfolgende Ansichten.
 *   **Anpassung:** Ermöglicht es Benutzern, Auslösemethoden und das Erscheinungsbild der Vorschau zu steuern.
 
-![Die Benutzeroberfläche von NoTab](images/notab2.png)
+![Die Benutzeroberfläche von NoTab](../images/notab2.png)
 
 Das Verständnis dieser Funktionsweise hilft zu erkennen, wie diese Tools es dir ermöglichen, **Websites vor dem Öffnen in der Vorschau anzuzeigen**, was Zeit und Ressourcen spart. Sie verwalten Webanfragen und die Anzeige auf clevere Weise, um eine nahtlose **Inline-Link-Vorschau** zu bieten.
 

@@ -9,7 +9,7 @@ Imagine reading a work email with several links. Instead of opening each one, di
 
 This simple change keeps you focused on the task at hand.
 
-![Office productivity with link preview](images/notab1.png)
+![Office productivity with link preview](../images/notab1.png)
 
 Using a **link preview Chrome extension** like NoTab is a key strategy to **manage browser tabs efficiently** in a professional setting. It allows you to **preview links without leaving the page**, minimizing distractions.
 
@@ -18,7 +18,7 @@ NoTab is more than just a previewer; it's one of the essential **browser product
 *   **Quick Search/Translate:** Drag text to search or translate without opening new tabs – perfect for research.
 *   **Adjustable Previews:** Fit the preview window to your needs.
 
-![NoTab quick search feature](images/notab2.png)
+![NoTab quick search feature](../images/notab2.png)
 
 Stop letting context switching kill your workday efficiency.
 

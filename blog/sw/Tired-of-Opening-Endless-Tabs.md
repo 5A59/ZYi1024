@@ -12,7 +12,7 @@ Hii ndiyo hasa **viongezi vya kuchungulia viungo (link preview extensions)** vin
 *   Tathmini haraka viungo kwa umuhimu.
 *   **Punguza msongamano wa vichupo kwenye Chrome** (na vivinjari vingine).
 
-![Kuchungulia kiungo bila kufungua kichupo](images/notab1.png)
+![Kuchungulia kiungo bila kufungua kichupo](../images/notab1.png)
 
 NoTab ni mfano mzuri wa zana kama hiyo. Inatoa uzoefu mzuri wa **kuchungulia kiungo kwa kuelekeza kipanya (link hover preview)**, na kuifanya iwe rahisi kutazama viungo.
 
@@ -21,7 +21,7 @@ Sifa muhimu za kukusaidia kukazia akili:
 *   **Hali ya Usomaji (Reader Mode):** Mwonekano usio na usumbufu wa makala zilizounganishwa.
 *   **Vitendo vya Haraka (Quick Actions):** Tafuta au tafsiri maandishi yaliyochaguliwa mara moja.
 
-![Sifa za NoTab za kuboresha umakini](images/notab2.png)
+![Sifa za NoTab za kuboresha umakini](../images/notab2.png)
 
 Ikiwa mzunguko usioisha wa kufungua vichupo unakumaliza nguvu na kupunguza kasi yako, ni wakati wa mabadiliko.
 

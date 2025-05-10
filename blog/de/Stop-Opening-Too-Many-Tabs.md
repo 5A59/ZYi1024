@@ -13,13 +13,13 @@ Diese kleine Änderung in deinen Gewohnheiten, ermöglicht durch eine **Link-Pre
 *   **Erhöht die Konzentration:** Weniger Unordnung und Kontextwechsel bedeuten bessere Konzentration.
 *   **Effizientes Browsen:** Schnelles Überprüfen von Links in Suchergebnissen, sozialen Medien oder Artikeln.
 
-![Vorher und nachher Link-Vorschau (konzeptionell)](images/notab1.png)
+![Vorher und nachher Link-Vorschau (konzeptionell)](../images/notab1.png)
 
 NoTab ist das perfekte Tool, um dir zu helfen, die Tab-Öffnungs-Gewohnheit zu brechen. Es macht das **Vorschauen von Links ohne das Öffnen neuer Tabs** unglaublich einfach und intuitiv.
 
 Mit Funktionen wie anpassbaren Vorschauen und einem übersichtlichen Lesemodus hilft es dir, **Browser-Tabs effizient zu verwalten**, indem es das Problem an der Wurzel packt.
 
-![NoTab hilft, Tabs zu reduzieren](images/notab2.png)
+![NoTab hilft, Tabs zu reduzieren](../images/notab2.png)
 
 Es ist an der Zeit, deinen Browser aus dem Chaos endloser Tabs zu befreien.
 

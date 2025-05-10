@@ -9,7 +9,7 @@
 *   **समय बचाएं:** यह जल्दी से तय करें कि कोई कंटेंट नया टैब खोलने से पहले प्रासंगिक है या नहीं।
 *   **रिसोर्स की खपत कम करें:** जितने कम टैब होंगे, आपका ब्राउज़र उतना ही तेज़ और बेहतर काम करेगा।
 
-![NoTab link preview in action](images/notab1.png)
+![NoTab link preview in action](../images/notab1.png)
 
 इस क्षेत्र में **प्रोडक्टिविटी के लिए क्रोम एक्सटेंशन (Chrome Extensions for Productivity)** में से एक बेहतरीन एक्सटेंशन NoTab है। यह आपको **नए टैब खोले बिना लिंक को प्रीव्यू (Preview Links without Opening New Tabs)** करने की अनुमति देता है, वो भी सीधे आपके वर्तमान पेज पर। यह अविश्वसनीय रूप से सहज है और ब्राउज़िंग को आसान और अधिक नियंत्रित महसूस कराता है।
 
@@ -17,6 +17,6 @@
 
 NoTab को यहां देखें: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab reader mode feature](images/notab2.png)
+![NoTab reader mode feature](../images/notab2.png)
 
 यह **क्रोम के लिए सबसे अच्छे लिंक प्रीव्यू एक्सटेंशन (Best Link Preview Extensions for Chrome)** में से एक है और ऑनलाइन एक अधिक प्रोडक्टिव साल के लिए एक शानदार शुरुआती बिंदु है।

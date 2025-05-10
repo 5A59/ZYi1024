@@ -11,7 +11,7 @@ Por que NoTab? Eis por que eu genuinamente acho que ele se destaca:
 *   **Mais do que Apenas Visualização:** Ele inclui extras genuinamente úteis, como um **Modo Leitor** limpo, tamanhos de janela ajustáveis e até mesmo funções rápidas de arrastar para pesquisar/traduzir.
 *   **Reduz a Desordem:** Ele ajuda diretamente a **reduzir as abas do navegador**, levando a um espaço de trabalho mais limpo e uma navegação mais rápida.
 
-![NoTab visualizando um link suavemente](images/notab1.png)
+![NoTab visualizando um link suavemente](../images/notab1.png)
 
 Pense em situações onde o NoTab brilha:
 *   Analisando resultados de pesquisa.
@@ -21,7 +21,7 @@ Pense em situações onde o NoTab brilha:
 
 É uma fantástica extensão para **acabar com o excesso de abas** que realmente cumpre sua promessa.
 
-![Configurações e recursos do NoTab](images/notab2.png)
+![Configurações e recursos do NoTab](../images/notab2.png)
 
 Se você deseja **organizar seu navegador** e experimentar uma maneira mais fluida de interagir com links, o NoTab é a **extensão do Chrome para visualizar links** que eu recomendo de todo o coração.
 

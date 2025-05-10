@@ -9,7 +9,7 @@ Por que isso é crucial para a produtividade?
 *   **Economize Tempo:** Decida rapidamente se o conteúdo é relevante antes de se comprometer com uma nova aba.
 *   **Reduza o Consumo de Recursos:** Menos abas significam um navegador mais rápido e feliz.
 
-![Pré-visualização de links NoTab em ação](images/notab1.png)
+![Pré-visualização de links NoTab em ação](../images/notab1.png)
 
 Uma das **extensões do Chrome para produtividade** que se destacam neste espaço é o NoTab. Ele permite que você **previsualize links sem abrir novas abas**, diretamente dentro da sua página atual. É incrivelmente intuitivo e torna a navegação mais suave e controlada.
 
@@ -17,6 +17,6 @@ Se você deseja **organizar seu navegador** e **acelerar sua experiência de nav
 
 Confira o NoTab aqui: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Recurso de modo de leitura NoTab](images/notab2.png)
+![Recurso de modo de leitura NoTab](../images/notab2.png)
 
 É uma das **melhores extensões de pré-visualização de links para Chrome** e um ponto de partida fantástico para um ano mais produtivo online.

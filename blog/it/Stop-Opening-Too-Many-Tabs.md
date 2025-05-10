@@ -13,13 +13,13 @@ Questo piccolo cambiamento nelle abitudini, facilitato da una **estensione per l
 *   **Migliora la concentrazione:** Meno disordine e cambi di contesto significano una migliore concentrazione.
 *   **Navigazione efficiente:** Esamina rapidamente i link nei risultati di ricerca, sui social media o negli articoli.
 
-![Prima e dopo l'anteprima dei link (concettuale)](images/notab1.png)
+![Prima e dopo l'anteprima dei link (concettuale)](../images/notab1.png)
 
 NoTab è lo strumento perfetto per aiutarti a spezzare l'abitudine di aprire schede. Rende l'**anteprima dei link senza aprire nuove schede** incredibilmente facile e intuitiva.
 
 Con funzionalità come anteprime personalizzabili e una modalità di lettura pulita, ti aiuta a **gestire le schede del browser in modo efficiente** affrontando il problema alla radice.
 
-![NoTab aiuta a ridurre le schede](images/notab2.png)
+![NoTab aiuta a ridurre le schede](../images/notab2.png)
 
 È ora di liberare il tuo browser dal caos delle schede infinite.
 

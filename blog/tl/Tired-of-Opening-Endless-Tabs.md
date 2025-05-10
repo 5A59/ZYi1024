@@ -12,7 +12,7 @@ Ito mismo ang iniaalok ng **link preview extensions**. Tinutulungan ka nila na:
 *   Mabilis na suriin ang mga link kung may kaugnayan.
 *   **Bawasan ang kalat ng tab sa Chrome** (at iba pang mga browser).
 
-![Previewing link without opening tab](images/notab1.png)
+![Previewing link without opening tab](../images/notab1.png)
 
 Ang NoTab ay isang perpektong halimbawa ng ganitong tool. Nagbibigay ito ng maayos na **link hover preview** experience, na ginagawang madali ang pagsilip sa mga link.
 
@@ -21,7 +21,7 @@ Mga pangunahing feature para manatiling nakatuon:
 *   **Reader Mode:** Distraction-free na pagtingin sa mga naka-link na artikulo.
 *   **Quick Actions:** Hanapin o isalin agad ang napiling teksto.
 
-![NoTab's focus-enhancing features](images/notab2.png)
+![NoTab's focus-enhancing features](../images/notab2.png)
 
 Kung ang walang katapusang cycle ng pagbubukas ng mga tab ay nakakawala ng iyong focus at nagpapabagal sa iyo, oras na para sa pagbabago.
 

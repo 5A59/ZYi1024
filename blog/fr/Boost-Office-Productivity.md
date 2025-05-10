@@ -9,7 +9,7 @@ Imaginez que vous lisez un e-mail professionnel avec plusieurs liens. Au lieu d'
 
 Ce simple changement vous permet de rester concentré sur la tâche en cours.
 
-![Productivité au bureau avec aperçu de liens](images/notab1.png)
+![Productivité au bureau avec aperçu de liens](../images/notab1.png)
 
 L'utilisation d'une **extension Chrome d'aperçu de liens** comme NoTab est une stratégie clé pour **gérer efficacement les onglets de navigateur** dans un environnement professionnel. Elle vous permet de **prévisualiser les liens sans quitter la page**, minimisant ainsi les distractions.
 
@@ -18,7 +18,7 @@ NoTab est plus qu'un simple outil de prévisualisation ; c'est l'un des **outils
 *   **Recherche/Traduction Rapide :** Glissez du texte pour rechercher ou traduire sans ouvrir de nouveaux onglets – idéal pour la recherche.
 *   **Aperçus Ajustables :** Adaptez la fenêtre d'aperçu à vos besoins.
 
-![Fonction de recherche rapide de NoTab](images/notab2.png)
+![Fonction de recherche rapide de NoTab](../images/notab2.png)
 
 Arrêtez de laisser le changement de contexte anéantir l'efficacité de votre journée de travail.
 

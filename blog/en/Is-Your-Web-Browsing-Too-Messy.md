@@ -6,7 +6,7 @@ The core of browser messiness often comes from opening tabs "just in case." We c
 
 Instead of opening, you preview. Hover over a link, see the content, and decide *then* if it warrants a full tab. This simple habit drastically helps you **declutter your browser**.
 
-![Clean browsing with link preview](images/notab1.png)
+![Clean browsing with link preview](../images/notab1.png)
 
 How does this organize your browsing?
 *   **Fewer Tabs:** You'll naturally **reduce browser tabs** because you only open what's truly necessary.
@@ -15,7 +15,7 @@ How does this organize your browsing?
 
 NoTab is a fantastic **Chrome extension to preview links** that excels at tidying up your browsing habits. It offers smooth **inline link preview**, letting you peek into links effortlessly.
 
-![NoTab interface for organization](images/notab2.png)
+![NoTab interface for organization](../images/notab2.png)
 
 It helps you **manage browser tabs efficiently** by preventing the mess before it starts.
 

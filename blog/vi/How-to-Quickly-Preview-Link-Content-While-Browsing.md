@@ -10,7 +10,7 @@ Những công cụ này cho phép bạn di chuột qua (hoặc nhấp vào, tùy
 *   So sánh chi tiết sản phẩm một cách nhanh chóng.
 *   Nắm bắt ý chính của một bài viết mà không cần rời khỏi công việc hiện tại.
 
-![Xem trước liên kết tức thì](images/notab1.png)
+![Xem trước liên kết tức thì](../images/notab1.png)
 
 Khi nói đến **tiện ích mở rộng xem trước liên kết tốt nhất cho Chrome**, tôi thực sự khuyên dùng NoTab. Nó nhẹ, có thể tùy chỉnh và giúp **xem trước các liên kết mà không cần rời khỏi trang** một cách dễ dàng.
 
@@ -20,7 +20,7 @@ NoTab cung cấp các tính năng như:
 *   Chế độ đọc không gây xao nhãng để đọc tập trung.
 *   Tìm kiếm và dịch nhanh bằng cách kéo văn bản.
 
-![Các tính năng của NoTab](images/notab2.png)
+![Các tính năng của NoTab](../images/notab2.png)
 
 Nó thay đổi cách bạn tương tác với các liên kết, giúp duyệt web nhanh hơn và tập trung hơn. Hãy dừng vòng lặp mở tab vô tận và bắt đầu xem trước.
 

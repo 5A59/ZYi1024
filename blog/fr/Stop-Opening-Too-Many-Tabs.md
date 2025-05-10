@@ -13,13 +13,13 @@ Ce petit changement d'habitude, facilité par une **extension de prévisualisati
 *   **Améliore la Concentration :** Moins d'encombrement et de changements de contexte signifie une meilleure concentration.
 *   **Navigation Efficace :** Évaluez rapidement les liens dans les résultats de recherche, les médias sociaux ou les articles.
 
-![Avant et après la prévisualisation des liens (conceptuel)](images/notab1.png)
+![Avant et après la prévisualisation des liens (conceptuel)](../images/notab1.png)
 
 NoTab est l'outil parfait pour vous aider à rompre avec l'habitude d'ouvrir des onglets. Il rend la **prévisualisation des liens sans ouvrir de nouveaux onglets** incroyablement facile et intuitive.
 
 Avec des fonctionnalités telles que des aperçus personnalisables et un mode lecteur propre, il vous aide à **gérer efficacement les onglets de votre navigateur** en s'attaquant au problème à la source.
 
-![NoTab aidant à réduire les onglets](images/notab2.png)
+![NoTab aidant à réduire les onglets](../images/notab2.png)
 
 Il est temps de reprendre le contrôle de votre navigateur face au chaos des onglets infinis.
 

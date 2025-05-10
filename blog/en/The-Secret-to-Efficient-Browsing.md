@@ -11,13 +11,13 @@ This approach offers several benefits:
 *   **Reduced Cognitive Load:** Stay focused on your primary task.
 *   **Efficient Resource Use:** Avoids loading unnecessary resources, helping to **save memory by reducing open tabs**.
 
-![Link hover preview example](images/notab1.png)
+![Link hover preview example](../images/notab1.png)
 
 This technology is the core of why **browser link preview** tools are so effective. They allow you to **preview websites before opening** them fully, streamlining research, social media scrolling, and news consumption.
 
 NoTab utilizes this technology elegantly, offering a smooth and customizable **inline link preview** experience.
 
-![Customizing NoTab preview](images/notab2.png)
+![Customizing NoTab preview](../images/notab2.png)
 
 Ready to unlock this browsing secret?
 

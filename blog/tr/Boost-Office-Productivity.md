@@ -10,7 +10,7 @@ Günümüz ofislerinde, tarayıcı sekmeleri tavşanlar gibi çoğalır. E-posta
 
 Bu basit değişiklik, mevcut görevinize odaklanmanızı sağlar.
 
-![Link önizleme ile ofis verimliliği](images/notab1.png)
+![Link önizleme ile ofis verimliliği](../images/notab1.png)
 
 NoTab gibi bir **link önizleme Chrome eklentisi**, profesyonel bir ortamda **tarayıcı sekmelerini verimli bir şekilde yönetmenin** önemli bir stratejisidir. Dikkatinizi dağıtmadan **sayfadan ayrılmadan bağlantıları önizlemenizi** sağlar.
 
@@ -19,7 +19,7 @@ NoTab sadece bir önizleyiciden daha fazlasıdır; temel **tarayıcı verimlilik
 *   **Hızlı Arama/Çeviri:** Metni sürükleyerek yeni sekme açmadan arama yapın veya çevirin – araştırma için mükemmel.
 *   **Ayarlanabilir Önizlemeler:** Önizleme penceresini ihtiyaçlarınıza göre ayarlayın.
 
-![NoTab hızlı arama özelliği](images/notab2.png)
+![NoTab hızlı arama özelliği](../images/notab2.png)
 
 Bağlam geçişinin iş günü verimliliğinizi öldürmesine izin vermeyi bırakın.
 

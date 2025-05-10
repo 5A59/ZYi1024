@@ -12,7 +12,7 @@ Voici à quel point c'est simple :
 
 C'est tout ! Vous obtenez une **prévisualisation instantanée au survol du lien (link hover preview)** sans avoir à quitter la page.
 
-![Démonstration de la prévisualisation de liens intégrée](images/notab1.png)
+![Démonstration de la prévisualisation de liens intégrée](../images/notab1.png)
 
 Pourquoi est-ce si avantageux ?
 *   **Lecture Ininterrompue :** Restez concentré sur votre contenu principal.
@@ -21,7 +21,7 @@ Pourquoi est-ce si avantageux ?
 
 NoTab est ma principale recommandation pour cela. Il offre une expérience fluide et personnalisable pour **prévisualiser les liens sans quitter la page**. Vous pouvez ajuster la taille de la fenêtre de prévisualisation, utiliser un mode lecteur, et bien plus encore.
 
-![Personnalisation des prévisualisations NoTab](images/notab2.png)
+![Personnalisation des prévisualisations NoTab](../images/notab2.png)
 
 C'est l'**extension Chrome la plus simple pour prévisualiser les liens** et maîtriser l'art de la prévisualisation dans la page actuelle.
 

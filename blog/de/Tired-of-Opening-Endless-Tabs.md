@@ -12,7 +12,7 @@ Genau das bieten **Link Preview Extensions**. Sie helfen dir:
 *   Links schnell auf Relevanz zu prüfen.
 *   **Tab-Chaos in Chrome zu reduzieren** (und anderen Browsern).
 
-![Linkvorschau ohne Tab zu öffnen](images/notab1.png)
+![Linkvorschau ohne Tab zu öffnen](../images/notab1.png)
 
 NoTab ist ein perfektes Beispiel für solch ein Tool. Es bietet ein reibungsloses **Link Hover Preview** Erlebnis und macht es mühelos, in Links hineinzusehen.
 
@@ -21,7 +21,7 @@ Schlüsselfunktionen, um fokussiert zu bleiben:
 *   **Lesemodus:** Ablenkungsfreie Ansicht von verlinkten Artikeln.
 *   **Schnellaktionen:** Durchsuche oder übersetze ausgewählten Text sofort.
 
-![Die Fokus-verbessernden Funktionen von NoTab](images/notab2.png)
+![Die Fokus-verbessernden Funktionen von NoTab](../images/notab2.png)
 
 Wenn der endlose Kreislauf des Öffnens von Tabs deine Konzentration raubt und dich ausbremst, ist es Zeit für eine Veränderung.
 

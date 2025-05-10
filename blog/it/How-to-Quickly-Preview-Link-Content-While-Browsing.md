@@ -9,7 +9,7 @@ Questi strumenti ti permettono di passare il mouse sopra (o cliccare, a seconda 
 *   Confrontare rapidamente i dettagli dei prodotti.
 *   Capire l'essenza di un articolo senza lasciare l'attività che stai svolgendo.
 
-![Anteprima immediata dei link](images/notab1.png)
+![Anteprima immediata dei link](../images/notab1.png)
 
 Quando si tratta della **migliore estensione di Chrome per l'anteprima dei link**, consiglio vivamente NoTab. È leggera, personalizzabile e rende **l'anteprima dei link senza lasciare la pagina** un gioco da ragazzi.
 
@@ -18,7 +18,7 @@ NoTab offre funzionalità come:
 *   Una modalità di lettura priva di distrazioni per una lettura più mirata.
 *   Ricerca e traduzione rapide trascinando il testo.
 
-![Funzionalità di NoTab](images/notab2.png)
+![Funzionalità di NoTab](../images/notab2.png)
 
 Trasforma il modo in cui interagisci con i link, rendendo la navigazione più veloce e più mirata. Dì basta al ciclo infinito di aperture di schede e inizia a visualizzare le anteprime.
 

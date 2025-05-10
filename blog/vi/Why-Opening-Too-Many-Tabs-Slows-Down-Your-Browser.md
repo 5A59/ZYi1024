@@ -14,7 +14,7 @@ Vậy làm thế nào để chống lại điều này mà không phải hy sinh
 
 Hãy cùng khám phá **các tiện ích xem trước liên kết**. Những công cụ này cung cấp một giải pháp thông minh.
 
-![Minh họa việc sử dụng tài nguyên - khái niệm](images/notab1.png) <!-- Có thể khó tìm thấy một hình ảnh trực tiếp cho việc này, sử dụng một khái niệm giữ chỗ -->
+![Minh họa việc sử dụng tài nguyên - khái niệm](../images/notab1.png) <!-- Có thể khó tìm thấy một hình ảnh trực tiếp cho việc này, sử dụng một khái niệm giữ chỗ -->
 
 Thay vì tải hoàn toàn mọi liên kết vào một tab mới, ngốn tài nguyên, các tiện ích mở rộng như NoTab cho phép bạn **xem trước liên kết mà không cần mở tab mới**. Chúng chỉ lấy đủ thông tin để hiển thị cho bạn nội dung trong một lớp phủ (overlay) gọn nhẹ.
 
@@ -26,7 +26,7 @@ Thay vì tải hoàn toàn mọi liên kết vào một tab mới, ngốn tài n
 
 Sử dụng một công cụ **xem trước liên kết trên trình duyệt** là một cách trực tiếp để **giảm bớt sự lộn xộn của các tab trong Chrome** (hoặc các trình duyệt khác) và cải thiện hiệu suất.
 
-![NoTab xem trước một liên kết](images/notab2.png)
+![NoTab xem trước một liên kết](../images/notab2.png)
 
 Đừng để tình trạng quá tải tab làm tê liệt tốc độ trình duyệt của bạn.
 

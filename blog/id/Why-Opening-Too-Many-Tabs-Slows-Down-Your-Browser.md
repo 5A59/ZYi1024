@@ -13,7 +13,7 @@ Jadi, bagaimana cara mengatasi masalah ini tanpa mengorbankan akses ke informasi
 
 Masuklah **ekstensi pratinjau tautan**. Alat ini menawarkan solusi cerdas.
 
-![Ilustrasi penggunaan sumber daya - konseptual](images/notab1.png) <!-- Mungkin sulit menemukan gambar yang sesuai secara langsung, menggunakan konsep placeholder -->
+![Ilustrasi penggunaan sumber daya - konseptual](../images/notab1.png) <!-- Mungkin sulit menemukan gambar yang sesuai secara langsung, menggunakan konsep placeholder -->
 
 Alih-alih memuat sepenuhnya setiap tautan ke dalam tab baru yang haus sumber daya, ekstensi seperti NoTab memungkinkan Anda **melihat pratinjau tautan tanpa membuka tab baru**. Mereka hanya mengambil informasi yang cukup untuk menunjukkan konten dalam *overlay* ringan.
 
@@ -25,7 +25,7 @@ Ini berarti Anda dapat:
 
 Menggunakan alat **pratinjau tautan browser** adalah cara langsung untuk **mengurangi kekacauan tab di Chrome** (atau browser lain) dan meningkatkan kinerja.
 
-![NoTab menampilkan pratinjau tautan](images/notab2.png)
+![NoTab menampilkan pratinjau tautan](../images/notab2.png)
 
 Berhentilah membiarkan kelebihan tab melumpuhkan kecepatan browser Anda.
 

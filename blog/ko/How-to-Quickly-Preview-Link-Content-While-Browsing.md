@@ -9,7 +9,7 @@
 *   제품 세부 정보 빠르게 비교하기.
 *   현재 작업을 중단하지 않고 기사의 요점 파악하기.
 
-![Instant link preview](images/notab1.png)
+![Instant link preview](../images/notab1.png)
 
 **최고의 크롬 링크 미리 보기 확장 프로그램**을 꼽으라면 저는 주저 없이 NoTab을 추천합니다. 가볍고 사용자 정의가 가능하며 **페이지를 벗어나지 않고 링크를 미리 보기** 쉽게 해줍니다.
 
@@ -18,7 +18,7 @@ NoTab은 다음과 같은 기능을 제공합니다.
 *   집중적인 읽기를 위한 깔끔한 읽기 모드.
 *   텍스트 드래그를 통한 빠른 검색 및 번역.
 
-![NoTab features](images/notab2.png)
+![NoTab features](../images/notab2.png)
 
 NoTab은 링크와 상호 작용하는 방식을 변화시켜 브라우징을 더욱 빠르고 집중적으로 만들어 줍니다. 끝없는 탭 열기 사이클을 멈추고 미리 보기를 시작하세요.
 

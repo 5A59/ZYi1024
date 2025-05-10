@@ -8,7 +8,7 @@ Hier kommen **Link-Vorschau-Erweiterungen** ins Spiel. Sie verkörpern die Philo
 
 Stell dir vor, du liest einen Artikel und möchtest eine Quelle überprüfen. Anstatt einen neuen Tab zu öffnen und deinen Lesefluss zu unterbrechen, bewegst du einfach den Mauszeiger darüber oder klickst auf den Link, um eine **Inline-Link-Vorschau** zu erhalten. Du erhältst die benötigten Informationen und bleibst, wo du bist.
 
-![Vorschau eines Links innerhalb der Seite](images/notab1.png)
+![Vorschau eines Links innerhalb der Seite](../images/notab1.png)
 
 Dieser Ansatz wird immer wichtiger für:
 *   **Fokussierte Recherche:** Quellen und Referenzen schnell überprüfen.
@@ -17,7 +17,7 @@ Dieser Ansatz wird immer wichtiger für:
 
 NoTab ist eine fantastische **Chrome-Erweiterung zum Vorschauen von Links**, die vollständig auf diesem modernen Browsing-Prinzip basiert. Sie hilft dir, **Browser-Tabs zu reduzieren** und flüssiger mit dem Web zu interagieren.
 
-![NoTabs sauberes Vorschaufenster](images/notab2.png)
+![NoTabs sauberes Vorschaufenster](../images/notab2.png)
 
 Mach mit beim Trend und erlebe eine sauberere, schnellere und fokussiertere Art des Browsens.
 

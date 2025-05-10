@@ -9,7 +9,7 @@ Imagina que estás escribiendo un trabajo y necesitas consultar varias fuentes r
 
 Este es el poder de **previsualizar enlaces sin abrir nuevas pestañas**.
 
-![Estudiante investigando con vista previa de enlaces](images/notab1.png)
+![Estudiante investigando con vista previa de enlaces](../images/notab1.png)
 
 Para los estudiantes, una herramienta como NoTab es realmente imprescindible. Actúa como una potente **herramienta de productividad del navegador**, específicamente diseñada para agilizar la investigación:
 *   **Vista Previa de Enlaces en Línea:** Mantente enfocado en tu material de lectura principal.
@@ -17,7 +17,7 @@ Para los estudiantes, una herramienta como NoTab es realmente imprescindible. Ac
 *   **Búsqueda/Traducción Rápida:** Busca términos o traduce fragmentos instantáneamente arrastrando el texto - ¡sin necesidad de nuevas pestañas!
 *   **Vista Previa Multi-enlace:** Compara diferentes fuentes una al lado de la otra fácilmente.
 
-![Modo lector NoTab para investigación](images/notab2.png)
+![Modo lector NoTab para investigación](../images/notab2.png)
 
 NoTab te ayuda a **dejar de abrir demasiadas pestañas**, **ahorrar memoria** y, en última instancia, a investigar de manera más eficaz.
 

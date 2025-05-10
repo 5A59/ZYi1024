@@ -9,7 +9,7 @@ Essas ferramentas permitem que você passe o mouse sobre (ou clique, dependendo 
 *   Comparar detalhes de produtos rapidamente.
 *   Entender a essência de um artigo sem sair da sua tarefa atual.
 
-![Visualização instantânea de links](images/notab1.png)
+![Visualização instantânea de links](../images/notab1.png)
 
 Quando se trata da **melhor extensão para o Chrome de visualização de links**, eu realmente recomendo o NoTab. É leve, personalizável e facilita a **visualização de links sem sair da página**.
 
@@ -18,7 +18,7 @@ O NoTab oferece recursos como:
 *   Um modo de leitura limpo para leitura focada.
 *   Pesquisa e tradução rápidas arrastando o texto.
 
-![Recursos do NoTab](images/notab2.png)
+![Recursos do NoTab](../images/notab2.png)
 
 Ele transforma a maneira como você interage com os links, tornando a navegação mais rápida e focada. Pare com o ciclo interminável de abrir abas e comece a visualizar.
 

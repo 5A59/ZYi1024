@@ -9,7 +9,7 @@ Ces outils vous permettent de survoler (ou de cliquer, selon les paramètres) n'
 *   Comparer rapidement les détails des produits.
 *   Comprendre l'essentiel d'un article sans quitter votre tâche actuelle.
 
-![Aperçu instantané du lien](images/notab1.png)
+![Aperçu instantané du lien](../images/notab1.png)
 
 En ce qui concerne la **meilleure extension Chrome pour la prévisualisation des liens**, je recommande sincèrement NoTab. Elle est légère, personnalisable et rend la **prévisualisation des liens sans quitter la page** un jeu d'enfant.
 
@@ -18,7 +18,7 @@ NoTab offre des fonctionnalités telles que :
 *   Un mode lecteur épuré pour une lecture concentrée.
 *   Recherche et traduction rapides en faisant glisser le texte.
 
-![Fonctionnalités NoTab](images/notab2.png)
+![Fonctionnalités NoTab](../images/notab2.png)
 
 Elle transforme votre façon d'interagir avec les liens, rendant la navigation plus rapide et plus ciblée. Arrêtez le cycle sans fin d'ouverture d'onglets et commencez à prévisualiser.
 

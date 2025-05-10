@@ -11,13 +11,13 @@ Bu yaklaşım çeşitli avantajlar sunar:
 *   **Azaltılmış Bilişsel Yük:** Birincil görevinize odaklanın.
 *   **Verimli Kaynak Kullanımı:** Gereksiz kaynakları yüklemekten kaçınarak, **açık sekmeleri azaltarak bellek tasarrufuna** yardımcı olur.
 
-![Bağlantı üzerine gelindiğinde önizleme örneği](images/notab1.png)
+![Bağlantı üzerine gelindiğinde önizleme örneği](../images/notab1.png)
 
 Bu teknoloji, **tarayıcı bağlantı önizleme** araçlarının neden bu kadar etkili olduğunun temelini oluşturur. Araştırmayı, sosyal medyada gezinmeyi ve haber tüketimini kolaylaştırarak, **web sitelerini açmadan önce önizlemenizi** sağlarlar.
 
 NoTab bu teknolojiyi zarif bir şekilde kullanarak, sorunsuz ve özelleştirilebilir bir **satır içi bağlantı önizleme** deneyimi sunar.
 
-![NoTab önizlemesini özelleştirme](images/notab2.png)
+![NoTab önizlemesini özelleştirme](../images/notab2.png)
 
 Bu tarama sırrını keşfetmeye hazır mısınız?
 

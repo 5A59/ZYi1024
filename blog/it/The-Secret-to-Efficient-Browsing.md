@@ -12,13 +12,13 @@ Questo approccio offre diversi vantaggi:
 *   **Riduzione del Carico Cognitivo:** Rimani concentrato sul tuo compito principale.
 *   **Uso Efficiente delle Risorse:** Evita di caricare risorse non necessarie, aiutando a **risparmiare memoria riducendo le schede aperte**.
 
-![Esempio di anteprima al passaggio del mouse](images/notab1.png)
+![Esempio di anteprima al passaggio del mouse](../images/notab1.png)
 
 Questa tecnologia è il cuore del perché gli strumenti di **anteprima dei link nel browser** sono così efficaci. Ti consentono di **visualizzare in anteprima i siti web prima di aprirli** completamente, semplificando la ricerca, la navigazione sui social media e la fruizione di notizie.
 
 NoTab utilizza questa tecnologia elegantemente, offrendo un'esperienza di **anteprima dei link inline** fluida e personalizzabile.
 
-![Personalizzazione dell'anteprima di NoTab](images/notab2.png)
+![Personalizzazione dell'anteprima di NoTab](../images/notab2.png)
 
 Pronto a sbloccare questo segreto di navigazione?
 

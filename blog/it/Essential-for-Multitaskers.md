@@ -10,13 +10,13 @@ Ecco alcuni semplici consigli, potenziati dalle anteprime dei link:
 2.  **Utilizza Anteprime Inline:** Scegli strumenti che ti permettano di **visualizzare l'anteprima dei link nella pagina corrente**. Questo mantiene la tua attività principale sempre in primo piano.
 3.  **Sfrutta la Modalità Lettura:** Per i link con molto testo, utilizza la modalità lettura di un'estensione di anteprima per comprendere rapidamente il contenuto senza la distrazione del caricamento completo della pagina.
 
-![Multitasking con anteprima dei link](images/notab1.png)
+![Multitasking con anteprima dei link](../images/notab1.png)
 
 NoTab è un fantastico esempio di **estensione per la gestione dei tab** progettata per i multitasking. Ti permette di **visualizzare l'anteprima dei link senza aprire nuovi tab**, mantenendo il tuo spazio di lavoro pulito e la tua concentrazione alta.
 
 Funzionalità come le dimensioni regolabili dell'anteprima e la possibilità di visualizzare più anteprime contemporaneamente rendono un gioco da ragazzi confrontare le informazioni tra diverse fonti.
 
-![Funzionalità di anteprime multiple di NoTab](images/notab2.png)
+![Funzionalità di anteprime multiple di NoTab](../images/notab2.png)
 
 Smetti di lasciare che il sovraccarico di tab ostacoli il tuo multitasking.
 

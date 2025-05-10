@@ -12,7 +12,7 @@ Begini mudahnya:
 
 Selesai! Anda mendapatkan **pratinjau tautan saat dihover** secara instan tanpa harus berpindah halaman.
 
-![Demonstrasi pratinjau tautan inline](images/notab1.png)
+![Demonstrasi pratinjau tautan inline](../images/notab1.png)
 
 Mengapa ini sangat bermanfaat?
 *   **Membaca Tanpa Gangguan:** Tetap fokus pada konten utama Anda.
@@ -21,7 +21,7 @@ Mengapa ini sangat bermanfaat?
 
 NoTab adalah rekomendasi utama saya untuk ini. Ia menyediakan pengalaman yang lancar dan dapat disesuaikan untuk **melihat pratinjau tautan tanpa meninggalkan halaman**. Anda dapat menyesuaikan ukuran jendela pratinjau, menggunakan mode pembaca, dan banyak lagi.
 
-![Kustomisasi pratinjau NoTab](images/notab2.png)
+![Kustomisasi pratinjau NoTab](../images/notab2.png)
 
 Ini adalah **ekstensi Chrome paling mudah untuk melihat pratinjau tautan** dan menguasai seni melihat pratinjau di halaman saat ini.
 

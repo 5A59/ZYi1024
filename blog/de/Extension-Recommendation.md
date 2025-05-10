@@ -11,7 +11,7 @@ Warum NoTab? Hier sind die Gründe, warum ich wirklich glaube, dass es heraussti
 *   **Mehr als nur eine Vorschau:** Es enthält wirklich nützliche Extras wie einen übersichtlichen **Lesemodus**, anpassbare Fenstergrößen und sogar schnelle Drag-to-Search-/Übersetzungsfunktionen.
 *   **Reduziert Unordnung:** Es hilft dir direkt, **Browser-Tabs zu reduzieren**, was zu einem übersichtlicheren Arbeitsbereich und schnellerem Browsen führt.
 
-![NoTab zeigt eine Linkvorschau flüssig an](images/notab1.png)
+![NoTab zeigt eine Linkvorschau flüssig an](../images/notab1.png)
 
 Denk an Situationen, in denen NoTab glänzt:
 *   Scannen von Suchergebnissen.
@@ -21,7 +21,7 @@ Denk an Situationen, in denen NoTab glänzt:
 
 Es ist eine fantastische **"Keine Tabs mehr"-Erweiterung**, die wirklich hält, was sie verspricht.
 
-![NoTabs Einstellungen und Funktionen](images/notab2.png)
+![NoTabs Einstellungen und Funktionen](../images/notab2.png)
 
 Wenn du deinen **Browser entrümpeln** und eine flüssigere Art der Interaktion mit Links erleben möchtest, ist NoTab die **Chrome-Erweiterung zur Link-Vorschau**, die ich von ganzem Herzen empfehle.
 

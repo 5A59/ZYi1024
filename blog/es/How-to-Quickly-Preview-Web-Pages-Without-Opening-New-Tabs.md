@@ -9,7 +9,7 @@ Imagínate esto: estás planeando un viaje y mirando una lista de atracciones. E
 *   Consulta rápidamente los horarios de apertura o las ubicaciones.
 *   Decide si vale la pena echar un vistazo más profundo, todo **sin salir de la página**.
 
-![Previsualización de enlaces de viaje](images/notab1.png)
+![Previsualización de enlaces de viaje](../images/notab1.png)
 
 Esto es increíblemente útil para:
 *   **Compras Online:** Compara productos uno al lado del otro sin hacer malabarismos con las pestañas.
@@ -23,7 +23,7 @@ NoTab ofrece:
 *   Un práctico modo de lectura para texto limpio.
 *   La capacidad de previsualizar múltiples enlaces.
 
-![Opciones de la ventana de vista previa de NoTab](images/notab2.png)
+![Opciones de la ventana de vista previa de NoTab](../images/notab2.png)
 
 Saber **cómo previsualizar un enlace sin abrirlo** transforma estas tareas comunes en línea de tareas tediosas en operaciones fluidas.
 

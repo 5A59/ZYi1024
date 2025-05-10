@@ -12,7 +12,7 @@ Questo è esattamente ciò che le **estensioni di anteprima link** offrono. Ti a
 *   Valutare rapidamente la rilevanza dei link.
 *   **Ridurre l'ingombro di tab in Chrome** (e altri browser).
 
-![Anteprima link senza aprire il tab](images/notab1.png)
+![Anteprima link senza aprire il tab](../images/notab1.png)
 
 NoTab è un perfetto esempio di un tale strumento. Fornisce un'esperienza fluida di **anteprima link al passaggio del mouse**, rendendo semplicissimo dare una sbirciatina ai link.
 
@@ -21,7 +21,7 @@ Funzionalità chiave per rimanere concentrato:
 *   **Modalità Lettura:** Visualizzazione senza distrazioni degli articoli collegati.
 *   **Azioni Rapide:** Cerca o traduci il testo selezionato istantaneamente.
 
-![Funzionalità di NoTab per migliorare la concentrazione](images/notab2.png)
+![Funzionalità di NoTab per migliorare la concentrazione](../images/notab2.png)
 
 Se il ciclo infinito di apertura di tab sta prosciugando la tua concentrazione e rallentandoti, è ora di cambiare.
 

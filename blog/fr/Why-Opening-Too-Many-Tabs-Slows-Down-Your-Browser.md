@@ -13,7 +13,7 @@ Alors, comment lutter contre cela sans sacrifier l'accès à l'information ?
 
 C'est là qu'interviennent les **extensions d'aperçu de liens**. Ces outils offrent une solution astucieuse.
 
-![Illustration de l'utilisation des ressources - conceptuel](images/notab1.png) <!-- Il peut être difficile de trouver une image directe pour cela, en utilisant un concept d'espace réservé -->
+![Illustration de l'utilisation des ressources - conceptuel](../images/notab1.png) <!-- Il peut être difficile de trouver une image directe pour cela, en utilisant un concept d'espace réservé -->
 
 Au lieu de charger complètement chaque lien dans un nouvel onglet gourmand en ressources, les extensions comme NoTab vous permettent d'**afficher un aperçu des liens sans ouvrir de nouveaux onglets**. Elles ne récupèrent que suffisamment d'informations pour vous montrer le contenu dans une superposition légère.
 
@@ -25,7 +25,7 @@ Cela signifie que vous pouvez :
 
 L'utilisation d'un outil d'**aperçu de lien dans le navigateur** est un moyen direct de **réduire l'encombrement des onglets dans Chrome** (ou d'autres navigateurs) et d'améliorer les performances.
 
-![NoTab affichant un aperçu d'un lien](images/notab2.png)
+![NoTab affichant un aperçu d'un lien](../images/notab2.png)
 
 Arrêtez de laisser la surcharge d'onglets paralyser la vitesse de votre navigateur.
 

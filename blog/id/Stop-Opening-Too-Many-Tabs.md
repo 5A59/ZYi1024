@@ -13,13 +13,13 @@ Perubahan kecil dalam kebiasaan ini, difasilitasi oleh **ekstensi pratinjau taut
 *   **Meningkatkan Fokus:** Lebih sedikit kekacauan dan peralihan konteks berarti konsentrasi yang lebih baik.
 *   **Penjelajahan yang Efisien:** Memeriksa tautan dengan cepat pada hasil pencarian, media sosial, atau artikel.
 
-![Sebelum dan sesudah pratinjau tautan (konseptual)](images/notab1.png)
+![Sebelum dan sesudah pratinjau tautan (konseptual)](../images/notab1.png)
 
 NoTab adalah alat yang sempurna untuk membantumu menghentikan kebiasaan membuka tab. Ini membuat **pratinjau tautan tanpa membuka tab baru** sangat mudah dan intuitif.
 
 Dengan fitur seperti pratinjau yang dapat disesuaikan dan mode pembaca yang bersih, ini membantumu **mengelola tab browser secara efisien** dengan mengatasi masalahnya dari sumbernya.
 
-![NoTab membantu mengurangi tab](images/notab2.png)
+![NoTab membantu mengurangi tab](../images/notab2.png)
 
 Saatnya merebut kembali browsermu dari kekacauan tab yang tak ada habisnya.
 

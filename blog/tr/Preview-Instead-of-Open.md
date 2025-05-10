@@ -9,7 +9,7 @@ Neden bu değişim? Sürekli sekme değiştirmek dikkat dağıtıcı ve verimsiz
 
 Bir makale okuduğunuzu ve bir kaynağı kontrol etmek istediğinizi hayal edin. Yeni bir sekme açmak ve akışınızı bozmak yerine, sadece üzerine gelin veya tıklayın ve **satır içi bağlantı önizlemesi** görün. İhtiyacınız olan bilgiyi alırsınız ve yerinizde kalırsınız.
 
-![Sayfa içi bağlantı önizleme](images/notab1.png)
+![Sayfa içi bağlantı önizleme](../images/notab1.png)
 
 Bu yaklaşım aşağıdakiler için giderek daha önemli hale geliyor:
 
@@ -19,7 +19,7 @@ Bu yaklaşım aşağıdakiler için giderek daha önemli hale geliyor:
 
 NoTab, tamamen bu modern tarama prensibi üzerine kurulmuş, **bağlantıları önizlemek için harika bir Chrome uzantısıdır**. **Tarayıcı sekmelerini azaltmanıza** ve web ile daha akıcı bir şekilde etkileşim kurmanıza yardımcı olur.
 
-![NoTab'ın temiz önizleme penceresi](images/notab2.png)
+![NoTab'ın temiz önizleme penceresi](../images/notab2.png)
 
 Bu trene katılın ve daha temiz, daha hızlı, daha odaklanmış bir tarama deneyimi yaşayın.
 

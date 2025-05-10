@@ -8,7 +8,7 @@ Hapa ndipo **viendelezi vya kuangalia viungo kabla ya kufungua** vinang'aa. Vina
 
 Fikiria unasoma makala na unataka kuchunguza chanzo. Badala ya kufungua tabo mpya, na kuvunja mtiririko wako, unapitisha kishale chako au kubonyeza ili kupata **uhakiki wa kiungo kwenye ukurasa**. Unapata habari unayohitaji na unabaki hapo ulipo.
 
-![Kuangalia kiungo kabla ya kufungua ukurasa](images/notab1.png)
+![Kuangalia kiungo kabla ya kufungua ukurasa](../images/notab1.png)
 
 Mbinu hii inakuwa muhimu kwa:
 
@@ -18,7 +18,7 @@ Mbinu hii inakuwa muhimu kwa:
 
 NoTab ni **kiendelezi bora cha Chrome cha kuangalia viungo kabla ya kufungua**, kilichojengwa kabisa kuzunguka kanuni hii ya kisasa ya kuvinjari. Inakusaidia **kupunguza idadi ya tabo za kivinjari** na kuingiliana na wavuti kwa urahisi zaidi.
 
-![Dirisha safi la kuhakiki la NoTab](images/notab2.png)
+![Dirisha safi la kuhakiki la NoTab](../images/notab2.png)
 
 Jiunge na mtindo na upate uzoefu wa njia safi, ya haraka, na iliyo na umakini zaidi ya kuvinjari.
 

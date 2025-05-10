@@ -12,13 +12,13 @@ Phương pháp này mang lại một số lợi ích:
 *   **Giảm Tải Nhận Thức (Cognitive Load):** Giữ sự tập trung vào nhiệm vụ chính của bạn.
 *   **Sử Dụng Tài Nguyên Hiệu Quả:** Tránh tải các tài nguyên không cần thiết, giúp **tiết kiệm bộ nhớ bằng cách giảm số lượng tab đang mở**.
 
-![Ví dụ về xem trước liên kết (Link hover preview example)](images/notab1.png)
+![Ví dụ về xem trước liên kết (Link hover preview example)](../images/notab1.png)
 
 Công nghệ này là cốt lõi lý giải tại sao các công cụ **xem trước liên kết trình duyệt (browser link preview)** lại hiệu quả đến vậy. Chúng cho phép bạn **xem trước trang web trước khi mở** chúng hoàn toàn, đơn giản hóa việc nghiên cứu, lướt mạng xã hội và đọc tin tức.
 
 NoTab sử dụng công nghệ này một cách tinh tế, mang lại trải nghiệm **xem trước liên kết trực tiếp (inline link preview)** mượt mà và có thể tùy chỉnh.
 
-![Tùy chỉnh xem trước NoTab (Customizing NoTab preview)](images/notab2.png)
+![Tùy chỉnh xem trước NoTab (Customizing NoTab preview)](../images/notab2.png)
 
 Bạn đã sẵn sàng khám phá bí mật duyệt web này chưa?
 

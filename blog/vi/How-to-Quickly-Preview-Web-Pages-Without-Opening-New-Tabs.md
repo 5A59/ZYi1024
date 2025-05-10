@@ -9,7 +9,7 @@ Hãy tưởng tượng: bạn đang lên kế hoạch cho một chuyến đi và
 *   Nhanh chóng kiểm tra giờ mở cửa hoặc vị trí.
 *   Quyết định xem nó có đáng để xem xét kỹ hơn hay không, tất cả **mà không cần rời khỏi trang hiện tại**.
 
-![Xem trước các liên kết du lịch](images/notab1.png)
+![Xem trước các liên kết du lịch](../images/notab1.png)
 
 Điều này cực kỳ hữu ích cho:
 *   **Mua Sắm Trực Tuyến:** So sánh sản phẩm cạnh nhau mà không cần "tung hứng" các tab.
@@ -23,7 +23,7 @@ NoTab cung cấp:
 *   Chế độ đọc tiện dụng cho văn bản rõ ràng.
 *   Khả năng xem trước nhiều liên kết.
 
-![Tùy chọn cửa sổ xem trước NoTab](images/notab2.png)
+![Tùy chọn cửa sổ xem trước NoTab](../images/notab2.png)
 
 Biết **cách xem trước một liên kết mà không cần mở nó** biến những tác vụ trực tuyến thông thường này từ những công việc tẻ nhạt thành những thao tác mượt mà.
 

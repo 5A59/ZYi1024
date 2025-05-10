@@ -13,7 +13,7 @@ Quindi, come si combatte questa situazione senza rinunciare all'accesso alle inf
 
 Entrano in gioco le **estensioni di anteprima dei link**. Questi strumenti offrono una soluzione intelligente.
 
-![Illustrazione dell'utilizzo delle risorse - concettuale](images/notab1.png) <!-- Potrebbe essere difficile trovare un'immagine diretta per questo, utilizzo un concetto di segnaposto -->
+![Illustrazione dell'utilizzo delle risorse - concettuale](../images/notab1.png) <!-- Potrebbe essere difficile trovare un'immagine diretta per questo, utilizzo un concetto di segnaposto -->
 
 Invece di caricare completamente ogni link in una nuova scheda, affamata di risorse, estensioni come NoTab ti permettono di **visualizzare l'anteprima dei link senza aprire nuove schede**. Recuperano solo le informazioni necessarie per mostrarti il contenuto in una sovrapposizione leggera.
 
@@ -25,7 +25,7 @@ Questo significa che puoi:
 
 Utilizzare uno strumento di **anteprima dei link per il browser** è un modo diretto per **ridurre l'ingombro delle schede in Chrome** (o altri browser) e migliorare le prestazioni.
 
-![NoTab che mostra l'anteprima di un link](images/notab2.png)
+![NoTab che mostra l'anteprima di un link](../images/notab2.png)
 
 Smetti di lasciare che il sovraccarico di schede paralizzi la velocità del tuo browser.
 

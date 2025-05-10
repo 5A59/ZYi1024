@@ -10,7 +10,7 @@ Dieser Ansatz hilft dir direkt dabei, die **Anzahl offener Tabs zu reduzieren**.
 *   Verwandte Artikel ansehen, ohne den Artikel zu verlassen, den du gerade liest.
 *   Links in sozialen Medien sofort überprüfen.
 
-![Vorschau von Links leicht gemacht](images/notab1.png)
+![Vorschau von Links leicht gemacht](../images/notab1.png)
 
 Es geht hier nicht nur um Ordnung; es geht um Performance. Durch die Verwendung eines Tools wie der NoTab **Link Preview Chrome Erweiterung**, **sparst du aktiv Speicher durch weniger offene Tabs**, was zu einem spürbar schnelleren Browser-Erlebnis führt.
 
@@ -18,6 +18,6 @@ Du kannst **Browser Tabs effizient verwalten**, indem du sie einfach zuerst in d
 
 Bist du bereit, dein **Browsen zu beschleunigen**? Probiere NoTab aus: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Anpassbares Vorschaufenster](images/notab2.png)
+![Anpassbares Vorschaufenster](../images/notab2.png)
 
 Lass dich nicht länger von einer Tab-Überlastung ausbremsen. Beginne mit der Vorschau!

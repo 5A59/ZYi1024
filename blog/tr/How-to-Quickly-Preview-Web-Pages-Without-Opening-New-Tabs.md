@@ -10,7 +10,7 @@ Otel fiyatlarını karşılaştırırken, ürün yorumlarını incelerken veya d
 *   Açılış saatlerini veya konumlarını hızlıca kontrol edin.
 *   Daha derinlemesine bakmaya değer olup olmadığına **sayfadan ayrılmadan** karar verin.
 
-![Seyahat linklerini önizleme](images/notab1.png)
+![Seyahat linklerini önizleme](../images/notab1.png)
 
 Bu, aşağıdakiler için inanılmaz derecede kullanışlıdır:
 *   **Online Alışveriş:** Sekmeler arasında gidip gelmeden ürünleri yan yana karşılaştırın.
@@ -24,7 +24,7 @@ NoTab şunları sunar:
 *   Temiz metin için kullanışlı bir okuyucu modu.
 *   Birden çok bağlantıyı önizleme yeteneği.
 
-![NoTab önizleme penceresi seçenekleri](images/notab2.png)
+![NoTab önizleme penceresi seçenekleri](../images/notab2.png)
 
 **Bir bağlantıyı açmadan nasıl önizleyeceğinizi** bilmek, bu yaygın çevrimiçi görevleri sıkıcı işlerden akıcı işlemlere dönüştürür.
 

@@ -12,7 +12,7 @@ Wie können Sie dem entgegenwirken, ohne auf den Zugriff auf Informationen zu ve
 
 Hier kommen **Link-Vorschau-Erweiterungen** ins Spiel. Diese Tools bieten eine clevere Lösung.
 
-![Illustration des Ressourcenverbrauchs - konzeptionell](images/notab1.png) <!-- Es könnte schwierig sein, ein direkt passendes Bild zu finden, hier wird ein Platzhalter-Konzept verwendet -->
+![Illustration des Ressourcenverbrauchs - konzeptionell](../images/notab1.png) <!-- Es könnte schwierig sein, ein direkt passendes Bild zu finden, hier wird ein Platzhalter-Konzept verwendet -->
 
 Anstatt jeden Link vollständig in einen neuen, ressourcenhungrigen Tab zu laden, ermöglichen Ihnen Erweiterungen wie NoTab eine **Vorschau von Links, ohne neue Tabs zu öffnen**. Sie holen nur so viele Informationen ab, wie nötig sind, um Ihnen den Inhalt in einem leichten Overlay anzuzeigen.
 
@@ -23,7 +23,7 @@ Das bedeutet, Sie können:
 
 Die Verwendung eines **Browser-Link-Vorschaus** ist ein direkter Weg, um **Tab-Chaos in Chrome zu reduzieren** (oder anderen Browsern) und die Leistung zu verbessern.
 
-![NoTab zeigt eine Link-Vorschau](images/notab2.png)
+![NoTab zeigt eine Link-Vorschau](../images/notab2.png)
 
 Lassen Sie nicht zu, dass Tab-Überlastung Ihre Browsergeschwindigkeit beeinträchtigt.
 

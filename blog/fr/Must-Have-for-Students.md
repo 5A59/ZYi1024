@@ -9,7 +9,7 @@ Imaginez que vous rédigez un mémoire et que vous devez vérifier plusieurs sou
 
 C'est la puissance de l'**aperçu des liens sans ouvrir de nouveaux onglets**.
 
-![Étudiant faisant des recherches avec un aperçu de liens](images/notab1.png)
+![Étudiant faisant des recherches avec un aperçu de liens](../images/notab1.png)
 
 Pour les étudiants, un outil comme NoTab est un véritable *must-have*. Il agit comme un puissant **outil de productivité pour le navigateur**, spécialement conçu pour rationaliser la recherche :
 *   **Aperçu des liens intégré :** Restez concentré sur votre document principal.
@@ -17,7 +17,7 @@ Pour les étudiants, un outil comme NoTab est un véritable *must-have*. Il agit
 *   **Recherche/Traduction Rapide :** Recherchez des termes ou traduisez des extraits instantanément en faisant glisser du texte – pas besoin de nouveaux onglets !
 *   **Aperçu de liens multiples :** Comparez facilement différentes sources côte à côte.
 
-![Mode Lecteur NoTab pour la recherche](images/notab2.png)
+![Mode Lecteur NoTab pour la recherche](../images/notab2.png)
 
 NoTab vous aide à **arrêter d'ouvrir trop d'onglets**, à **économiser de la mémoire** et, en fin de compte, à effectuer des recherches plus efficacement.
 

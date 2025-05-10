@@ -12,7 +12,7 @@ So, how do you combat this without sacrificing access to information?
 
 Enter **link preview extensions**. These tools offer a clever workaround.
 
-![Resource usage illustration - conceptual](images/notab1.png) <!-- It might be hard to find a direct image for this, using a placeholder concept -->
+![Resource usage illustration - conceptual](../images/notab1.png) <!-- It might be hard to find a direct image for this, using a placeholder concept -->
 
 Instead of fully loading every link into a new, resource-hungry tab, extensions like NoTab let you **preview links without opening new tabs**. They fetch just enough information to show you the content in a lightweight overlay.
 
@@ -23,7 +23,7 @@ This means you can:
 
 Using a **browser link preview** tool is a direct way to **reduce tab clutter in Chrome** (or other browsers) and improve performance.
 
-![NoTab previewing a link](images/notab2.png)
+![NoTab previewing a link](../images/notab2.png)
 
 Stop letting tab overload cripple your browser speed.
 

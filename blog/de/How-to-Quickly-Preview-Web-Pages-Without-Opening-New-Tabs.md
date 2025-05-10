@@ -9,7 +9,7 @@ Stellen Sie sich vor: Sie planen eine Reise und sehen sich eine Liste von Sehens
 *   Überprüfen Sie schnell Öffnungszeiten oder Standorte.
 *   Entscheiden Sie, ob es sich lohnt, genauer hinzusehen, und das alles **ohne die Seite zu verlassen**.
 
-![Vorschau von Reiselinks](images/notab1.png)
+![Vorschau von Reiselinks](../images/notab1.png)
 
 Das ist unglaublich nützlich für:
 *   **Online-Shopping:** Vergleichen Sie Produkte nebeneinander, ohne Tab-Jonglage.
@@ -23,7 +23,7 @@ NoTab bietet:
 *   Einen praktischen Lesemodus für sauberen Text.
 *   Die Möglichkeit, mehrere Links in der Vorschau anzuzeigen.
 
-![NoTab Vorschaufenster-Optionen](images/notab2.png)
+![NoTab Vorschaufenster-Optionen](../images/notab2.png)
 
 Zu wissen, **wie man einen Link in der Vorschau anzeigt, ohne ihn zu öffnen**, verwandelt diese alltäglichen Online-Aufgaben von mühsamen Arbeiten in reibungslose Abläufe.
 

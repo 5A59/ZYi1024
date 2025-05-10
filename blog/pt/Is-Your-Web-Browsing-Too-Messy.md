@@ -6,7 +6,7 @@ O cerne da bagunça do navegador geralmente vem de abrir abas "só por precauç�
 
 Em vez de abrir, você visualiza. Passe o mouse sobre um link, veja o conteúdo e decida *então* se ele justifica uma aba completa. Esse hábito simples ajuda drasticamente você a **organizar seu navegador**.
 
-![Navegação limpa com visualização de links](images/notab1.png)
+![Navegação limpa com visualização de links](../images/notab1.png)
 
 Como isso organiza sua navegação?
 *   **Menos Abas:** Você naturalmente **reduzirá o número de abas do navegador** porque só abre o que é realmente necessário.
@@ -15,7 +15,7 @@ Como isso organiza sua navegação?
 
 NoTab é uma **extensão fantástica do Chrome para visualizar links** que se destaca na organização de seus hábitos de navegação. Ele oferece uma **visualização de links inline** suave, permitindo que você espreite os links sem esforço.
 
-![Interface NoTab para organização](images/notab2.png)
+![Interface NoTab para organização](../images/notab2.png)
 
 Ele ajuda você a **gerenciar abas do navegador de forma eficiente** prevenindo a bagunça antes que ela comece.
 

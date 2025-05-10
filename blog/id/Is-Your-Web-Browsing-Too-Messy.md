@@ -6,7 +6,7 @@ Akar masalah kekacauan browser seringkali berasal dari membuka tab "untuk jaga-j
 
 Alih-alih membuka, Anda melihat pratinjaunya. Arahkan kursor ke atas tautan, lihat kontennya, dan putuskan *saat itu* apakah perlu membuka tab penuh. Kebiasaan sederhana ini secara drastis membantu Anda **merapikan browser Anda**.
 
-![Penjelajahan bersih dengan pratinjau tautan](images/notab1.png)
+![Penjelajahan bersih dengan pratinjau tautan](../images/notab1.png)
 
 Bagaimana ini mengatur penjelajahan Anda?
 *   **Lebih Sedikit Tab:** Anda secara alami akan **mengurangi jumlah tab browser** karena Anda hanya membuka apa yang benar-benar diperlukan.
@@ -15,7 +15,7 @@ Bagaimana ini mengatur penjelajahan Anda?
 
 NoTab adalah **ekstensi Chrome untuk pratinjau tautan** yang fantastis yang unggul dalam merapikan kebiasaan penjelajahan Anda. Ini menawarkan **pratinjau tautan inline** yang mulus, memungkinkan Anda untuk mengintip tautan dengan mudah.
 
-![Antarmuka NoTab untuk organisasi](images/notab2.png)
+![Antarmuka NoTab untuk organisasi](../images/notab2.png)
 
 Ini membantu Anda **mengelola tab browser secara efisien** dengan mencegah kekacauan sebelum dimulai.
 

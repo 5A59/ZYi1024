@@ -10,7 +10,7 @@
 *   **节省时间：** 在打开新标签页之前，快速判断内容是否相关。
 *   **减少资源消耗：** 更少的标签页意味着更快、更流畅的浏览器体验。
 
-![NoTab链接预览的实际效果](images/notab1.png)
+![NoTab链接预览的实际效果](../images/notab1.png)
 
 在这个领域，NoTab 是一款非常出色的 **Chrome效率扩展**。它允许你**预览链接，而无需打开新标签页**，直接在当前页面上进行预览。它非常直观，使浏览体验更加流畅和可控。
 
@@ -18,6 +18,6 @@
 
 在此查看 NoTab：[https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab 阅读模式功能](images/notab2.png)
+![NoTab 阅读模式功能](../images/notab2.png)
 
 它是**Chrome最佳链接预览扩展**之一，也是开启更高效在线一年的绝佳起点。

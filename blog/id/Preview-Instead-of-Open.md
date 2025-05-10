@@ -8,7 +8,7 @@ Di sinilah **ekstensi pratinjau tautan** bersinar. Mereka mewujudkan filosofi "P
 
 Bayangkan Anda sedang membaca artikel dan ingin memeriksa sumber. Alih-alih membuka tab baru dan memecah fokus Anda, Anda cukup mengarahkan kursor atau mengeklik untuk **pratinjau tautan langsung**. Anda mendapatkan informasi yang Anda butuhkan dan tetap berada di halaman yang sama.
 
-![Pratinjau tautan di dalam halaman](images/notab1.png)
+![Pratinjau tautan di dalam halaman](../images/notab1.png)
 
 Pendekatan ini menjadi penting untuk:
 *   **Riset Terfokus:** Memeriksa sumber dan referensi dengan cepat.
@@ -17,7 +17,7 @@ Pendekatan ini menjadi penting untuk:
 
 NoTab adalah **ekstensi Chrome untuk mempratinjau tautan** yang fantastis, yang dibangun sepenuhnya berdasarkan prinsip *browsing* modern ini. Ini membantu Anda **mengurangi tab *browser*** dan berinteraksi dengan web dengan lebih lancar.
 
-![Jendela pratinjau NoTab yang bersih](images/notab2.png)
+![Jendela pratinjau NoTab yang bersih](../images/notab2.png)
 
 Bergabunglah dengan tren ini dan rasakan cara *browsing* yang lebih bersih, lebih cepat, dan lebih fokus.
 

@@ -9,7 +9,7 @@ These tools let you hover over (or click, depending on settings) any hyperlink a
 *   Comparing product details quickly.
 *   Getting the gist of an article without leaving your current task.
 
-![Instant link preview](images/notab1.png)
+![Instant link preview](../images/notab1.png)
 
 When it comes to the **best link preview extension for Chrome**, I genuinely recommend NoTab. It's lightweight, customizable, and makes **previewing links without leaving the page** effortless.
 
@@ -18,7 +18,7 @@ NoTab offers features like:
 *   A clutter-free reader mode for focused reading.
 *   Quick search and translate by dragging text.
 
-![NoTab features](images/notab2.png)
+![NoTab features](../images/notab2.png)
 
 It transforms how you interact with links, making browsing faster and more focused. Stop the endless tab-opening cycle and start previewing.
 

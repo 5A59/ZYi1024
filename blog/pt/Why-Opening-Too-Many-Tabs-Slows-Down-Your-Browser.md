@@ -13,7 +13,7 @@ Então, como combater isso sem sacrificar o acesso à informação?
 
 Entram em cena as **extensões de pré-visualização de links**. Essas ferramentas oferecem uma solução inteligente.
 
-![Ilustração do uso de recursos - conceitual](images/notab1.png) <!-- Pode ser difícil encontrar uma imagem direta para isso, usando um conceito de espaço reservado -->
+![Ilustração do uso de recursos - conceitual](../images/notab1.png) <!-- Pode ser difícil encontrar uma imagem direta para isso, usando um conceito de espaço reservado -->
 
 Em vez de carregar completamente cada link em uma aba nova e que consome muitos recursos, extensões como o NoTab permitem que você **visualize links sem abrir novas abas**. Elas buscam apenas informações suficientes para mostrar o conteúdo em uma sobreposição leve.
 
@@ -25,7 +25,7 @@ Isso significa que você pode:
 
 Usar uma ferramenta de **pré-visualização de links no navegador** é uma forma direta de **reduzir a bagunça de abas no Chrome** (ou outros navegadores) e melhorar o desempenho.
 
-![NoTab visualizando um link](images/notab2.png)
+![NoTab visualizando um link](../images/notab2.png)
 
 Pare de deixar a sobrecarga de abas prejudicar a velocidade do seu navegador.
 

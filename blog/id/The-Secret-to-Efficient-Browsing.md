@@ -12,13 +12,13 @@ Pendekatan ini menawarkan beberapa manfaat:
 *   **Pengurangan Beban Kognitif:** Tetap fokus pada tugas utama Anda.
 *   **Penggunaan Sumber Daya yang Efisien:** Menghindari pemuatan sumber daya yang tidak perlu, membantu **menghemat memori dengan mengurangi tab yang terbuka**.
 
-![Contoh pratinjau link hover](images/notab1.png)
+![Contoh pratinjau link hover](../images/notab1.png)
 
 Teknologi ini adalah inti dari mengapa alat **pratinjau link browser** begitu efektif. Mereka memungkinkan Anda untuk **melihat pratinjau website sebelum membukanya** sepenuhnya, merampingkan riset, penelusuran media sosial, dan konsumsi berita.
 
 NoTab memanfaatkan teknologi ini dengan elegan, menawarkan pengalaman **pratinjau link inline** yang mulus dan dapat disesuaikan.
 
-![Kustomisasi pratinjau NoTab](images/notab2.png)
+![Kustomisasi pratinjau NoTab](../images/notab2.png)
 
 Siap membuka rahasia browsing ini?
 

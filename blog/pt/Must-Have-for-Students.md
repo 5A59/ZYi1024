@@ -10,7 +10,7 @@ Imagine que você está escrevendo um trabalho e precisa verificar múltiplas fo
 
 Este é o poder de **visualizar links sem abrir novas abas**.
 
-![Estudante pesquisando com pré-visualização de links](images/notab1.png)
+![Estudante pesquisando com pré-visualização de links](../images/notab1.png)
 
 Para estudantes, uma ferramenta como o NoTab é um verdadeiro item essencial. Ele age como uma poderosa **ferramenta de produtividade para o navegador**, especificamente projetada para otimizar a pesquisa:
 
@@ -19,7 +19,7 @@ Para estudantes, uma ferramenta como o NoTab é um verdadeiro item essencial. El
 *   **Pesquisa/Tradução Rápida:** Procure termos ou traduza trechos instantaneamente arrastando o texto – sem necessidade de novas abas!
 *   **Pré-Visualização de Múltiplos Links:** Compare diferentes fontes lado a lado facilmente.
 
-![Modo leitor do NoTab para pesquisa](images/notab2.png)
+![Modo leitor do NoTab para pesquisa](../images/notab2.png)
 
 O NoTab ajuda você a **parar de abrir abas em excesso**, **economizar memória** e, em última análise, pesquisar de forma mais eficaz.
 

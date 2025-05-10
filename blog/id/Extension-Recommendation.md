@@ -11,7 +11,7 @@ Kenapa NoTab? Inilah alasan kenapa saya benar-benar berpikir ekstensi ini unggul
 *   **Lebih dari Sekadar Pratinjau:** Fitur tambahan yang sangat berguna seperti **Mode Pembaca** yang bersih, ukuran jendela yang bisa disesuaikan, dan bahkan fungsi seret-untuk-mencari/menerjemahkan yang cepat.
 *   **Mengurangi Kekacauan:** Secara langsung membantumu **mengurangi jumlah tab browser**, menghasilkan ruang kerja yang lebih bersih dan penjelajahan yang lebih cepat.
 
-![NoTab menampilkan pratinjau tautan dengan mulus](images/notab1.png)
+![NoTab menampilkan pratinjau tautan dengan mulus](../images/notab1.png)
 
 Bayangkan situasi di mana NoTab bersinar:
 *   Memindai hasil pencarian.
@@ -21,7 +21,7 @@ Bayangkan situasi di mana NoTab bersinar:
 
 Ini adalah **ekstensi *no more tabs*** yang fantastis dan benar-benar memenuhi janjinya.
 
-![Pengaturan dan fitur NoTab](images/notab2.png)
+![Pengaturan dan fitur NoTab](../images/notab2.png)
 
 Jika kamu ingin **merapikan browser** dan merasakan cara berinteraksi dengan tautan yang lebih lancar, NoTab adalah **ekstensi Chrome untuk mempratinjau tautan** yang sangat saya rekomendasikan.
 

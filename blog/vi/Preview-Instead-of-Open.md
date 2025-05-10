@@ -9,7 +9,7 @@ Tại sao lại có sự thay đổi này? Việc liên tục chuyển đổi gi
 
 Hãy tưởng tượng bạn đang đọc một bài báo và muốn kiểm tra một nguồn tin. Thay vì mở một tab mới, phá vỡ dòng chảy suy nghĩ của bạn, bạn chỉ cần di chuột hoặc nhấp chuột để có một **bản xem trước liên kết nội tuyến**. Bạn nhận được thông tin mình cần và vẫn ở nguyên vị trí.
 
-![Xem trước liên kết ngay trong trang](images/notab1.png)
+![Xem trước liên kết ngay trong trang](../images/notab1.png)
 
 Cách tiếp cận này đang trở nên cần thiết cho:
 *   **Nghiên cứu Tập Trung:** Nhanh chóng kiểm tra nguồn và tài liệu tham khảo.
@@ -18,7 +18,7 @@ Cách tiếp cận này đang trở nên cần thiết cho:
 
 NoTab là một **tiện ích mở rộng Chrome tuyệt vời để xem trước liên kết**, được xây dựng hoàn toàn dựa trên nguyên tắc duyệt web hiện đại này. Nó giúp bạn **giảm số lượng tab trình duyệt** và tương tác với web một cách mượt mà hơn.
 
-![Cửa sổ xem trước rõ ràng của NoTab](images/notab2.png)
+![Cửa sổ xem trước rõ ràng của NoTab](../images/notab2.png)
 
 Hãy tham gia xu hướng này và trải nghiệm một cách duyệt web sạch sẽ hơn, nhanh hơn và tập trung hơn.
 

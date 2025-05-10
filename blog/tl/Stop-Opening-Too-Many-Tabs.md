@@ -12,13 +12,13 @@ Ang simpleng pagbabago na ito sa iyong gawi, na pinadali ng isang **link preview
 *   **Mapapahusay ang Focus:** Mas kaunting kalat at pagpapalit-palit ng konteksto ang nangangahulugan ng mas magandang konsentrasyon.
 *   **Mas Mabisang Pagba-browse:** Mabilis na masuri ang mga links sa search results, social media, o artikulo.
 
-![Before and after link preview (conceptual)](images/notab1.png)
+![Before and after link preview (conceptual)](../images/notab1.png)
 
 Ang NoTab ay ang perpektong tool para tulungan kang alisin ang bisyong pagbubukas ng maraming tabs. Ginagawa nitong napakadali at intuitive ang **pag-preview ng mga links nang hindi nagbubukas ng bagong tabs**.
 
 Sa mga features tulad ng customizable previews at isang malinis na reader mode, tutulungan ka nitong **pamahalaan nang episyente ang iyong mga browser tabs** sa pamamagitan ng paglutas sa ugat ng problema.
 
-![NoTab helping reduce tabs](images/notab2.png)
+![NoTab helping reduce tabs](../images/notab2.png)
 
 Oras na para bawiin ang iyong browser mula sa kaguluhan ng walang katapusang tabs.
 

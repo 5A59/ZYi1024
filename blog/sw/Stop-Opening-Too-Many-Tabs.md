@@ -14,13 +14,13 @@ Mabadiliko haya madogo katika tabia, yanayowezeshwa na **programu-sambuzi ya kua
 *   **Huongeza Umakini:** Mkusanyiko mdogo na kubadilisha muktadha mara chache kunamaanisha umakini bora.
 *   **Uvinjari Wenye Ufanisi:** Chunguza viungo haraka kwenye matokeo ya utafutaji, mitandao ya kijamii, au makala.
 
-![Kabla na baada ya kuangalia kiungo (dhana)](images/notab1.png)
+![Kabla na baada ya kuangalia kiungo (dhana)](../images/notab1.png)
 
 NoTab ni zana bora ya kukusaidia kuvunja tabia ya kufungua tabo. Inafanya **kuangalia viungo bila kufungua tabo mpya** iwe rahisi sana na yenye kueleweka.
 
 Na vipengele kama muhtasari unaoweza kubadilishwa na hali safi ya usomaji, inakusaidia **kusimamia tabo za kivinjari kwa ufanisi** kwa kushughulikia tatizo kwenye chanzo chake.
 
-![NoTab inasaidia kupunguza tabo](images/notab2.png)
+![NoTab inasaidia kupunguza tabo](../images/notab2.png)
 
 Ni wakati wa kurudisha kivinjari chako kutoka kwa machafuko ya tabo zisizo na mwisho.
 

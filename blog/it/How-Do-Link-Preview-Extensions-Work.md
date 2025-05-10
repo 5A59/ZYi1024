@@ -9,14 +9,14 @@ Fondamentalmente, uno strumento di **anteprima link nel browser** deve recuperar
 3.  **Estrazione e Sanitizzazione del Contenuto:** L'HTML recuperato viene analizzato. L'estensione estrae il contenuto principale (testo, formattazione di base, forse immagini chiave) e spesso lo *sanitizza*, rimuovendo script o stili potenzialmente dannosi per garantire la sicurezza ed evitare che l'anteprima interferisca con la pagina corrente.
 4.  **Visualizzazione in Overlay:** Questo contenuto ripulito viene quindi iniettato in una finestra di overlay temporanea (spesso un `iframe` o un elemento `div`) posizionata vicino al link nella pagina corrente. Questo ti permette di **visualizzare l'anteprima dei link nella pagina corrente**.
 
-![Diagramma del processo di anteprima dei link - concettuale](images/notab1.png) <!-- Conceptual image -->
+![Diagramma del processo di anteprima dei link - concettuale](../images/notab1.png) <!-- Conceptual image -->
 
 Estensioni come NoTab perfezionano questo processo, aggiungendo funzionalità come:
 *   **Modalità Lettura:** Ulteriore elaborazione del contenuto per una maggiore leggibilità.
 *   **Caching:** A volte memorizza temporaneamente le anteprime per una visualizzazione successiva più rapida.
 *   **Personalizzazione:** Consentire agli utenti di controllare i metodi di attivazione e l'aspetto dell'anteprima.
 
-![Interfaccia di NoTab](images/notab2.png)
+![Interfaccia di NoTab](../images/notab2.png)
 
 Capire questo aiuta ad apprezzare come questi strumenti ti permettano di **visualizzare l'anteprima dei siti web prima di aprirli**, risparmiando tempo e risorse. Gestiscono abilmente le richieste web e la visualizzazione per offrire una **anteprima dei link integrata** senza interruzioni.
 

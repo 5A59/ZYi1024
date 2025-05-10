@@ -9,7 +9,7 @@ Imagina que estás leyendo un correo electrónico de trabajo con varios enlaces.
 
 Este simple cambio te mantiene enfocado en la tarea que tienes entre manos.
 
-![Productividad en la oficina con vista previa de enlaces](images/notab1.png)
+![Productividad en la oficina con vista previa de enlaces](../images/notab1.png)
 
 Utilizar una **extensión de Chrome para la vista previa de enlaces** como NoTab es una estrategia clave para **gestionar las pestañas del navegador de forma eficiente** en un entorno profesional. Te permite **previsualizar enlaces sin salir de la página**, minimizando las distracciones.
 
@@ -18,7 +18,7 @@ NoTab es más que un simple visualizador; es una de las **herramientas de produc
 *   **Búsqueda/Traducción Rápida:** Arrastra texto para buscar o traducir sin abrir nuevas pestañas – perfecto para la investigación.
 *   **Vistas Previas Ajustables:** Adapta el tamaño de la ventana de vista previa a tus necesidades.
 
-![Función de búsqueda rápida de NoTab](images/notab2.png)
+![Función de búsqueda rápida de NoTab](../images/notab2.png)
 
 Deja de permitir que el cambio constante de contexto acabe con la eficiencia de tu jornada laboral.
 

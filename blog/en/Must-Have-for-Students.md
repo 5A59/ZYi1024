@@ -9,7 +9,7 @@ Imagine you're writing a paper and need to check multiple sources referenced in 
 
 This is the power of **previewing links without opening new tabs**.
 
-![Student researching with link preview](images/notab1.png)
+![Student researching with link preview](../images/notab1.png)
 
 For students, a tool like NoTab is a true must-have. It acts as a powerful **browser productivity tool**, specifically designed to streamline research:
 *   **Inline Link Preview:** Stay focused on your primary reading material.
@@ -17,7 +17,7 @@ For students, a tool like NoTab is a true must-have. It acts as a powerful **bro
 *   **Quick Search/Translate:** Look up terms or translate snippets instantly by dragging text – no new tabs needed!
 *   **Multi-link Preview:** Compare different sources side-by-side easily.
 
-![NoTab reader mode for research](images/notab2.png)
+![NoTab reader mode for research](../images/notab2.png)
 
 NoTab helps you **stop opening too many tabs**, **save memory**, and ultimately, research more effectively.
 

@@ -6,7 +6,7 @@ Il cuore del caos nel browser deriva spesso dall'aprire schede "nel caso serviss
 
 Invece di aprire, visualizzi l'anteprima. Passa il mouse su un link, guarda il contenuto e decidi *allora* se merita di essere aperto in una nuova scheda. Questa semplice abitudine ti aiuta drasticamente a **decongestionare il tuo browser**.
 
-![Navigazione pulita con l'anteprima dei link](images/notab1.png)
+![Navigazione pulita con l'anteprima dei link](../images/notab1.png)
 
 Come fa questo a organizzare la tua navigazione?
 *   **Meno Schede:** Naturalmente **ridurrai il numero di schede del browser** perché aprirai solo ciò che è veramente necessario.
@@ -15,7 +15,7 @@ Come fa questo a organizzare la tua navigazione?
 
 NoTab è una fantastica **estensione Chrome per l'anteprima dei link** che eccelle nel riordinare le tue abitudini di navigazione. Offre una **visualizzazione inline dei link** fluida, permettendoti di sbirciare nei link senza sforzo.
 
-![Interfaccia di NoTab per l'organizzazione](images/notab2.png)
+![Interfaccia di NoTab per l'organizzazione](../images/notab2.png)
 
 Ti aiuta a **gestire le schede del browser in modo efficiente** prevenendo il caos prima che inizi.
 

@@ -12,13 +12,13 @@ This small change in habit, facilitated by a **link preview extension**, has hug
 *   **Enhances Focus:** Less clutter and context switching means better concentration.
 *   **Efficient Browsing:** Quickly vet links on search results, social media, or articles.
 
-![Before and after link preview (conceptual)](images/notab1.png)
+![Before and after link preview (conceptual)](../images/notab1.png)
 
 NoTab is the perfect tool to help you break the tab-opening habit. It makes **previewing links without opening new tabs** incredibly easy and intuitive.
 
 With features like customizable previews and a clean reader mode, it helps you **manage browser tabs efficiently** by tackling the problem at its source.
 
-![NoTab helping reduce tabs](images/notab2.png)
+![NoTab helping reduce tabs](../images/notab2.png)
 
 It's time to reclaim your browser from the chaos of endless tabs.
 

@@ -10,7 +10,7 @@ Diese Tools ermöglichen es dir, mit der Maus über einen Hyperlink zu fahren (o
 *   Das schnelle Vergleichen von Produktdetails.
 *   Das Erfassen des Kerns eines Artikels, ohne die aktuelle Aufgabe zu verlassen.
 
-![Instant Link Preview](images/notab1.png)
+![Instant Link Preview](../images/notab1.png)
 
 Wenn es um die **beste Link-Vorschau-Erweiterung für Chrome** geht, empfehle ich dir von Herzen NoTab. Sie ist schlank, anpassbar und macht das **Vorschauen von Links, ohne die Seite zu verlassen**, mühelos.
 
@@ -20,7 +20,7 @@ NoTab bietet Funktionen wie:
 *   Einen übersichtlichen Lesemodus für fokussiertes Lesen.
 *   Schnelle Suche und Übersetzung durch Ziehen von Text.
 
-![NoTab Features](images/notab2.png)
+![NoTab Features](../images/notab2.png)
 
 Es verändert die Art und Weise, wie du mit Links interagierst, und macht das Surfen schneller und fokussierter. Beende den endlosen Tab-Öffnungs-Zyklus und beginne mit der Vorschau.
 

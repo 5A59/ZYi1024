@@ -9,7 +9,7 @@ Kwa nini hii ni muhimu kwa tija?
 *   **Okoa Muda:** Amua haraka kama maudhui yanafaa kabla ya kufungua tabo mpya.
 *   **Punguza Matumizi ya Rasilimali:** Tabo chache zinamaanisha kivinjari chenye kasi na chenye afya.
 
-![Hakikisho la kiungo la NoTab likifanya kazi](images/notab1.png)
+![Hakikisho la kiungo la NoTab likifanya kazi](../images/notab1.png)
 
 Moja ya **nyongeza za Chrome bora za kuboresha tija** katika eneo hili ni NoTab. Inakuwezesha **kukagua viungo bila kufungua tabo mpya**, moja kwa moja ndani ya ukurasa wako wa sasa. Ni rahisi sana kutumia na hufanya kuvinjari kujisikie laini na kudhibitiwa zaidi.
 
@@ -17,6 +17,6 @@ Ikiwa unataka **kupunguza mrundiko wa tabo kwenye kivinjari chako** na **kuongez
 
 Angalia NoTab hapa: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Kipengele cha modi ya usomaji ya NoTab](images/notab2.png)
+![Kipengele cha modi ya usomaji ya NoTab](../images/notab2.png)
 
 Ni moja ya **nyongeza bora za kukagua viungo za Chrome** na ni hatua nzuri ya kuanzia kwa mwaka wenye tija zaidi mtandaoni.

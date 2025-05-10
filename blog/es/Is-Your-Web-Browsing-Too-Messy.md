@@ -6,7 +6,7 @@ La raíz del desorden en el navegador a menudo proviene de abrir pestañas "por 
 
 En lugar de abrir, previsualizas. Pasa el cursor sobre un enlace, ve el contenido y decide *entonces* si justifica abrir una pestaña completa. Este simple hábito te ayuda drásticamente a **despejar tu navegador**.
 
-![Navegación limpia con previsualización de enlaces](images/notab1.png)
+![Navegación limpia con previsualización de enlaces](../images/notab1.png)
 
 ¿Cómo organiza esto tu navegación?
 *   **Menos Pestañas:** Naturalmente **reducirás las pestañas del navegador** porque solo abres lo que es verdaderamente necesario.
@@ -15,7 +15,7 @@ En lugar de abrir, previsualizas. Pasa el cursor sobre un enlace, ve el contenid
 
 NoTab es una fantástica **extensión de Chrome para previsualizar enlaces** que destaca en ordenar tus hábitos de navegación. Ofrece una **previsualización de enlaces en línea** fluida, que te permite echar un vistazo a los enlaces sin esfuerzo.
 
-![Interfaz de NoTab para la organización](images/notab2.png)
+![Interfaz de NoTab para la organización](../images/notab2.png)
 
 Te ayuda a **administrar las pestañas del navegador de manera eficiente** previniendo el desorden antes de que comience.
 

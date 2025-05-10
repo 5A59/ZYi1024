@@ -13,7 +13,7 @@ Essas extensões inteligentes permitem que você veja o conteúdo *por trás* de
 *   Avaliar rapidamente a relevância dos links.
 *   **Reduzir a bagunça de abas no Chrome** (e outros navegadores).
 
-![Previewing link without opening tab](images/notab1.png)
+![Previewing link without opening tab](../images/notab1.png)
 
 NoTab é um exemplo perfeito de uma ferramenta assim. Ele oferece uma experiência suave de **visualização prévia de links ao passar o mouse**, tornando fácil espiar os links.
 
@@ -22,7 +22,7 @@ Principais funcionalidades para manter o foco:
 *   **Modo Leitor:** Visualização sem distrações dos artigos linkados.
 *   **Ações Rápidas:** Pesquise ou traduza o texto selecionado instantaneamente.
 
-![NoTab's focus-enhancing features](images/notab2.png)
+![NoTab's focus-enhancing features](../images/notab2.png)
 
 Se o ciclo interminável de abrir abas está drenando seu foco e te atrasando, está na hora de mudar.
 

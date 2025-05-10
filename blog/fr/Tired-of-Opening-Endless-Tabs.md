@@ -13,7 +13,7 @@ C'est exactement ce que les **extensions de prévisualisation de liens** offrent
 *   Évaluer rapidement la pertinence des liens.
 *   **Réduire l'encombrement des onglets dans Chrome** (et autres navigateurs).
 
-![Prévisualisation d'un lien sans ouvrir d'onglet](images/notab1.png)
+![Prévisualisation d'un lien sans ouvrir d'onglet](../images/notab1.png)
 
 NoTab est un parfait exemple d'un tel outil. Il offre une expérience de **prévisualisation de lien au survol** fluide, ce qui rend facile de jeter un coup d'œil aux liens.
 
@@ -23,7 +23,7 @@ Principales fonctionnalités pour rester concentré :
 *   **Mode Lecture :** Visualisation d'articles liés sans distractions.
 *   **Actions Rapides :** Recherchez ou traduisez instantanément le texte sélectionné.
 
-![Fonctionnalités de NoTab améliorant la concentration](images/notab2.png)
+![Fonctionnalités de NoTab améliorant la concentration](../images/notab2.png)
 
 Si le cycle sans fin d'ouverture d'onglets draine votre concentration et vous ralentit, il est temps de changer.
 

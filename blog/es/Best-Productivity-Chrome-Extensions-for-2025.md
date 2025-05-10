@@ -9,7 +9,7 @@ Imagina pasar el ratón sobre un enlace y obtener una vista previa instantánea 
 *   **Ahorra Tiempo:** Decide rápidamente si el contenido es relevante antes de comprometerte a abrir una nueva pestaña.
 *   **Reduce el Consumo de Recursos:** Menos pestañas significan un navegador más rápido y contento.
 
-![Vista previa de enlaces NoTab en acción](images/notab1.png)
+![Vista previa de enlaces NoTab en acción](../images/notab1.png)
 
 Una de las **extensiones de Chrome para la productividad** más destacadas en este ámbito es NoTab. Te permite **previsualizar enlaces sin abrir nuevas pestañas**, directamente en tu página actual. Es increíblemente intuitiva y hace que la navegación se sienta más fluida y controlada.
 
@@ -17,6 +17,6 @@ Si quieres **despejar tu navegador** y **acelerar tu experiencia de navegación*
 
 Echa un vistazo a NoTab aquí: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Función de modo lectura de NoTab](images/notab2.png)
+![Función de modo lectura de NoTab](../images/notab2.png)
 
 Es una de las **mejores extensiones de vista previa de enlaces para Chrome** y un fantástico punto de partida para un año online más productivo.

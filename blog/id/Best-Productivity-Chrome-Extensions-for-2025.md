@@ -9,7 +9,7 @@ Mengapa ini penting untuk produktivitas?
 *   **Hemat Waktu:** Putuskan dengan cepat apakah konten relevan sebelum membuka tab baru.
 *   **Kurangi Beban Sumber Daya:** Lebih sedikit tab berarti peramban yang lebih cepat dan lebih responsif.
 
-![Pratinjau tautan NoTab sedang beraksi](images/notab1.png)
+![Pratinjau tautan NoTab sedang beraksi](../images/notab1.png)
 
 Salah satu **ekstensi Chrome untuk produktivitas** yang menonjol di bidang ini adalah NoTab. Ekstensi ini memungkinkan Anda untuk **melihat pratinjau tautan tanpa membuka tab baru**, langsung di dalam halaman yang sedang Anda buka. Sangat intuitif dan membuat pengalaman menjelajah terasa lebih mulus dan terkontrol.
 
@@ -17,6 +17,6 @@ Jika Anda ingin **membersihkan peramban Anda** dan **mempercepat pengalaman menj
 
 Lihat NoTab di sini: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Fitur mode pembaca NoTab](images/notab2.png)
+![Fitur mode pembaca NoTab](../images/notab2.png)
 
 Ini adalah salah satu **ekstensi pratinjau tautan terbaik untuk Chrome** dan titik awal yang fantastis untuk tahun yang lebih produktif secara online.

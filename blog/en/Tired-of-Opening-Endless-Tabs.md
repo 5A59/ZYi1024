@@ -12,7 +12,7 @@ This is exactly what **link preview extensions** offer. They help you:
 *   Quickly evaluate links for relevance.
 *   **Reduce tab clutter in Chrome** (and other browsers).
 
-![Previewing link without opening tab](images/notab1.png)
+![Previewing link without opening tab](../images/notab1.png)
 
 NoTab is a perfect example of such a tool. It provides a smooth **link hover preview** experience, making it effortless to peek at links.
 
@@ -21,7 +21,7 @@ Key features for staying focused:
 *   **Reader Mode:** Distraction-free view of linked articles.
 *   **Quick Actions:** Search or translate selected text instantly.
 
-![NoTab's focus-enhancing features](images/notab2.png)
+![NoTab's focus-enhancing features](../images/notab2.png)
 
 If the endless cycle of opening tabs is draining your focus and slowing you down, it's time for a change.
 

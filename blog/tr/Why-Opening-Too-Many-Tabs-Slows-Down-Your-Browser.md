@@ -13,7 +13,7 @@ Peki, bilgiye erişimden ödün vermeden bununla nasıl başa çıkarsınız?
 
 İşte **bağlantı önizleme eklentileri** devreye giriyor. Bu araçlar akıllı bir çözüm sunar.
 
-![Kaynak kullanımını gösteren illüstrasyon - kavramsal](images/notab1.png) <!-- Bunun için doğrudan bir görsel bulmak zor olabilir, yer tutucu bir kavram kullanılıyor -->
+![Kaynak kullanımını gösteren illüstrasyon - kavramsal](../images/notab1.png) <!-- Bunun için doğrudan bir görsel bulmak zor olabilir, yer tutucu bir kavram kullanılıyor -->
 
 NoTab gibi eklentiler, her bağlantıyı yeni, kaynak tüketen bir sekmeye tam olarak yüklemek yerine, **yeni sekme açmadan bağlantıları önizlemenize** olanak tanır. Yalnızca hafif bir kaplamada içeriği size göstermek için yeterli bilgiyi getirirler.
 
@@ -24,7 +24,7 @@ Bu, şunları yapabileceğiniz anlamına gelir:
 
 Bir **tarayıcı bağlantı önizleme** aracı kullanmak, **Chrome'daki sekme karmaşasını azaltmanın** (veya diğer tarayıcılardaki) ve performansı artırmanın doğrudan bir yoludur.
 
-![NoTab bir bağlantıyı önizliyor](images/notab2.png)
+![NoTab bir bağlantıyı önizliyor](../images/notab2.png)
 
 Sekme yükünün tarayıcı hızınızı engellemesine izin vermeyin.
 

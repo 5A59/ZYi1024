@@ -10,7 +10,7 @@ Tại sao điều này lại quan trọng đối với năng suất?
 *   **Tiết Kiệm Thời Gian:** Nhanh chóng quyết định xem nội dung có liên quan hay không trước khi mở một tab mới.
 *   **Giảm Tải Tài Nguyên:** Ít tab hơn đồng nghĩa với trình duyệt nhanh hơn và ổn định hơn.
 
-![Bản xem trước liên kết NoTab đang hoạt động](images/notab1.png)
+![Bản xem trước liên kết NoTab đang hoạt động](../images/notab1.png)
 
 Một trong những **tiện ích mở rộng Chrome tăng năng suất** nổi bật trong lĩnh vực này là NoTab. Nó cho phép bạn **xem trước các liên kết mà không cần mở tab mới**, trực tiếp trong trang hiện tại của bạn. Nó cực kỳ trực quan và làm cho việc duyệt web trở nên mượt mà và dễ kiểm soát hơn.
 
@@ -18,6 +18,6 @@ Nếu bạn muốn **dọn dẹp trình duyệt của mình** và **tăng tốc 
 
 Xem NoTab tại đây: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Tính năng chế độ đọc của NoTab](images/notab2.png)
+![Tính năng chế độ đọc của NoTab](../images/notab2.png)
 
 Nó là một trong những **tiện ích mở rộng xem trước liên kết tốt nhất cho Chrome** và là một điểm khởi đầu tuyệt vời cho một năm làm việc hiệu quả hơn trên mạng.

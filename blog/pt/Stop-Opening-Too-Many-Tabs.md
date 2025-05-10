@@ -12,13 +12,13 @@ Essa pequena mudança de hábito, facilitada por uma **extensão de pré-visuali
 *   **Aumenta o Foco:** Menos confusão e troca de contexto significam melhor concentração.
 *   **Navegação Eficiente:** Avalie rapidamente links nos resultados de pesquisa, nas redes sociais ou em artigos.
 
-![Antes e depois da pré-visualização de links (conceitual)](images/notab1.png)
+![Antes e depois da pré-visualização de links (conceitual)](../images/notab1.png)
 
 NoTab é a ferramenta perfeita para te ajudar a quebrar o hábito de abrir abas em excesso. Ele torna a **pré-visualização de links sem abrir novas abas** incrivelmente fácil e intuitiva.
 
 Com recursos como pré-visualizações personalizáveis e um modo de leitura limpo, ele ajuda você a **gerenciar as abas do navegador de forma eficiente**, atacando o problema na sua origem.
 
-![NoTab ajudando a reduzir as abas](images/notab2.png)
+![NoTab ajudando a reduzir as abas](../images/notab2.png)
 
 É hora de libertar seu navegador do caos das abas intermináveis.
 

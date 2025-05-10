@@ -9,14 +9,14 @@ Em sua essência, uma ferramenta de **pré-visualização de links no navegador*
 3.  **Extração e Sanitização do Conteúdo:** O HTML buscado é analisado. A extensão extrai o conteúdo principal (texto, formatação básica, talvez imagens-chave) e frequentemente o *sanitiza*, removendo scripts ou estilos potencialmente prejudiciais para garantir a segurança e evitar que a pré-visualização interfira na página atual.
 4.  **Exibição em Sobreposição:** Este conteúdo limpo é então injetado em uma janela de sobreposição temporária (geralmente um `iframe` ou um elemento `div`) posicionada perto do link na sua página atual. Isso permite que você **pré-visualize links na página atual**.
 
-![Diagrama do processo de pré-visualização de links - conceitual](images/notab1.png) <!-- Conceptual image -->
+![Diagrama do processo de pré-visualização de links - conceitual](../images/notab1.png) <!-- Conceptual image -->
 
 Extensões como o NoTab refinam este processo, adicionando recursos como:
 *   **Modo Leitor:** Processamento adicional do conteúdo para facilitar a leitura.
 *   **Cache:** Armazenamento temporário de pré-visualizações para visualizações subsequentes mais rápidas.
 *   **Personalização:** Permitindo que os usuários controlem os métodos de gatilho e a aparência da pré-visualização.
 
-![Interface do NoTab](images/notab2.png)
+![Interface do NoTab](../images/notab2.png)
 
 Entender isso ajuda a apreciar como essas ferramentas permitem que você **pré-visualize sites antes de abrir**, economizando tempo e recursos. Elas gerenciam inteligentemente as requisições web e a exibição para oferecer uma **pré-visualização de link inline** perfeita.
 

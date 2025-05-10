@@ -9,7 +9,7 @@ Fikiria unasoma barua pepe ya kikazi yenye viungo kadhaa. Badala ya kufungua kil
 
 Mabadiliko haya rahisi hukusaidia kukaa umakini kwenye kazi iliyopo.
 
-![Tija ya ofisi na uchunguliaji wa viungo](images/notab1.png)
+![Tija ya ofisi na uchunguliaji wa viungo](../images/notab1.png)
 
 Kutumia **extension ya Chrome ya kuchungulia viungo** kama NoTab ni mkakati muhimu wa **kusimamia tabo za kivinjari kwa ufanisi** katika mazingira ya kitaalamu. Inakuruhusu **kuchungulia viungo bila kuacha ukurasa**, na hivyo kupunguza usumbufu.
 
@@ -18,7 +18,7 @@ NoTab ni zaidi ya kichunguliaji tu; ni mojawapo ya **zana muhimu za tija za kivi
 *   **Utafutaji/Tafsiri wa Haraka (Quick Search/Translate):** Buruta maandishi ili utafute au utafsiri bila kufungua tabo mpya – inafaa kwa utafiti.
 *   **Uchunguliaji Unaoweza Kurekebishwa (Adjustable Previews):** Rekebisha dirisha la uchunguliaji kulingana na mahitaji yako.
 
-![Kipengele cha utafutaji wa haraka cha NoTab](images/notab2.png)
+![Kipengele cha utafutaji wa haraka cha NoTab](../images/notab2.png)
 
 Acha kuruhusu kubadilisha mazingira ya kazi kuua ufanisi wako wa siku.
 

@@ -12,13 +12,13 @@ Dieser Ansatz bietet mehrere Vorteile:
 *   **Reduzierte kognitive Belastung:** Bleibe auf deine Hauptaufgabe konzentriert.
 *   **Effiziente Ressourcennutzung:** Vermeidet das Laden unnötiger Ressourcen und hilft, **Speicher zu sparen, indem die Anzahl geöffneter Tabs reduziert wird**.
 
-![Link-Hover-Vorschau Beispiel](images/notab1.png)
+![Link-Hover-Vorschau Beispiel](../images/notab1.png)
 
 Diese Technologie ist der Kern dessen, warum **Browser-Link-Vorschau**-Tools so effektiv sind. Sie ermöglichen es dir, **Websites vor dem vollständigen Öffnen in der Vorschau anzuzeigen**, was die Recherche, das Scrollen in sozialen Medien und den Nachrichtenkonsum optimiert.
 
 NoTab nutzt diese Technologie auf elegante Weise und bietet ein reibungsloses und anpassbares **Inline-Link-Vorschau**-Erlebnis.
 
-![NoTab-Vorschau anpassen](images/notab2.png)
+![NoTab-Vorschau anpassen](../images/notab2.png)
 
 Bereit, dieses Browsing-Geheimnis zu lüften?
 

@@ -10,7 +10,7 @@ Hãy tưởng tượng bạn đang đọc một email công việc có chứa nh
 
 Sự thay đổi đơn giản này giúp bạn tập trung vào nhiệm vụ hiện tại.
 
-![Năng suất văn phòng với xem trước liên kết](images/notab1.png)
+![Năng suất văn phòng với xem trước liên kết](../images/notab1.png)
 
 Sử dụng một **tiện ích mở rộng Chrome xem trước liên kết** như NoTab là một chiến lược quan trọng để **quản lý các tab trình duyệt hiệu quả** trong môi trường làm việc chuyên nghiệp. Nó cho phép bạn **xem trước các liên kết mà không cần rời khỏi trang**, giảm thiểu sự xao nhãng.
 
@@ -20,7 +20,7 @@ NoTab không chỉ là một trình xem trước; nó còn là một trong nhữ
 *   **Tìm Kiếm/Dịch Nhanh:** Kéo văn bản để tìm kiếm hoặc dịch mà không cần mở tab mới – hoàn hảo cho việc nghiên cứu.
 *   **Xem Trước Có Thể Điều Chỉnh:** Điều chỉnh kích thước cửa sổ xem trước theo nhu cầu của bạn.
 
-![Tính năng tìm kiếm nhanh của NoTab](images/notab2.png)
+![Tính năng tìm kiếm nhanh của NoTab](../images/notab2.png)
 
 Đừng để việc chuyển đổi ngữ cảnh giết chết hiệu quả làm việc hàng ngày của bạn.
 

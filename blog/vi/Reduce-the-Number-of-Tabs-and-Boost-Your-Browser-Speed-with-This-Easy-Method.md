@@ -10,7 +10,7 @@ Cách tiếp cận này giúp bạn trực tiếp **giảm số lượng tab** b
 *   Xem các bài viết liên quan mà không cần rời khỏi bài bạn đang đọc.
 *   Xác minh liên kết trên mạng xã hội ngay lập tức.
 
-![Xem trước liên kết dễ dàng](images/notab1.png)
+![Xem trước liên kết dễ dàng](../images/notab1.png)
 
 Đây không chỉ là về sự gọn gàng; đó là về hiệu suất. Bằng cách sử dụng một công cụ như **tiện ích mở rộng xem trước liên kết NoTab Chrome**, bạn chủ động **tiết kiệm bộ nhớ bằng cách giảm số lượng tab đang mở**, dẫn đến trải nghiệm duyệt web nhanh hơn đáng kể.
 
@@ -18,6 +18,6 @@ Bạn có thể **quản lý các tab trình duyệt một cách hiệu quả** 
 
 Bạn đã sẵn sàng **tăng tốc độ duyệt web** của mình chưa? Hãy thử NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Cửa sổ xem trước có thể điều chỉnh](images/notab2.png)
+![Cửa sổ xem trước có thể điều chỉnh](../images/notab2.png)
 
 Đừng để tình trạng quá tải tab làm chậm bạn lại. Hãy bắt đầu xem trước!

@@ -12,7 +12,7 @@ So simpel ist es:
 
 Das ist alles! Du erhältst eine sofortige **Link Hover Preview**, ohne wegzunavigieren.
 
-![Demonstration der Inline-Link-Vorschau](images/notab1.png)
+![Demonstration der Inline-Link-Vorschau](../images/notab1.png)
 
 Warum ist das so vorteilhaft?
 *   **Ununterbrochenes Lesen:** Bleibe auf deinen Hauptinhalt konzentriert.
@@ -21,7 +21,7 @@ Warum ist das so vorteilhaft?
 
 NoTab ist meine Top-Empfehlung dafür. Es bietet eine reibungslose und anpassbare Erfahrung für das **Vorschauen von Links, ohne die Seite zu verlassen**. Du kannst die Größe des Vorschaufensters anpassen, einen Lesemodus verwenden und mehr.
 
-![Anpassen von NoTab-Vorschauen](images/notab2.png)
+![Anpassen von NoTab-Vorschauen](../images/notab2.png)
 
 Es ist die unkomplizierteste **Chrome Extension, um Links in der Vorschau anzuzeigen** und die Kunst des Vorschauens auf der aktuellen Seite zu meistern.
 

@@ -8,7 +8,7 @@ This is where **link preview extensions** shine. They embody the "Preview Instea
 
 Imagine reading an article and wanting to check a source. Instead of opening a new tab, breaking your flow, you simply hover or click for an **inline link preview**. You get the info you need and stay put.
 
-![Previewing a link in-page](images/notab1.png)
+![Previewing a link in-page](../images/notab1.png)
 
 This approach is becoming essential for:
 *   **Focused Research:** Quickly vet sources and references.
@@ -17,7 +17,7 @@ This approach is becoming essential for:
 
 NoTab is a fantastic **Chrome extension to preview links**, built entirely around this modern browsing principle. It helps you **reduce browser tabs** and interact with the web more fluidly.
 
-![NoTab's clean preview window](images/notab2.png)
+![NoTab's clean preview window](../images/notab2.png)
 
 Join the trend and experience a cleaner, faster, more focused way to browse.
 

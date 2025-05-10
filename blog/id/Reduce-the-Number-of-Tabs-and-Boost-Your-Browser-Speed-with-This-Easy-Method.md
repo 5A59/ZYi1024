@@ -9,7 +9,7 @@ Pendekatan ini secara langsung membantu Anda **mengurangi jumlah tab** yang perl
 *   Mengecek artikel terkait tanpa meninggalkan artikel yang sedang Anda baca.
 *   Memverifikasi tautan di media sosial secara instan.
 
-![Pratinjau tautan dengan mudah](images/notab1.png)
+![Pratinjau tautan dengan mudah](../images/notab1.png)
 
 Ini bukan hanya soal kerapian; ini tentang performa. Dengan menggunakan alat seperti **ekstensi Chrome pratinjau tautan NoTab**, Anda secara aktif **menghemat memori dengan mengurangi tab yang terbuka**, yang menghasilkan pengalaman browsing yang jauh lebih cepat.
 
@@ -17,6 +17,6 @@ Anda dapat **mengelola tab browser secara efisien** hanya dengan melakukan prati
 
 Siap **mempercepat browsing Anda**? Coba NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Jendela pratinjau yang dapat disesuaikan](images/notab2.png)
+![Jendela pratinjau yang dapat disesuaikan](../images/notab2.png)
 
 Jangan biarkan kelebihan tab memperlambat Anda. Mulai pratinjau!

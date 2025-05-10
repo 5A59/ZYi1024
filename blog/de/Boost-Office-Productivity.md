@@ -9,7 +9,7 @@ Stellen Sie sich vor, Sie lesen eine Arbeits-E-Mail mit mehreren Links. Anstatt 
 
 Diese einfache Änderung hält Sie auf die aktuelle Aufgabe konzentriert.
 
-![Büroproduktivität mit Link-Vorschau](images/notab1.png)
+![Büroproduktivität mit Link-Vorschau](../images/notab1.png)
 
 Die Verwendung einer **Link-Vorschau Chrome-Erweiterung** wie NoTab ist eine Schlüsselstrategie, um **Browser-Tabs effizient zu verwalten** in einem professionellen Umfeld. Sie ermöglicht es Ihnen, **Links in der Vorschau anzuzeigen, ohne die Seite zu verlassen**, wodurch Ablenkungen minimiert werden.
 
@@ -18,7 +18,7 @@ NoTab ist mehr als nur eine Vorschau-Anwendung; es ist eines der wichtigsten **B
 *   **Schnellsuche/Übersetzung:** Ziehen Sie Text, um zu suchen oder zu übersetzen, ohne neue Tabs zu öffnen – perfekt für die Recherche.
 *   **Anpassbare Vorschauen:** Passen Sie das Vorschaufenster an Ihre Bedürfnisse an.
 
-![NoTab Schnellsuche-Funktion](images/notab2.png)
+![NoTab Schnellsuche-Funktion](../images/notab2.png)
 
 Lassen Sie nicht länger zu, dass Kontextwechsel Ihre Effizienz im Arbeitsalltag beeinträchtigen.
 

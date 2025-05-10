@@ -9,7 +9,7 @@ Peki bu neden verimlilik için çok önemli?
 *   **Zamandan Tasarruf Edin:** Yeni bir sekme açmaya karar vermeden önce içeriğin ilgili olup olmadığına hızla karar verin.
 *   **Kaynak Tüketimini Azaltın:** Daha az sekme, daha hızlı ve daha mutlu bir tarayıcı demektir.
 
-![NoTab bağlantı önizleme kullanımda](images/notab1.png)
+![NoTab bağlantı önizleme kullanımda](../images/notab1.png)
 
 Bu alandaki öne çıkan **verimlilik için Chrome eklentilerinden** biri NoTab. NoTab, mevcut sayfanızda, **yeni sekmeler açmadan bağlantıları önizlemenizi** sağlar. İnanılmaz derecede sezgisel ve taramayı daha akıcı ve kontrollü hale getiriyor.
 
@@ -17,6 +17,6 @@ Bu alandaki öne çıkan **verimlilik için Chrome eklentilerinden** biri NoTab.
 
 NoTab'ı buradan inceleyin: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab okuyucu modu özelliği](images/notab2.png)
+![NoTab okuyucu modu özelliği](../images/notab2.png)
 
 Bu, **Chrome için en iyi bağlantı önizleme eklentilerinden** biri ve çevrimiçi daha verimli bir yıla başlamak için harika bir başlangıç noktası.

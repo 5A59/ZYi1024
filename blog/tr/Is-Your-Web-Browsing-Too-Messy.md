@@ -6,7 +6,7 @@ Tarayıcıdaki dağınıklığın temel nedeni, genellikle "belki lazım olur" d
 
 Açmak yerine önizlersiniz. Bir bağlantının üzerine gelin, içeriği görün ve *sonra* tam bir sekmeye değip değmeyeceğine karar verin. Bu basit alışkanlık, **tarayıcınızdaki dağınıklığı gidermenize** önemli ölçüde yardımcı olur.
 
-![Bağlantı önizleme ile temiz gezinme](images/notab1.png)
+![Bağlantı önizleme ile temiz gezinme](../images/notab1.png)
 
 Bu, gezinmenizi nasıl düzenler?
 *   **Daha Az Sekme:** Sadece gerçekten gerekli olanları açacağınız için doğal olarak **tarayıcı sekmelerini azaltırsınız**.
@@ -15,7 +15,7 @@ Bu, gezinmenizi nasıl düzenler?
 
 NoTab, gezinme alışkanlıklarınızı düzeltmede mükemmel olan harika bir **bağlantıları önizlemek için Chrome eklentisidir**. Zahmetsizce bağlantılara göz atmanızı sağlayan akıcı **satır içi bağlantı önizlemesi** sunar.
 
-![NoTab organizasyon arayüzü](images/notab2.png)
+![NoTab organizasyon arayüzü](../images/notab2.png)
 
 Başlamadan önce karmaşayı önleyerek **tarayıcı sekmelerini verimli bir şekilde yönetmenize** yardımcı olur.
 

@@ -11,13 +11,13 @@ Cette approche offre plusieurs avantages :
 *   **Réduction de la Charge Cognitive :** Restez concentré sur votre tâche principale.
 *   **Utilisation Efficace des Ressources :** Évite de charger des ressources inutiles, ce qui permet de **préserver la mémoire en réduisant le nombre d'onglets ouverts**.
 
-![Exemple d'aperçu au survol d'un lien](images/notab1.png)
+![Exemple d'aperçu au survol d'un lien](../images/notab1.png)
 
 Cette technologie est au cœur de l'efficacité des outils d'**aperçu de liens de navigateur**. Ils vous permettent de **prévisualiser des sites web avant de les ouvrir** complètement, rationalisant ainsi la recherche, le défilement des réseaux sociaux et la consultation des actualités.
 
 NoTab utilise cette technologie avec élégance, offrant une expérience d'**aperçu de lien intégré** fluide et personnalisable.
 
-![Personnalisation de l'aperçu NoTab](images/notab2.png)
+![Personnalisation de l'aperçu NoTab](../images/notab2.png)
 
 Prêt à débloquer ce secret de navigation ?
 

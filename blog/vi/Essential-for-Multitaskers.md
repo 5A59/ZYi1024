@@ -10,13 +10,13 @@ Dưới đây là những mẹo đơn giản, được hỗ trợ bởi tính n�
 2.  **Sử Dụng Xem Trước Nội Tuyến:** Chọn các công cụ cho phép bạn **xem trước liên kết ngay trên trang hiện tại**. Điều này giúp công việc chính của bạn luôn được ưu tiên hàng đầu.
 3.  **Tận Dụng Chế Độ Đọc:** Đối với các liên kết có nhiều văn bản, hãy sử dụng chế độ đọc của tiện ích mở rộng xem trước để nhanh chóng nắm bắt nội dung mà không bị phân tâm bởi việc tải toàn bộ trang.
 
-![Đa nhiệm với tính năng xem trước liên kết](images/notab1.png)
+![Đa nhiệm với tính năng xem trước liên kết](../images/notab1.png)
 
 NoTab là một ví dụ tuyệt vời về một **tiện ích mở rộng quản lý tab** được xây dựng cho người đa nhiệm. Nó cho phép bạn **xem trước liên kết một cách liền mạch mà không cần mở tab mới**, giữ cho không gian làm việc của bạn sạch sẽ và sự tập trung của bạn sắc bén.
 
 Các tính năng như điều chỉnh kích thước xem trước và khả năng xem nhiều bản xem trước cùng lúc giúp so sánh thông tin từ nhiều nguồn trở nên dễ dàng hơn bao giờ hết.
 
-![Tính năng xem trước nhiều liên kết của NoTab](images/notab2.png)
+![Tính năng xem trước nhiều liên kết của NoTab](../images/notab2.png)
 
 Đừng để tình trạng quá tải tab cản trở khả năng đa nhiệm của bạn.
 

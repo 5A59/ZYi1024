@@ -10,7 +10,7 @@ Hebu fikiria hili: unapanga safari na unaangalia orodha ya vivutio. Badala ya ku
 *   Angalia haraka saa za kufungua au maeneo.
 *   Amua kama inafaa kuangalia kwa undani zaidi, yote **bila kuondoka kwenye ukurasa**.
 
-![Kuchungulia viungo vya usafiri](images/notab1.png)
+![Kuchungulia viungo vya usafiri](../images/notab1.png)
 
 Hii ni muhimu sana kwa:
 *   **Ununuzi Mtandaoni:** Linganisha bidhaa bega kwa bega bila kuzungusha vichupo.
@@ -24,7 +24,7 @@ NoTab inatoa:
 *   Hali rahisi ya kusoma kwa maandishi safi.
 *   Uwezo wa kuchungulia viungo vingi.
 
-![Chaguo za dirisha la kuchungulia la NoTab](images/notab2.png)
+![Chaguo za dirisha la kuchungulia la NoTab](../images/notab2.png)
 
 Kujua **jinsi ya kuchungulia kiungo bila kukifungua** hubadilisha kazi hizi za kawaida za mtandaoni kutoka kwa kazi ngumu hadi shughuli laini.
 

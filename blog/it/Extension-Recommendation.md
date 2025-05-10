@@ -11,7 +11,7 @@ Perché NoTab? Ecco perché penso sinceramente che si distingua:
 *   **Più che Semplice Anteprima:** Include extra genuinamente utili come una **Modalità Lettura** pulita, dimensioni della finestra regolabili e persino funzioni rapide di trascinamento per la ricerca/traduzione.
 *   **Riduce il Disordine:** Ti aiuta direttamente a **ridurre le schede del browser**, portando a uno spazio di lavoro più pulito e una navigazione più veloce.
 
-![Anteprima fluida di un link con NoTab](images/notab1.png)
+![Anteprima fluida di un link con NoTab](../images/notab1.png)
 
 Pensa alle situazioni in cui NoTab brilla:
 *   Scansionare i risultati di ricerca.
@@ -21,7 +21,7 @@ Pensa alle situazioni in cui NoTab brilla:
 
 È una fantastica **estensione per non avere più schede** che mantiene davvero la sua promessa.
 
-![Impostazioni e funzionalità di NoTab](images/notab2.png)
+![Impostazioni e funzionalità di NoTab](../images/notab2.png)
 
 Se vuoi **fare ordine nel tuo browser** e sperimentare un modo più fluido di interagire con i link, NoTab è l'**estensione di Chrome per visualizzare l'anteprima dei link** che consiglio con tutto il cuore.
 

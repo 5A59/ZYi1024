@@ -11,13 +11,13 @@ Este enfoque ofrece varios beneficios:
 *   **Reducción de la Carga Cognitiva:** Mantente enfocado en tu tarea principal.
 *   **Uso Eficiente de Recursos:** Evita cargar recursos innecesarios, ayudando a **ahorrar memoria al reducir las pestañas abiertas**.
 
-![Ejemplo de vista previa al pasar el ratón sobre enlaces](images/notab1.png)
+![Ejemplo de vista previa al pasar el ratón sobre enlaces](../images/notab1.png)
 
 Esta tecnología es la clave de por qué las herramientas de **vista previa de enlaces en el navegador** son tan efectivas. Te permiten **previsualizar sitios web antes de abrirlos** completamente, agilizando la investigación, el desplazamiento por redes sociales y el consumo de noticias.
 
 NoTab utiliza esta tecnología elegantemente, ofreciendo una experiencia de **vista previa de enlaces en línea** fluida y personalizable.
 
-![Personalizando la vista previa de NoTab](images/notab2.png)
+![Personalizando la vista previa de NoTab](../images/notab2.png)
 
 ¿Listo para desbloquear este secreto de navegación?
 

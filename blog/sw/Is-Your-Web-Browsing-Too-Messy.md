@@ -7,7 +7,7 @@ Kiini cha vurugu ya kivinjari mara nyingi hutoka kwa kufungua vichupo "kwa bahat
 
 Badala ya kufungua, unakagua. Elekeza kipanya juu ya kiungo, ona maudhui, na uamue *wakati huo* ikiwa inastahili kichupo kamili. Tabia hii rahisi husaidia sana **kupunguza mrundikano katika kivinjari chako**.
 
-![Uvumbuzi safi na ukaguzi wa kiungo](images/notab1.png)
+![Uvumbuzi safi na ukaguzi wa kiungo](../images/notab1.png)
 
 Hii hupangaje uvumbuzi wako?
 *   **Vichupo Vichache:** Kwa kawaida **utapunguza vichupo vya kivinjari** kwa sababu unafungua tu kile ambacho ni muhimu kweli.
@@ -16,7 +16,7 @@ Hii hupangaje uvumbuzi wako?
 
 NoTab ni **kiendelezi cha Chrome cha kukagua viungo** ambacho ni bora katika kusafisha tabia zako za kuvinjari. Inatoa **ukaguzi wa kiungo wa ndani** ulio laini, hukuruhusu kuangalia viungo kwa urahisi.
 
-![Kiolesura cha NoTab kwa mpangilio](images/notab2.png)
+![Kiolesura cha NoTab kwa mpangilio](../images/notab2.png)
 
 Inakusaidia **kusimamia vichupo vya kivinjari kwa ufanisi** kwa kuzuia fujo kabla ya kuanza.
 

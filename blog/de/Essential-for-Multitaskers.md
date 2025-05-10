@@ -10,13 +10,13 @@ Hier sind einfache Tipps, die durch Link-Vorschauen unterstützt werden:
 2.  **Nutzen Sie Inline-Vorschauen:** Wählen Sie Tools, mit denen Sie **Links auf der aktuellen Seite in einer Vorschau ansehen** können. So bleibt Ihre Hauptaufgabe im Vordergrund.
 3.  **Verwenden Sie den Lesemodus:** Verwenden Sie für textlastige Links den Lesemodus einer Vorschau-Erweiterung, um den Inhalt schnell zu erfassen, ohne sich durch das vollständige Laden der Seite ablenken zu lassen.
 
-![Multitasking mit Link-Vorschau](images/notab1.png)
+![Multitasking mit Link-Vorschau](../images/notab1.png)
 
 NoTab ist ein fantastisches Beispiel für eine **Tab-Management-Erweiterung**, die für Multitasker entwickelt wurde. Sie ermöglicht es Ihnen, **Links in der Vorschau anzusehen, ohne neue Tabs zu öffnen**, sodass Ihr Arbeitsbereich sauber und Ihr Fokus scharf bleibt.
 
 Funktionen wie anpassbare Vorschaugrößen und die Möglichkeit, mehrere Vorschauen gleichzeitig anzuzeigen, machen den Vergleich von Informationen aus verschiedenen Quellen zum Kinderspiel.
 
-![NoTab Funktion für mehrere Vorschauen](images/notab2.png)
+![NoTab Funktion für mehrere Vorschauen](../images/notab2.png)
 
 Hören Sie auf, sich durch Tab-Überlastung beim Multitasking behindern zu lassen.
 

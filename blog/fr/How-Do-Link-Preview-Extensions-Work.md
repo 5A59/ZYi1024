@@ -9,14 +9,14 @@ Les **extensions de prévisualisation de liens** semblent presque magiques : vou
 3.  **Extraction et assainissement du contenu :** Le HTML récupéré est analysé. L'extension extrait le contenu principal (texte, formatage de base, éventuellement les images clés) et l'*assainit* souvent, en supprimant les scripts ou styles potentiellement dangereux pour garantir la sécurité et empêcher l'aperçu d'interférer avec la page actuelle.
 4.  **Affichage dans une superposition :** Ce contenu nettoyé est ensuite injecté dans une fenêtre de superposition temporaire (souvent un `iframe` ou un élément `div`) positionnée près du lien sur votre page actuelle. Cela vous permet d'**afficher un aperçu des liens directement dans la page**.
 
-![Diagramme du processus de prévisualisation de liens - conceptuel](images/notab1.png) <!-- Image conceptuelle -->
+![Diagramme du processus de prévisualisation de liens - conceptuel](../images/notab1.png) <!-- Image conceptuelle -->
 
 Des extensions comme NoTab affinent ce processus, en ajoutant des fonctionnalités comme :
 *   **Mode Lecteur :** Traitement supplémentaire du contenu pour une meilleure lisibilité.
 *   **Mise en cache :** Stockage temporaire des aperçus pour un affichage plus rapide lors des consultations ultérieures.
 *   **Personnalisation :** Permettre aux utilisateurs de contrôler les méthodes de déclenchement et l'apparence de l'aperçu.
 
-![L'interface de NoTab](images/notab2.png)
+![L'interface de NoTab](../images/notab2.png)
 
 Comprendre cela permet d'apprécier la façon dont ces outils vous permettent de **prévisualiser les sites web avant de les ouvrir**, ce qui permet de gagner du temps et des ressources. Elles gèrent intelligemment les requêtes web et l'affichage pour offrir un **aperçu de lien intégré** fluide.
 

@@ -11,7 +11,7 @@ Pourquoi NoTab ? Voici pourquoi je pense sincèrement qu'elle se démarque :
 *   **Plus Qu'une Simple Prévisualisation :** Elle inclut des extras vraiment utiles, comme un **Mode Lecture** propre, des tailles de fenêtres réglables et même des fonctions de glisser-déposer rapides pour la recherche/traduction.
 *   **Réduit l'Encombrement :** Elle vous aide directement à **réduire le nombre d'onglets du navigateur**, ce qui se traduit par un espace de travail plus propre et une navigation plus rapide.
 
-![NoTab prévisualisant un lien en douceur](images/notab1.png)
+![NoTab prévisualisant un lien en douceur](../images/notab1.png)
 
 Pensez aux situations où NoTab excelle :
 *   Analyser les résultats de recherche.
@@ -21,7 +21,7 @@ Pensez aux situations où NoTab excelle :
 
 C'est une fantastique **extension pour ne plus avoir d'onglets** qui tient vraiment ses promesses.
 
-![Paramètres et fonctionnalités de NoTab](images/notab2.png)
+![Paramètres et fonctionnalités de NoTab](../images/notab2.png)
 
 Si vous voulez **désencombrer votre navigateur** et profiter d'une façon plus fluide d'interagir avec les liens, NoTab est l'**extension Chrome pour prévisualiser les liens** que je vous recommande de tout cœur.
 

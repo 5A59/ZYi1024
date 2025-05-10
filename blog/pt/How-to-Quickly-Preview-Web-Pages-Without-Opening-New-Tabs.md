@@ -9,7 +9,7 @@ Imagine isto: você está planejando uma viagem e olhando uma lista de atraçõe
 *   Verifique rapidamente horários de funcionamento ou localizações.
 *   Decida se vale a pena uma olhada mais profunda, tudo **sem sair da página**.
 
-![Visualizando links de viagem](images/notab1.png)
+![Visualizando links de viagem](../images/notab1.png)
 
 Isto é incrivelmente útil para:
 *   **Compras Online:** Compare produtos lado a lado sem malabarismos com abas.
@@ -23,7 +23,7 @@ O NoTab oferece:
 *   Um modo de leitura útil para texto limpo.
 *   A capacidade de visualizar múltiplos links.
 
-![Opções da janela de visualização do NoTab](images/notab2.png)
+![Opções da janela de visualização do NoTab](../images/notab2.png)
 
 Saber **como visualizar um link sem abri-lo** transforma estas tarefas online comuns de tarefas tediosas em operações tranquilas.
 

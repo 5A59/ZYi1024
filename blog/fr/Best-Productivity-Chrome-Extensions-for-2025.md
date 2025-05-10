@@ -9,7 +9,7 @@ Pourquoi est-ce crucial pour la productivité ?
 *   **Gagnez du Temps :** Décidez rapidement si un contenu est pertinent avant de vous engager à ouvrir un nouvel onglet.
 *   **Réduisez la Consommation de Ressources :** Moins d'onglets signifie un navigateur plus rapide et plus performant.
 
-![Aperçu de liens NoTab en action](images/notab1.png)
+![Aperçu de liens NoTab en action](../images/notab1.png)
 
 NoTab est l'une des **extensions Chrome pour la productivité** qui se démarque dans ce domaine. Elle vous permet de **prévisualiser les liens sans ouvrir de nouveaux onglets**, directement depuis votre page actuelle. Elle est incroyablement intuitive et rend la navigation plus fluide et plus maîtrisée.
 
@@ -17,6 +17,6 @@ Si vous souhaitez **désencombrer votre navigateur** et **accélérer votre navi
 
 Découvrez NoTab ici : [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Fonctionnalité de mode lecture NoTab](images/notab2.png)
+![Fonctionnalité de mode lecture NoTab](../images/notab2.png)
 
 C'est l'une des **meilleures extensions d'aperçu de liens pour Chrome** et un excellent point de départ pour une année en ligne plus productive.

@@ -9,7 +9,7 @@ Why is this crucial for productivity?
 *   **Save Time:** Quickly decide if content is relevant before committing to a new tab.
 *   **Reduce Resource Drain:** Fewer tabs mean a faster, happier browser.
 
-![NoTab link preview in action](images/notab1.png)
+![NoTab link preview in action](../images/notab1.png)
 
 One of the standout **Chrome extensions for productivity** in this space is NoTab. It allows you to **preview links without opening new tabs**, directly within your current page. It's incredibly intuitive and makes browsing feel smoother and more controlled.
 
@@ -17,6 +17,6 @@ If you want to **declutter your browser** and **speed up your browsing** experie
 
 Check out NoTab here: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab reader mode feature](images/notab2.png)
+![NoTab reader mode feature](../images/notab2.png)
 
 It's one of the **best link preview extensions for Chrome** and a fantastic starting point for a more productive year online.

@@ -9,7 +9,7 @@ Por que essa mudança? A troca constante de abas é distraente e ineficiente. Pe
 
 Imagine estar lendo um artigo e querer verificar uma fonte. Em vez de abrir uma nova aba, interrompendo seu fluxo, você simplesmente passa o mouse ou clica para uma **visualização inline do link**. Você obtém a informação que precisa e permanece onde está.
 
-![Visualizando um link na página](images/notab1.png)
+![Visualizando um link na página](../images/notab1.png)
 
 Essa abordagem está se tornando essencial para:
 *   **Pesquisa Focada:** Avalie rapidamente fontes e referências.
@@ -18,7 +18,7 @@ Essa abordagem está se tornando essencial para:
 
 NoTab é uma fantástica **extensão do Chrome para visualizar links**, construída inteiramente em torno desse princípio de navegação moderna. Ela te ajuda a **reduzir as abas do navegador** e interagir com a web de forma mais fluida.
 
-![A janela de visualização limpa do NoTab](images/notab2.png)
+![A janela de visualização limpa do NoTab](../images/notab2.png)
 
 Junte-se à tendência e experimente uma maneira mais limpa, rápida e focada de navegar.
 

@@ -10,13 +10,13 @@ Here are simple tips, powered by link previews:
 2.  **Use Inline Previews:** Choose tools that let you **preview links in the current page**. This keeps your primary task front-and-center.
 3.  **Leverage Reader Mode:** For text-heavy links, use a preview extension's reader mode to quickly grasp the content without the distraction of full page loads.
 
-![Multitasking with link preview](images/notab1.png)
+![Multitasking with link preview](../images/notab1.png)
 
 NoTab is a fantastic example of a **tab management extension** built for multitaskers. It allows you to seamlessly **preview links without opening new tabs**, keeping your workspace clean and your focus sharp.
 
 Features like adjustable preview sizes and the ability to view multiple previews simultaneously make comparing information across sources a breeze.
 
-![NoTab multiple previews feature](images/notab2.png)
+![NoTab multiple previews feature](../images/notab2.png)
 
 Stop letting tab overload hinder your multitasking.
 

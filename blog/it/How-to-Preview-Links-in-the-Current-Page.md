@@ -12,7 +12,7 @@ Ecco quanto è semplice:
 
 Tutto qui! Ottieni un'**anteprima al passaggio del mouse** istantanea senza doverti allontanare dalla pagina.
 
-![Dimostrazione dell'anteprima inline dei link](images/notab1.png)
+![Dimostrazione dell'anteprima inline dei link](../images/notab1.png)
 
 Perché è così vantaggioso?
 *   **Lettura Ininterrotta:** Rimani concentrato sul tuo contenuto principale.
@@ -21,7 +21,7 @@ Perché è così vantaggioso?
 
 NoTab è la mia raccomandazione principale per questo. Offre un'esperienza fluida e personalizzabile per **visualizzare l'anteprima dei link senza lasciare la pagina**. Puoi regolare le dimensioni della finestra di anteprima, utilizzare una modalità di lettura e altro ancora.
 
-![Personalizzazione delle anteprime di NoTab](images/notab2.png)
+![Personalizzazione delle anteprime di NoTab](../images/notab2.png)
 
 È l'**estensione di Chrome più semplice per visualizzare l'anteprima dei link** e padroneggiare l'arte dell'anteprima nella pagina corrente.
 

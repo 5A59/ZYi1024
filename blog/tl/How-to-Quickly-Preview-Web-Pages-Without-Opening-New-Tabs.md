@@ -10,7 +10,7 @@ Isipin mo ito: nagpaplano ka ng isang paglalakbay at tumitingin ka sa isang list
 *   Mabilis mong makikita ang mga oras ng pagbubukas o lokasyon.
 *   Magdedesisyon ka kung ito ay sulit na tingnan nang mas malalim, lahat ng ito **nang hindi umaalis sa pahina**.
 
-![Previewing travel links](images/notab1.png)
+![Previewing travel links](../images/notab1.png)
 
 Ito ay lubhang kapaki-pakinabang para sa:
 *   **Pamimili Online:** Maghambing ng mga produkto nang magkatabi nang hindi kailangang magpalipat-lipat ng mga tab.
@@ -24,7 +24,7 @@ Nag-aalok ang NoTab ng:
 *   Isang madaling gamiting reader mode para sa malinis na teksto.
 *   Ang kakayahang mag-preview ng maraming mga link.
 
-![NoTab preview window options](images/notab2.png)
+![NoTab preview window options](../images/notab2.png)
 
 Ang pag-alam **kung paano mag-preview ng isang link nang hindi ito binubuksan** ay nagpapabago sa mga karaniwang online na gawain na ito mula sa nakakapagod na mga trabaho tungo sa maayos na operasyon.
 

@@ -10,7 +10,7 @@ Alat-alat ini memungkinkan Anda mengarahkan kursor (atau mengeklik, tergantung p
 *   Membandingkan detail produk dengan cepat.
 *   Mendapatkan inti sebuah artikel tanpa meninggalkan tugas Anda saat ini.
 
-![Pratinjau tautan instan](images/notab1.png)
+![Pratinjau tautan instan](../images/notab1.png)
 
 Ketika berbicara tentang **ekstensi pratinjau tautan terbaik untuk Chrome**, saya sungguh merekomendasikan NoTab. Ringan, dapat disesuaikan, dan membuat **melihat pratinjau tautan tanpa meninggalkan halaman** menjadi mudah.
 
@@ -20,7 +20,7 @@ NoTab menawarkan fitur-fitur seperti:
 *   Mode pembaca bebas gangguan untuk membaca dengan fokus.
 *   Pencarian cepat dan terjemahan dengan menyeret teks.
 
-![Fitur NoTab](images/notab2.png)
+![Fitur NoTab](../images/notab2.png)
 
 Ini mengubah cara Anda berinteraksi dengan tautan, membuat penjelajahan lebih cepat dan lebih fokus. Hentikan siklus membuka tab tanpa akhir dan mulailah melihat pratinjau.
 

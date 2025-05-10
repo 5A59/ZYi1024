@@ -10,13 +10,13 @@ Voici des astuces simples, optimisées par l'aperçu des liens :
 2.  **Utilisez les Aperçus Intégrés :** Choisissez des outils qui vous permettent de **prévisualiser les liens sur la page actuelle**. Cela permet de garder votre tâche principale au premier plan.
 3.  **Profitez du Mode Lecteur :** Pour les liens contenant beaucoup de texte, utilisez le mode lecteur d'une extension d'aperçu pour saisir rapidement le contenu sans la distraction du chargement complet de la page.
 
-![Multitasking avec aperçu des liens](images/notab1.png)
+![Multitasking avec aperçu des liens](../images/notab1.png)
 
 NoTab est un exemple fantastique d'**extension de gestion des onglets** conçue pour les personnes multitâches. Elle vous permet de **prévisualiser les liens sans ouvrir de nouveaux onglets**, ce qui maintient votre espace de travail propre et votre concentration optimale.
 
 Des fonctionnalités telles que la taille réglable des aperçus et la possibilité d'afficher plusieurs aperçus simultanément facilitent la comparaison des informations provenant de différentes sources.
 
-![Fonctionnalité d'aperçus multiples de NoTab](images/notab2.png)
+![Fonctionnalité d'aperçus multiples de NoTab](../images/notab2.png)
 
 Cessez de laisser la surcharge d'onglets entraver votre multitâche.
 

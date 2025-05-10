@@ -9,7 +9,7 @@ Bakit ito mahalaga para sa produktibidad?
 *   **Makakatipid ng Oras (Save Time):** Mabilis na magdesisyon kung ang isang content ay may kaugnayan bago magbukas ng bagong tab.
 *   **Bawasan ang Pagkonsumo ng Resources (Reduce Resource Drain):** Mas kaunting tabs, mas mabilis at mas masayang browser.
 
-![NoTab link preview in action](images/notab1.png)
+![NoTab link preview in action](../images/notab1.png)
 
 Isa sa mga kapansin-pansing **Chrome extensions para sa produktibidad** sa kategoryang ito ay ang NoTab. Nagbibigay-daan ito sa iyo na **i-preview ang mga link nang hindi nagbubukas ng bagong tabs**, diretso sa loob ng iyong kasalukuyang page. Napakadali itong gamitin at ginagawang mas maayos at kontrolado ang pagba-browse.
 
@@ -17,6 +17,6 @@ Kung gusto mong **linisin ang iyong browser** at **pabilisin ang iyong browsing 
 
 Tingnan ang NoTab dito: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![NoTab reader mode feature](images/notab2.png)
+![NoTab reader mode feature](../images/notab2.png)
 
 Isa ito sa mga **best link preview extensions para sa Chrome** at isang magandang panimulang punto para sa mas produktibong taon online.

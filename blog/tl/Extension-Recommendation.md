@@ -11,7 +11,7 @@ Bakit NoTab? Narito kung bakit sa tingin ko'y talagang namumukod-tangi ito:
 *   **Higit Pa sa Preview:** Kabilang dito ang talagang kapaki-pakinabang na mga dagdag tulad ng malinis na **Reader Mode**, naaayos na laki ng window, at kahit mabilisang drag-to-search/translate functions.
 *   **Binabawasan ang Kalat:** Direktang tumutulong ito na **bawasan ang mga browser tab**, na humahantong sa mas malinis na workspace at mas mabilis na pagba-browse.
 
-![Maayos na pag-preview ng link ng NoTab](images/notab1.png)
+![Maayos na pag-preview ng link ng NoTab](../images/notab1.png)
 
 Isipin ang mga sitwasyon kung saan gumagana nang husto ang NoTab:
 *   Pag-scan ng mga resulta ng paghahanap.
@@ -21,7 +21,7 @@ Isipin ang mga sitwasyon kung saan gumagana nang husto ang NoTab:
 
 Ito ay isang kamangha-manghang **no more tabs extension** na tunay na tumutupad sa pangako nito.
 
-![Mga setting at feature ng NoTab](images/notab2.png)
+![Mga setting at feature ng NoTab](../images/notab2.png)
 
 Kung gusto mong **linisin ang kalat sa iyong browser** at maranasan ang mas tuluy-tuloy na paraan ng pakikipag-ugnayan sa mga link, ang NoTab ay ang **Chrome extension para mag-preview ng mga link** na buong puso kong inirerekomenda.
 

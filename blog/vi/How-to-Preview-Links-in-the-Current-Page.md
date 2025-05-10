@@ -13,7 +13,7 @@ Quên đi những giải pháp phức tạp. Các tiện ích mở rộng trình
 
 Chỉ đơn giản vậy thôi! Bạn sẽ có ngay **bản xem trước liên kết khi di chuột** mà không cần phải rời khỏi trang hiện tại.
 
-![Minh họa xem trước liên kết trực tiếp](images/notab1.png)
+![Minh họa xem trước liên kết trực tiếp](../images/notab1.png)
 
 Tại sao điều này lại có lợi như vậy?
 *   **Đọc không bị gián đoạn:** Tập trung vào nội dung chính của bạn.
@@ -22,7 +22,7 @@ Tại sao điều này lại có lợi như vậy?
 
 NoTab là gợi ý hàng đầu của tôi cho việc này. Nó cung cấp trải nghiệm mượt mà và có thể tùy chỉnh để **xem trước các liên kết mà không cần rời khỏi trang**. Bạn có thể điều chỉnh kích thước cửa sổ xem trước, sử dụng chế độ đọc và nhiều hơn nữa.
 
-![Tùy chỉnh bản xem trước NoTab](images/notab2.png)
+![Tùy chỉnh bản xem trước NoTab](../images/notab2.png)
 
 Đây là **tiện ích mở rộng Chrome để xem trước liên kết** đơn giản nhất và giúp bạn làm chủ nghệ thuật xem trước ngay trên trang hiện tại.
 

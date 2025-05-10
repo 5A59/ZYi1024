@@ -12,13 +12,13 @@ Thay đổi nhỏ này trong thói quen, được hỗ trợ bởi một **tiệ
 *   **Tăng Cường Sự Tập Trung:** Ít lộn xộn và chuyển đổi ngữ cảnh hơn có nghĩa là sự tập trung tốt hơn.
 *   **Duyệt Web Hiệu Quả:** Nhanh chóng kiểm tra các liên kết trên kết quả tìm kiếm, mạng xã hội hoặc bài viết.
 
-![Trước và sau khi xem trước liên kết (ý tưởng)](images/notab1.png)
+![Trước và sau khi xem trước liên kết (ý tưởng)](../images/notab1.png)
 
 NoTab là công cụ hoàn hảo để giúp bạn phá vỡ thói quen mở tab. Nó giúp **xem trước các liên kết mà không cần mở các tab mới** một cách cực kỳ dễ dàng và trực quan.
 
 Với các tính năng như xem trước tùy chỉnh và chế độ đọc sạch, nó giúp bạn **quản lý các tab trình duyệt hiệu quả** bằng cách giải quyết vấn đề từ gốc.
 
-![NoTab giúp giảm số lượng tab](images/notab2.png)
+![NoTab giúp giảm số lượng tab](../images/notab2.png)
 
 Đã đến lúc giành lại trình duyệt của bạn từ sự hỗn loạn của các tab vô tận.
 

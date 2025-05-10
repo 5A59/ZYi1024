@@ -9,7 +9,7 @@ Cette approche vous aide directement à **réduire le nombre d'onglets** dont vo
 *   Jetez un œil à des articles connexes sans quitter celui que vous êtes en train de lire.
 *   Vérifiez instantanément les liens sur les réseaux sociaux.
 
-![Prévisualisation facile des liens](images/notab1.png)
+![Prévisualisation facile des liens](../images/notab1.png)
 
 Il ne s'agit pas seulement de rangement ; il s'agit de performance. En utilisant un outil comme l'**extension Chrome de prévisualisation de liens** NoTab, vous **économisez activement de la mémoire en réduisant le nombre d'onglets ouverts**, ce qui conduit à une expérience de navigation sensiblement plus rapide.
 
@@ -17,6 +17,6 @@ Vous pouvez **gérer efficacement les onglets de votre navigateur** en les prév
 
 Prêt à **accélérer votre navigation** ? Essayez NoTab : [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Fenêtre de prévisualisation ajustable](images/notab2.png)
+![Fenêtre de prévisualisation ajustable](../images/notab2.png)
 
 Ne laissez plus la surcharge d'onglets vous ralentir. Commencez à prévisualiser !

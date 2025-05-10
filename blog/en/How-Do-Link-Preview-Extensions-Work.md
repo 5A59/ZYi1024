@@ -9,14 +9,14 @@ At its core, a **browser link preview** tool needs to fetch and display content 
 3.  **Content Extraction & Sanitization:** The fetched HTML is parsed. The extension extracts the main content (text, basic formatting, maybe key images) and often *sanitizes* it, removing potentially harmful scripts or styles to ensure security and prevent the preview from interfering with the current page.
 4.  **Display in Overlay:** This cleaned-up content is then injected into a temporary overlay window (often an `iframe` or a `div` element) positioned near the link on your current page. This allows you to **preview links in the current page**.
 
-![Diagram of link preview process - conceptual](images/notab1.png) <!-- Conceptual image -->
+![Diagram of link preview process - conceptual](../images/notab1.png) <!-- Conceptual image -->
 
 Extensions like NoTab refine this process, adding features like:
 *   **Reader Mode:** Further processing the content for readability.
 *   **Caching:** Sometimes storing previews temporarily for faster subsequent views.
 *   **Customization:** Allowing users to control trigger methods and preview appearance.
 
-![NoTab's interface](images/notab2.png)
+![NoTab's interface](../images/notab2.png)
 
 Understanding this helps appreciate how these tools let you **preview websites before opening**, saving time and resources. They cleverly manage web requests and display to offer a seamless **inline link preview**.
 

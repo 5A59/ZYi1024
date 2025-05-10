@@ -11,7 +11,7 @@ NoTab aborda el problema central: la necesidad de ver qué hay en un enlace *sin
 *   **Más Que Solo Previsualización:** Incluye extras genuinamente útiles como un **Modo Lector** limpio, tamaños de ventana ajustables e incluso funciones rápidas de arrastrar para buscar/traducir.
 *   **Reduce el Desorden:** Te ayuda directamente a **reducir las pestañas del navegador**, lo que se traduce en un espacio de trabajo más limpio y una navegación más rápida.
 
-![NoTab previsualizando un enlace sin problemas](images/notab1.png)
+![NoTab previsualizando un enlace sin problemas](../images/notab1.png)
 
 Piensa en situaciones donde NoTab brilla:
 *   Escaneando resultados de búsqueda.
@@ -21,7 +21,7 @@ Piensa en situaciones donde NoTab brilla:
 
 Es una fantástica extensión para **no más pestañas** que realmente cumple su promesa.
 
-![Ajustes y funcionalidades de NoTab](images/notab2.png)
+![Ajustes y funcionalidades de NoTab](../images/notab2.png)
 
 Si quieres **despejar tu navegador** y experimentar una forma más fluida de interactuar con los enlaces, NoTab es la **extensión de Chrome para previsualizar enlaces** que recomiendo de todo corazón.
 

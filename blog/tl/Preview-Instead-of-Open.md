@@ -9,7 +9,7 @@ Dito pumapasok ang **mga extension para sa preview ng links**. Perpekto nilang i
 
 Isipin mong nagbabasa ka ng isang artikulo at gusto mong i-check ang isang source. Imbes na magbukas ng bagong tab, na sisira sa daloy ng pagbabasa mo, i-hover o i-click mo lang ito para sa isang **inline link preview**. Nakukuha mo ang impormasyong kailangan mo at nananatili ka kung nasaan ka.
 
-![Pag-preview ng link sa loob ng pahina](images/notab1.png)
+![Pag-preview ng link sa loob ng pahina](../images/notab1.png)
 
 Ang ganitong paraan ay nagiging mahalaga para sa:
 *   **Pokus na Pananaliksik:** Mabilis na i-vet ang mga sources at references.
@@ -18,7 +18,7 @@ Ang ganitong paraan ay nagiging mahalaga para sa:
 
 Ang NoTab ay isang napakagandang **Chrome extension para sa pag-preview ng links**, na binuo para sa modernong prinsipyong ito ng pagba-browse. Tinutulungan ka nitong **bawasan ang browser tabs** at mas maging tuluy-tuloy ang interaksyon mo sa web.
 
-![Malinis na preview window ng NoTab](images/notab2.png)
+![Malinis na preview window ng NoTab](../images/notab2.png)
 
 Sumali ka na sa uso at maranasan ang mas malinis, mas mabilis, at mas pokus na paraan ng pagba-browse.
 

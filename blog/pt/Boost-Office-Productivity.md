@@ -10,7 +10,7 @@ Imagine ler um e-mail de trabalho com vários links. Em vez de abrir cada um, in
 
 Essa simples mudança mantém você focado na tarefa em mãos.
 
-![Produtividade no escritório com pré-visualização de links](images/notab1.png)
+![Produtividade no escritório com pré-visualização de links](../images/notab1.png)
 
 Usar uma **extensão Chrome de pré-visualização de links** como o NoTab é uma estratégia fundamental para **gerenciar abas do navegador de forma eficiente** em um ambiente profissional. Ele permite que você **visualize links sem sair da página**, minimizando distrações.
 
@@ -19,7 +19,7 @@ O NoTab é mais do que apenas um visualizador; é uma das **ferramentas de produ
 *   **Pesquisa/Tradução Rápida:** Arraste o texto para pesquisar ou traduzir sem abrir novas abas – perfeito para pesquisa.
 *   **Pré-visualizações Ajustáveis:** Ajuste a janela de visualização às suas necessidades.
 
-![Recurso de pesquisa rápida do NoTab](images/notab2.png)
+![Recurso de pesquisa rápida do NoTab](../images/notab2.png)
 
 Pare de deixar a troca de contexto acabar com a eficiência do seu dia de trabalho.
 

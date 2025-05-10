@@ -10,7 +10,7 @@ Este enfoque te ayuda directamente a **reducir el número de pestañas** que nec
 *   Consulta artículos relacionados sin salir del que estás leyendo.
 *   Verifica los enlaces en las redes sociales al instante.
 
-![Previsualizando enlaces fácilmente](images/notab1.png)
+![Previsualizando enlaces fácilmente](../images/notab1.png)
 
 No se trata solo de orden; se trata de rendimiento. Al usar una herramienta como la **extensión NoTab para previsualizar enlaces en Chrome**, **ahorras memoria activamente al reducir las pestañas abiertas**, lo que lleva a una experiencia de navegación notablemente más rápida.
 
@@ -18,6 +18,6 @@ Puedes **gestionar las pestañas del navegador de manera eficiente** simplemente
 
 ¿Listo para **acelerar tu navegación**? Prueba NoTab: [https://notab.wand.tools/](https://notab.wand.tools/)
 
-![Ventana de previsualización ajustable](images/notab2.png)
+![Ventana de previsualización ajustable](../images/notab2.png)
 
 Deja de permitir que la sobrecarga de pestañas te ralentice. ¡Comienza a previsualizar!

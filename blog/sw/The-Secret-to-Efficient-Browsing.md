@@ -12,13 +12,13 @@ Mbinu hii inatoa faida kadhaa:
 *   **Upunguzaji wa Mzigo wa Akili:** Endelea kuzingatia kazi yako kuu.
 *   **Matumizi Bora ya Rasilimali:** Epuka kupakia rasilimali zisizo za lazima, kusaidia **kuokoa kumbukumbu kwa kupunguza tabo zilizo wazi**.
 
-![Mfano wa kukagua kiungo kabla ya kufungua](images/notab1.png)
+![Mfano wa kukagua kiungo kabla ya kufungua](../images/notab1.png)
 
 Teknolojia hii ndio kiini cha kwa nini zana za **kukagua viungo vya kivinjari** zina ufanisi sana. Hukuruhusu **kukagua tovuti kabla ya kuzifungua** kikamilifu, kurahisisha utafiti, kuvinjari mitandao ya kijamii, na matumizi ya habari.
 
 NoTab hutumia teknolojia hii kwa uzuri, ikitoa uzoefu laini na unaoweza kubadilishwa wa **kukagua viungo moja kwa moja**.
 
-![Kubinafsisha kukagua viungo vya NoTab](images/notab2.png)
+![Kubinafsisha kukagua viungo vya NoTab](../images/notab2.png)
 
 Uko tayari kufungua siri hii ya kuvinjari?
 

@@ -11,13 +11,13 @@ Hivi hapa ni vidokezo rahisi, vinavyowezeshwa na hakikisho la viungo:
 2.  **Tumia Hakikisho la Ndani ya Ukurasa:** Chagua zana zinazokuruhusu **kuhakiki viungo kwenye ukurasa wa sasa**. Hii huweka kazi yako kuu mbele na katikati.
 3.  **Tumia Hali ya Usomaji (Reader Mode):** Kwa viungo vyenye maandishi mengi, tumia hali ya usomaji ya kiendelezi cha hakikisho ili kuelewa haraka maudhui bila usumbufu wa upakiaji kamili wa ukurasa.
 
-![Kufanya mambo mengi kwa kutumia hakikisho la kiungo](images/notab1.png)
+![Kufanya mambo mengi kwa kutumia hakikisho la kiungo](../images/notab1.png)
 
 NoTab ni mfano mzuri sana wa **kiendelezi cha usimamizi wa vichupo** kilichoundwa kwa watu wenye shughuli nyingi. Hukuruhusu **kuhakiki viungo bila kufungua vichupo vipya**, na hivyo kuweka nafasi yako ya kazi ikiwa safi na umakini wako ukiwa mkali.
 
 Vipengele kama vile ukubwa wa hakikisho unaoweza kurekebishwa na uwezo wa kutazama hakikisho nyingi kwa wakati mmoja hurahisisha kulinganisha taarifa kutoka vyanzo mbalimbali.
 
-![Kipengele cha hakikisho nyingi cha NoTab](images/notab2.png)
+![Kipengele cha hakikisho nyingi cha NoTab](../images/notab2.png)
 
 Acha kuruhusu kupakia kupita kiasi kwa vichupo kuzuie utendakazi wako.
 

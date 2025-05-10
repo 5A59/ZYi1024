@@ -13,7 +13,7 @@ Kaya, paano mo ito malalabanan nang hindi isinusuko ang access sa information?
 
 Ito ang sagot: **link preview extensions**. Nag-aalok ang mga tools na ito ng isang matalinong solusyon.
 
-![Resource usage illustration - conceptual](images/notab1.png) <!-- Maaaring mahirap humanap ng direktang image para dito, gumamit ng placeholder concept -->
+![Resource usage illustration - conceptual](../images/notab1.png) <!-- Maaaring mahirap humanap ng direktang image para dito, gumamit ng placeholder concept -->
 
 Imbes na i-load nang buo ang bawat link sa isang bagong tab na gutom sa resources, pinapayagan ka ng mga extensions tulad ng NoTab na **i-preview ang mga links nang hindi nagbubukas ng bagong tabs**. Kinukuha lamang nila ang sapat na information para ipakita sa iyo ang content sa isang lightweight overlay.
 
@@ -24,7 +24,7 @@ Ibig sabihin, maaari mong:
 
 Ang paggamit ng isang **browser link preview** tool ay isang direktang paraan para **bawasan ang tab clutter sa Chrome** (o iba pang browsers) at pagbutihin ang performance.
 
-![NoTab previewing a link](images/notab2.png)
+![NoTab previewing a link](../images/notab2.png)
 
 Huwag hayaan na sirain ng tab overload ang bilis ng iyong browser.
 

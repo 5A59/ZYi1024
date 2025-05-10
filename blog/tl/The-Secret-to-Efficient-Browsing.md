@@ -11,13 +11,13 @@ Ang paraang ito ay nag-aalok ng ilang benepisyo:
 *   **Nabawasang Cognitive Load:** Manatiling nakatuon sa iyong pangunahing gawain.
 *   **Mahusay na Paggamit ng Resources:** Iniiwasan ang pagkakarga ng hindi kinakailangang resources, na tumutulong upang **makatipid sa memory sa pamamagitan ng pagbabawas ng mga bukas na tabs**.
 
-![Link hover preview example](images/notab1.png)
+![Link hover preview example](../images/notab1.png)
 
 Ang teknolohiyang ito ang siyang dahilan kung bakit napaka-epektibo ng mga **browser link preview** tools. Hinahayaan ka nitong **i-preview ang mga websites bago buksan** ang mga ito nang ganap, na pinapagaan ang pananaliksik, pag-scroll sa social media, at pagkonsumo ng balita.
 
 Ginagamit ng NoTab ang teknolohiyang ito nang elegante, na nag-aalok ng isang makinis at nako-customize na karanasan sa **inline link preview**.
 
-![Customizing NoTab preview](images/notab2.png)
+![Customizing NoTab preview](../images/notab2.png)
 
 Handa ka na bang buksan ang sikretong ito sa pag-browse?
 
