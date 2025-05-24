@@ -18,6 +18,10 @@ The only thing we have to fear is fear itself.
 在当前页面预览链接，告别标签海
 🔗 [访问链接](https://notab.wand.tools)
 
+#### Viddo
+一键把视频转文章
+🔗 [访问链接](https://viddo.pro)
+
 #### CKNote
 网页划线高亮、批注、笔记工具
 🔗 [访问链接](https://cknote.com)
@@ -30,10 +34,6 @@ The only thing we have to fear is fear itself.
 一键填充表单，解决繁琐的填写烦恼
 🔗 [访问链接](https://formilot.com)
 
-#### talkto.ceo
-和 AI CEO 对话，解决你的烦恼
-🔗 [访问链接](https://talkto.ceo)
-
 ### 🌟 开源项目
 
 #### Zvm
@@ -45,7 +45,7 @@ The only thing we have to fear is fear itself.
 #### SimpleSEO
 极简SEO教程
 - 🔗 [GitHub](https://github.com/5A59/SimpleSEO)
-- ⭐ Stars: 0
+- ⭐ Stars: 25
 - 💻 Language: Markdown
 
 #### Android-Train
@@ -90,6 +90,10 @@ A collection of AI tools
 Preview links in the current page
 🔗 [Visit](https://notab.wand.tools)
 
+#### Viddo
+Turn video into article in one click
+🔗 [Visit](https://viddo.pro)
+
 #### CKNote
 Highlight, Annotation, Preview in Web Page
 🔗 [Visit](https://cknote.com)
@@ -102,10 +106,6 @@ One-stop startup your business
 One-click form filling, solving tedious form-filling problems
 🔗 [Visit](https://formilot.com)
 
-#### talkto.ceo
-Chat with AI CEO to solve your problems
-🔗 [Visit](https://talkto.ceo)
-
 ### 🌟 Open Source Projects
 
 #### Zvm
@@ -117,7 +117,7 @@ An "ultra-lightweight" JVM implementation in Python
 #### SimpleSEO
 Simple SEO tutorial
 - 🔗 [GitHub](https://github.com/5A59/SimpleSEO)
-- ⭐ Stars: 0
+- ⭐ Stars: 25
 - 💻 Language: Markdown
 
 #### Android-Train
