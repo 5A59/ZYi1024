@@ -37,6 +37,7 @@ export const siteConfig = {
         en: "Turn video into article in one click"
       },
       link: "https://viddo.pro",
+      icon: "https://viddo.pro/icon.png"
     },
     {
       name: "CKNote",
