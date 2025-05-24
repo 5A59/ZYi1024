@@ -31,6 +31,14 @@ export const siteConfig = {
       icon: "https://notab.wand.tools/icon.png"
     },
     {
+      name: "Viddo",
+      description: {
+        zh: "一键把视频转文章",
+        en: "Turn video into article in one click"
+      },
+      link: "https://viddo.pro",
+    },
+    {
       name: "CKNote",
       description: {
         zh: "网页划线高亮、批注、笔记工具",
@@ -57,7 +65,8 @@ export const siteConfig = {
       link: "https://formilot.com",
       icon: "https://formilot.com/icon.png"
     },
-
+  ],
+  smallProducts: [
     {
       name: "talkto.ceo",
       description: {
@@ -65,17 +74,6 @@ export const siteConfig = {
         en: "Chat with AI CEO to solve your problems"
       },
       link: "https://talkto.ceo",
-    }
-  ],
-  smallProducts: [
-    {
-      name: "bukaopu",
-      description: {
-        zh: "不靠谱头像",
-        en: "Unreliable avatar"
-      },
-      link: "https://bukaopu.wand.tools",
-      icon: "https://bukaopu.wand.tools/icon.png"
     },
     {
       name: "manusgpt",
@@ -115,7 +113,7 @@ export const siteConfig = {
         en: "Simple SEO tutorial"
       },
       link: "https://github.com/5A59/SimpleSEO",
-      stars: "0",
+      stars: "25",
       language: "Markdown"
     },
     {
